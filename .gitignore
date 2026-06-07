@@ -18,3 +18,7 @@ chroma/
 
 # macOS
 .DS_Store
+
+# Demo artifacts
+demo_output.txt
+demo_script.txt

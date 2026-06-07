@@ -20,5 +20,6 @@ chroma/
 .DS_Store
 
 # Demo artifacts
+demo.py
 demo_output.txt
 demo_script.txt

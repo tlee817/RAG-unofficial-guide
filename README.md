@@ -2,6 +2,8 @@
 
 **Demo video:** https://youtu.be/S4wJ7lR6gqw
 
+https://github.com/tlee817/RAG-unofficial-guide/raw/main/RAG_demo.mp4
+
 ---
 
 ## Domain

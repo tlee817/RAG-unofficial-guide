@@ -1,0 +1,519 @@
+Quarter: Spring 2022
+Grade: A-
+June 7, 2022
+Glenn Reinman. I was initially debating doing 33 this quarter, but everybody and their mother told me to take the course with Reinman. I scoured through Bruinwalk reviews, and I was super sure about my decision...well, till I wasn't.
+
+My experience with this class (and most peers in Spring 2022) was extremely different from past years, at least going off Bruinwalk:
+
+Class: Reinman follows flipped lecture, where he gives about ~2 hours of prerecorded content a week and follows up on the content/takes Q&A during the allotted lecture time. These pre-lecture videos are practically just slides with an audio tape, and they're incredibly content-heavy. 5 minutes feel like 20, and I personally really disliked - for the most part, there was no explanation and it was just him reading off the slides. If I had an hour to live, I'd spend them watching these because they felt like eternities in the passing.
+
+The slides aren't like Carey's, either, which you could self-study from. In class, however, he does a fairly good deal going over the questions that students asked, and I think he mostly answered all questions directed at him. I'm personally not a fan of 2 hour lectures, but that's certainly not on Reinman.
+
+The class is, in my opinion, a terrible adaption of CMU's CS 213, and shortened to fit in the quarter system. But it really shouldn't.
+
+1. Primary Labs (Data, Bomb, Attack, Parallel): 32% (8% each) + Warmup Lab (3%) = 35%
+
+The labs were most likely my favorite bit of the class. The first three labs are standard CS:APP content, whereas the parallel lab is unique to CS 33. I'd wager the data lab was the hardest by far, but the bomb and attack labs were the most fun. The parallel lab was mostly a joke (I think the TA made it simpler?) and most people I know got it done with in 2 hours, tops.
+
+2. Homework: 5% and Discussion Sections: 10%
+
+Both based on completion. The homework material was fairly represented on the tests, so I'd recommend doing them yourself. The discussion sections being mandatory high-key sucked, but the LA worksheets we covered were probably the most clutch thing to happen to this course. They go over practically all the kinds of problems, and our batch created a master doc with solutions, which really helped understand a bunch of concepts. 11/10 for the LAs. Try enrolling in Salekh's section if possible, he's probably the best teacher this course can have.
+
+3. Midterm: 20%
+
+I have no idea what on god's green earth happened here. Reinman seems overly obsessed with academic integrity, so he made six different versions of the exam, and gave everyone only 40 minutes to attempt them. It was awful, it was abysmal, and the class average was 49 ("lowest in his 20+ years @ UCLA") Regrades haven't been considered and we've already taken the final. He's mentioned that he'll lower the weight of the midterm based on final performance and he'll be curving, but we'll have to wait and see how that pans out.
+
+4. Final: 30%
+
+Reinman probably realized he screwed up during the midterm, so the final was a much better level, props to him for that. I'd say the expected class average is going to be around 65 - which doesn't sound excellent - but after that midterm, I'm going to take this with my arms wide open and all my heart.
+
+Reinman just seemed strangely convinced that people were cheating throughout the course. If you did poorly, he'd explain how we should know everything (this problem was on the hw, this problem was done in class, etc.), but if you did well - like the class did on the bomb lab- he found it sus that everyone got near-full scores on the lab. I found this extremely silly, because he compared a 40 minute clusterfuck of an examination to a good lab where we could consult TAs, and spend two weeks working on it.
+
+In terms of workload, I'd wager the class peaks in workload around the bomb lab/midterm, and strongly plateaus post that. Weeks 7 through 10 are super easy in terms of content, labs, homeworks, and you can easily cruise and focus on other classes during that time.
+
+The man nearly bombed my GPA, attacked my integrity, but with all the data I have: I'll probably end up with an A-. I can't think of any parallel puns atm, but idk. I surely didn't enjoy CS 33 with Reinman.
+
+Edit: Insanely nonsensical grading scheme too. Only gave out 35% A+/A/A-s this quarter, so don't raise your hopes off past grading distributions.
+
+Quarter: Spring 2022
+Grade: B-
+June 21, 2022
+Don't count on the massive curve he's given historically, it didn't show up in Spring 2022 when everyone bombed the midterm. (edit: apparently he never set up the proper grade weights in Bruinlearn, so all of our grades were incorrect the whole time and we just didn't know)
+
+I have seen some people saying he's unfair in how much he accused the class of cheating, but in my opinion he was probably right.
+
+Quarter: Spring 2022
+Grade: A-
+June 21, 2022
+Lectures: CS 33 under Reinman was a flipped classroom structure in which you watch a lecture video before attending the actual lecture. This proved to be an awful structure - it was time consuming, yet Reinman was a very confusing lecturer, meaning that despite having to spend 6+ hours listening to lectures per week, you were unlikely to understand the material that well. To make things worse, some of the material on the exam only appeared in Reinman's in person lecture, so you had to attend them. It doesn't help that Reinman is not very engaging either.
+Labs/Homeworks: Homework consists of textbook problems. Labs consist of the Data, Bomb, Attack, and Parallel Lab - the first three are copied from CMU's 15-213 class. I honestly enjoyed Bomb and Attack lab, however data lab was very difficult due to the lack of hints, and parallel lab was just stupid - there was really only one way to approach the lab which was given away by the TA, so why bother? Also, the latter three labs all have extra credit - make sure to get them.
+Discussion: They are mandatory, however, even if they were not, they're 100% worth going. The TA's really do hard carry this class - they explain better than Reinman, and provide worksheets that are good practice for the Exams.
+Exams: What the fuck happened here. The midterm was only 40 minutes long, and consisted of 4 very hard questions. The average for this midterm was a 49. The final was a bit better, but was still very difficult with the average being a 62. As stated before, the final involved material covered only in Reinman's very dry in person lecture, so the final still didn't feel all that fair tbh.
+Reinman's Attitude: Reinman's attitude this quarter was something. After the first midterm, Reinman sent two very condescending emails accusing most of the class of cheating due to the low averages on the midterm, while failing to take into account the lack of time on the midterm as well as the very difficult and confusing nature of the questions. After the final, Reinman once again sent a condescending email, this time complaining about the poor course evaluations he received. Reinman, if you are reading this, maybe try being less condescending and take some responsibility for the issues with this class for once!
+Grading: The curves on Bruinwalk are a lie. The actual curve was a roughly 33 - 33 - 33 distribution for A, B and C grades respectively (+'s and -'s included).
+Overall I wouldn't recommend Reinman - he was not a good lecturer and was very condescending as well. That said, Spring is still the most convenient quarter to take CS 33 for most CS students, and CS 33 is a hard class regardless, so I don't think avoiding Reinman and taking Nowatzki in the fall is a must either. However, do consider the pros and cons of this class before taking it.
+
+Quarter: Spring 2022
+Grade: B-
+June 19, 2022
+Other reviews said it better, and in more detail. But this was a terribly executed class throughout the quarter. Something must have been off this time because it seems like it has usually gone better for Reinman.
+
+You can make your way along, understand the material very well and get 100% on every lab, yet still bomb the exams because they're poorly written and difficult to prepare for.... especially the catastrophe of that midterm.
+
+In general, the exam questions felt arbitrary and the grading scheme nonsensical for a computer science class. Furthermore, the professor was honestly degrading the way he spoke about it, accusing people of cheating and incompetence.
+
+It could've been an off quarter for Reinman, but I'd avoid for the future to be safe. It was a really bad experience from start to finish.
+
+Quarter: Spring 2020
+Grade: A-
+COVID-19
+June 7, 2020
+Note: this review was made in Spring 2020, a special year with a lot of discerning events. I did not take the CS33 final and cannot comment on it. For that part of the class, discard my review.
+
+Glenn is great; the wave of reviews should comfort you. It's also simple to do well in his class, if you are diligent and work properly.
+
+This is the very class that, if you attend lectures, start your work early, read your assignments properly, and check what you turn in thoroughly, you will GET AN A. People say this for a lot of classes but it's TRUE for Glenn.
+
+Glenn is also very understanding and reasonable. Just super cool in general.
+
+I got a 0 on the Parallel lab, but still got an A- because of extra credit from before. Yes - take extra credit on labs, in case you do screw up big-time elsewhere. Extra credit for the Bomb lab is especially easy (Attack lab, maybe not so much).
+
+Also, please read lab specs carefully... that's why I got a 0, haha.
+
+This is also the class where CS becomes *partly* less interesting than before. If you find it hard to just be a diligent student and pay attention, and you don't have any crazy environment, then it's not that CS is wrong for you - it's that you need to improve as a student. CS33 with Glenn is very accomodating for students, and it also has very important topics that you must digest.
+
+Quarter: Spring 2021
+Grade: A
+COVID-19
+June 10, 2021
+The content of this class is very useful for understanding the computer system as a whole. But who the heck said that this is easier than CS 32...I even think the workload is higher because of the flipped mode (pre-lec recordings + lectures). Rienman is a nice dude but to be honest, he didn't explain the content very well.
+
+Quarter: Spring 2022
+Grade: A
+June 19, 2022
+I think a lot of people will disagree with me, but overall I think the class was good. I learned a lot and there were many opportunities to succeed in the labs which is 35% of your grade (and extra credit on the bomb lab and parallel lab). I was disappointed by the lack of partial credit given on the midterm, which definitely was an area that Reinman and the TAs did not do well this quarter. He only gave us 40 minutes to complete the test which difficulty-wise was do-able, but most people including myself ran out of time. Since no partial credit was given, there were hundreds of regrade requests which weren't resolved till close to the final. On the final, Reinman compensated for the low midterm scores by including one of the exact midterm questions on it. Final was difficult but doable (problems started easy and got harder but each was only worth 10/15 pts regardless of difficulty). Over 60% of people missed the exact copy of the midterm question on the final, so take that into consideration when you read other peoples reviews (aka some people just didn't study and it showed).
+
+If you do the labs honestly (or at least learn how to do them: especially the bomb lab and attack lab!) and study the midterm material, you can succeed in this class. I got a D on the midterm and a B on the final and was able to end with an A. He will make your final worth more if you do better on the final and he curves generously so around 35% students get an A/A+.
+
+Reinman uses a flipped classroom but honestly I wouldn't expect that to stay since apparently a bunch of students gave him terrible reviews on it. Kinda sucks for students taking it in the future because now it will be important to attend all in-person lectures instead of just watching videos for the core content. Definitely pay attention to in-class examples. Reinman is a fair teacher, he is willing to help you if you put in the work. He is pretty suspicious of cheating all the time, but he has a reason to be. The class is the same in many colleges so there are slides, practice tests, and lab guides to reference. If you choose to use online lab solutions, you'll do well on the labs but make sure you can put it into practice by hand because you'll have to on tests.
+
+Quarter: Spring 2020
+Grade: A+
+COVID-19
+June 11, 2020
+A lot of people say that CS 33 is easier than CS 32. I definitely did not find that to be the case. Where CS 32 is practical application of quick to learn concepts, CS 33 is dense in theory.
+Note: This review is of Spring 2020 which was a special remote learning quarter due to the pandemic. Some things may be different in person.
+
+TLDR; if you have to take this class, take it with Professor Reinman.
+
+Instruction: Professor Reinman, as noted by many reviews, uses the flipped-classroom approach. You'll have anywhere from a 30 to 70 minute video to watch before each lecture. If you understand that, you get context for the class and can ask doubts which the professor answers quite meticulously. While it's officially called flipped classroom, it's more like saying that the professor gave you the slides of what he's going to go over in the class beforehand... attached with an audio file. I personally found it easier to keep engaged in the class since the material is so dense I'd have to go over it multiple times.
+
+Labs: You will most likely have data lab (binary manipulation of integers), bomb lab (finding answers to a "bomb" puzzle using GNU debugger and interpreting x86 assembly), attack lab (manipulating your input in a way that circumvents design of a C program), and parallel lab (given some C code, you have to optimize it using optimization techniques and parallel programming). All of the last three labs have extra credit, even if the professor doesn't say so initially. Make sure that you grab all of that; it might end up being very handy. In terms of difficulty, Data lab > bomblab > attack lab > parallel lab (personally that's what I think. but most would agree that data lab was the hardest).
+
+Keep in mind if the professor opens up some assembly code in the first class and talks about it like you should know all of it somehow beforehand, it would be nice to know that he'll teach everything about that and there's no need to worry.
+
+Midterm and Final: There is just one midterm for the course, so make sure you do that well. Due to the special circumstances, I was able to opt out of the final, so I can not say much about that. But the midterm was to the point, however a little tricky here and there. Make sure you have a good understanding of the concepts; ask as many doubts as you have. If you do the labs yourself, you'll be fine for midterm. Would definitely recommend the LA worksheets as well. (Thank you LAs for your help).
+
+The course is well constructed. It may look useless at first, specially coming from something like CS 32, but will end up changing the way you code for optimizations that don't involve algorithmic changes. Professor Reinman is great; he maintains a cheery attitude and genuinely tries his best to help everyone succeed.
+
+Quarter: Spring 2020
+Grade: A
+COVID-19
+June 7, 2020
+LONG LIVE REINMAN!!!!!!!!!
+GOD BLESS THIS MAN
+
+Quarter: Spring 2022
+Grade: C-
+June 19, 2022
+Since this was the first class back in person after covid, I believe Reinman was a bit disoriented on the way to teach the class and the expectations he had for us. He uses the flipped classroom method where you watch a video (presumably) beforehand and then attend lecture. Many never attended lecture because they could just watch the video, however it is helpful to go to gain a better understanding by asking and listening to others' questions. Reinman does very little preparation for his lectures. Towards the end of the class, he did not even use his own slides and often got confused while explaining the material. He doesn't even have a laser pointer!
+
+Without going into deep technicality, the majority of the grade was the midterm and the final with very little weight given to labs and homeworks ( he emphasized that we can finish those through "other means", so they're not a good determiner of what you know). The format of the midterm was honestly a big mistake, and Reinman himself apologizes for it. However, know that he expects you to know exam-type questions without going over any sort of review of what the format is going to be on the midterm. For this, you must go to professor and TA office hours (Salekh is the best TA!). The final was fair, in my opinion. We had enough time for the exam and we had experience from the midterm on what the format would be like.
+
+You have two weeks to complete labs and one week to do homeworks which was more than enough if you did a little every day. That being said, Reinman often brought up that our bad performance on exams was a result of us cheating on labs and homework assignments. Given that we had more time to do those assignments and ask for help, this statement obviously does not make any sense.
+
+Overall, you would need to get a lot of outside help and go out of your way to prepare beforehand for exams if you take this professor. Honestly, I am in disbelief at how Reinman chose to teach the class this quarter, and I hope he can learn from his mistakes for future quarters.
+
+Quarter: Spring 2022
+Grade: A
+June 19, 2022
+I feel like walking away from this class, I learned a lot about assembly and also learned really cool topics surrounding buffer overflow attacks and examining memory in complex ways. The labs were the highlight of this class for me, specifically the bomb lab and the attack lab, which I think both of would be very hard to cheat on other than just using someone else to do them for you.
+
+Outside of those labs, I really struggled to pay attention or focus in this class whatsoever. I took smallberg in a completely virtual format in fall and nachenberg in a completely in person format in winter, and excelled in both, so you’d think a flipped classroom would be a combination of both of these and I would be able to focus well. Not the case. The pre class lecture videos are very mundane and are nail biters to suffer through, but they are where a majority of the learning will happen. In actual lecture time, looking around the room I saw minesweeper, google QuickDraw, working on other classes, and sleeping. I can’t blame any of these actions, as picking out what was actually useful or needed during lecture time was about as hard as finding a needle in a haystack. In class examples were very important to do well on exams, but I’d usually be so checked out at the completely random moments these were gone over that I completely missed them. I’d definitely enjoy some level of linearity or normal thought progression during lecture time rather than the scatterbrained nature of the class, and I think that would help to keep peoples attention to a much greater degree. I don’t think a flipped lecture is entirely the issue, but it did not work for this professor and his teaching style. It could work if the professor is very adamant about it being efficient, but I don’t believe it is the best for his students.
+
+Exams:
+Midterm was a shitshow, I think that’s very clear from other reviews and the professor himself. There was a slight lack of responsibility and a pointing finger nature at his students regarding this exam, but I don’t think this was the professors intention whatsoever. He definitely understood his mistakes, and this was clear from the final, where he even very generously re used a problem from the midterm that every sane student should have looked over and learned how to do.
+
+The professor was a very knowledgeable and smart person, who was enjoyable to talk to about a variety of topics, however I think the exams and style for teaching need a harsh re evaluation and this quarter may have served as a wake up call.
+
+In terms of getting a good grade, this quarter seems to have been an anomaly and I would say it’s a bit harder to get an A without studying or putting in too much effort like cs31 and cs32.
+
+Quarter: Spring 2022
+Grade: A+
+June 19, 2022
+Now I understand why people always tell you bruinwalk reviews are polarized. I didn’t like the midterm it was too short (40 mins were given), and did terrible on it. However, I started reviewing for the final a lot earlier , I showed up to his office hours asking questions and I redid the projects. I found him very patient and helpful. Many others don’t think this way , but I actually enjoyed the labs (especially the bomb lab and attack lab ) , they’re pretty interesting and helpful in solidifying the concepts. I also showed up to all the discussions ( which I think should be made optional , as you have other better things to do sometimes) and eventually ended with an A+. I think Reinman definitely replaced my midterm with final. In terms of lab reuse , while I’m not a big fan of old labs being reused, I’m also against those who just googled it , at the end of the day it’s against your own learning(which really matters in the long run) if you simply look up the solutions online. I think I put in the hard work and I’m satisfied with what I got, I learned so much in this class
+
+Quarter: Spring 2022
+Grade: B-
+June 19, 2022
+There will likely be a number of reviews for Reinman from Spring 22, so I will just briefly sum up the extensive problems from his teaching of this course:
+
+Exams - The average on the midterm was a 49.54, and the final was a 62.82. Standard deviation was 23.39 and 20.76 respectively.
+
+Reinman admitted that less than 10% of students got one of the 4 midterm questions correct--but rather than eliminating that question or taking responsibility for the low score, he doubled down, saying that he suspected students who were doing well on labs but not on the exams were cheating. This midterm question in particular was very similar to a homework question that we got a full week to complete, and only about 12 minutes to complete on this exam. A later announcement said he was "not satisfied" with the midterm and that he "wants you all to do better".
+
+The final exam was a similar story, just with a somewhat better grading scheme--still, when 40% of people got a similar question wrong, he called it "a shame" and asked "whether you really did the labs".
+
+Cheating Accusations - The average scores for the labs was close to an A+, while the combined exam average was a 56. Reinman repeatedly expressed that he believed the class was not truly doing the labs, suggesting that students were copying from others.
+
+As a result of this, Reinman said that final grades would be curved based only on your improvement between the midterm and the final, stating that "Labs and homework are great, but I cannot have ensured that you worked on those on your own. So there is no replacement for the exams." Thus, the "only real measure of our performance" were two low-score, often unrealistic exams, one of which he admitted was "one of the lowest averages (if not the lowest) of any test I've ever given in my 20+ years at UCLA."
+
+So--the dozens of hours many students put in to ensure that their lab grades were good enough to offset the unrealistically difficult exams? Probably cheating, says Reinman. It won't factor into your curve.
+
+Oh, and Reinman was so mad about his poor evaluations from this quarter that he took the time to send us an announcement addressing an evaluation from a student that he copied verbatim from MyUCLA (as a reminder, Evaluations of Instruction claim to be "anonymous and confidential" and require students to sign off as such.) Some quotes from this announcement:
+- "One student complained that they learned nothing from the class - which I find hard to believe, at least they should have learned not to take a class with me again"
+- "It is pretty hypocritical for someone to cheat on the labs and then tell me that I don't care."
+
+Overall, my hard work didn't matter (I got curved up by a single point), I spent countless hours trudging through assembly code just to be accused of cheating with no evidence, and Reinman still thought it necessary to complain about his poor reviews. Don't recommend.
+
+Quarter: Spring 2021
+Grade: B+
+COVID-19
+June 17, 2021
+To be honest, from the very start of this class and to the very end, I absolutely despised this class. As the quarter went on, the class just continued to take and take from me. It took my sanity, it took my time, it took my sleep, it took my thoughts, my hopes and fears and dreams and aspirations, anything that I had, was gone into the endless void that is CS33.
+
+So why did I give this class and Reinman a 5/5 here on the Walk of Bruins?
+
+I truly believe that, as difficult as this class is, if you put in the work, you'll get the grade you want. (woop dee doo, what a shocker)
+
+The class, and I believe I can speak for many of my peers, started to truly go downhill right after the midterm, when the 'original' average for the 8 pm midterm was a 48% (which was brought up to a 67% after partial credit was given out), but I think seeing such a ridiculously low average really shocked everyone (including Reinman) into really busting their chops for the final.
+
+I got a literal 10% on the first midterm because I made the mistake of not submitting more detailed work to squeeze out that partial credit.
+
+So, with promises of a generous curve, a readjustment of weights for the exams, and extra credit on labs, I decided not to drop the class.
+
+Well, I'm not gonna tell my whole story since it literally involves me sitting down for hours a day just rewatching lectures, practicing labs, and doing the LA worksheets.
+
+Fast forward to the final, I managed to pull out a 64% on the final, with the class average being something a lot higher probably, since some of ya'll are just assembly geniuses, but for the below average assembly person like me, I was very happy with my grade.
+
+I was honestly expecting to receive about a C to a C+ since the exams category is a whopping 50% of your grade
+
+I ended with a B+ in the class.
+
+And the big shocker too, Reinman decided not to curve the class this quarter since apparently half the class got A's.
+
+I'm unsure of how he allocated the final weights, and how much the extra credit counted for (I did all of the extra credit btw), but my uncurved grade was a B+, after a terrible midterm and a mediocre final.
+
+So all in all, yes this class is pretty difficult, but this class definitively epitomizes the notion of "you earn the grade you work for."
+
+I don't feel that I cheesed a B+ or I lucked out with a B+, because I know I sat down and studied as much as I could for this class, it would not have been possible to get a B+ had I just cruised my way to the final.
+
+Overall, take Reinman. This was the last quarter online, so of course your experience may differ from mine, but one thing stands whether its online or not, TAKE REINMAN!!!
+
+Quarter: Spring 2021
+Grade: NR
+COVID-19
+June 6, 2021
+No idea about everything he said
+
+Quarter: Winter 2018
+Grade: B-
+June 26, 2018
+I scored an A in CS 31 and 32, yet a B- in this class. Here's why.
+Reinman uses the backwards-classroom approach, which you've probably read about (watch a video before each lecture, and the lecture discussion is about the video).
+
+First of all, the class was at 8 AM on Monday and Wednesday, and oftentimes I simply did not have the time to watch the video in the time frame he gave us (he would upload it roughly a day before the class).
+
+What made this class extremely difficult for me was the lack of clarity in what Reinman was saying in his lecture videos. He used vocabulary loosely and did not explain things in the way that the computer understands them. Smallberg, on the other hand, was a master at introducing concepts in a way that conceptually makes sense with the computer.
+
+Thirdly, most of the content (which is a BUTTLOAD of work) is not even on the exam!
+
+It was really frustrating to see that I put in a lot of hard work and have the CS intelligence to do well, yet failed in my standards (B-). I honestly believe this is the fault of the professor though.
+
+NOTE: If you decide to take this class, FOCUS ON THE LABS!! I made the mistake of studying for the final by making sure I understood and memorized every detail of the videos instead of practicing the labs.
+
+Quarter: Spring 2020
+Grade: A
+COVID-19
+June 7, 2020
+CS系的Haofei Fan！我就问还有谁？？？ 拉面人万岁！！！
+
+I'll just put it this way: when you think other classes are hells this one is heaven! It is literally that big of a difference. Holly Reinman!
+
+You got this class, you got the best deal ever.
+
+Quarter: Spring 2023
+Grade: A
+Feb. 21, 2024
+Chose "Snazzy Dresser" as a tag because "arms like tree trunks" isn't an option.
+
+As to whether the lectures are engaging, honestly that probably depends on how interesting you find the material. I personally did, and Prof. Reinman himself is a very capable lecturer. Lecture slides were very clear and informative, to the point where I solely needed those to study to do well in the course.
+
+Programming-type assignments were fairly graded in my opinion, and I wanna say I *think* test cases were open source? The only reason I say this is because I remember noting specifically that Nachenberg didn't do that for CS 131 later on. If I recall correctly, the later assignments did sorta have solutions that built upon each other, so if you were stuck in the beginning, you may have been out of luck.
+
+That being said, the exams were *extremely* fairly written in my opinion, and if I recall correctly, open book and open note. If you did well on the projects and had printouts of relevant sections of the lecture slides, you're adequately prepared.
+
+Prof. Reinman's office hours were extremely helpful too, and I got everything from clarification on concepts to his views on the state of the software industry. CS 33 is definitely really detail-oriented so it'll be tough for people who hate that, but taking it with Prof. Reinman is a strong recommend.
+
+Quarter: Fall 2023
+Grade: B
+Dec. 20, 2023
+The professor's teaching approach raises concerns. The course material, including lectures and assignments, appears to be directly sourced from Carnegie Mellon University, with no original content. Students may find more value in the original CMU lectures, as they cover the same material in a more effective manner. The exams are challenging and primarily multiple-choice, which might not adequately evaluate students' understanding. Additionally, the professor's attitude comes across as condescending, diminishing the learning experience. Despite having numerous teaching assistants, the support provided in discussion sessions is not effective. This course experience contributes to the perspective that some college classes may not offer significant value.
+
+Quarter: Spring 2022
+Grade: A
+June 20, 2022
+I agree with the other reviews from Spring '22 that this quarter did not go so well, and I'm surprised Reinman has such good reviews from previous quarters.
+
+This class used a flipped classroom approach. Normally, I'm okay with (and even prefer) flipped classrooms, but in this class it was not executed well. Before each in-person lecture, there would be a prerecorded lecture (usually between 30-70 mins). The prerecorded lectures were extremely dense. In the in-class lectures, Reinman would go over some content from the videos, answer questions, and do examples. The in-class lectures were extremely disorganized; I definitely got more out of them by watching the recordings afterwards instead of attending live. That way, I could watch the unimportant parts at 2x speed and focus more on the examples, pausing and making sure I really understand them. The in-class examples are super important for exams, so be sure to focus on those. Definitely don't try to memorize every detail of the pre-recorded lectures, because that won't help you for the tests (though still understand them). The midterm and final both contained questions that were very similar to the in-class examples. Overall though, the flipped classroom approach was extremely inefficient. Despite Reinman's insistence that the flipped classroom approach doesn't require more time, we'd be spending 5-6 hours per week just on lecture, and only some of it was relevant for the exams or labs. I'm sure there must be a more efficient way to teach the class.
+
+There were four labs, each worth 8% of the grade. I'd say the order of difficulty, from hardest to easiest, was data lab, bomb lab, attack lab, and parallel lab. Basically, the labs got easier as the course went on. Bomb and parallel lab had extra credit. I found bomb and attack labs to be quite fun! It's important not to procrastinate -- start labs at least 2 days in advance. I learned this the hard way by ending up in the hospital due to a stomach ulcer from drinking too much caffeine the day parallel lab was due because I falsely assumed it would be super easy and procrastinated on starting it, lol. The deadlines on labs (and homework) are very firm, so you won't have as much leeway as you did with CS31/32 projects. Unlike the CS31/32 projects though, you can definitely get 100% or more on each lab since all the test cases are provided, allowing you to know what grade you will get before you submit. It's possible to do the labs using brute force and other tactics, but I'd strongly recommend against that since you won't be able to do that on the tests. Attack lab and particularly bomb lab are emphasized on the final, so make sure you truly understand each step on a deep conceptual level and don't over-rely on the debugger.
+
+There was one homework each week. The first homework was super difficult for some reason but the rest were fine. They are graded on completion, but don't slack off on them because they are important for the exams. Some test questions were similar to homework problems.
+
+Discussion was mandatory, which was annoying, but overall I kind of liked it since we can get an easy 10% of our grade by just attending. I found discussion, particularly the LA worksheets, to be very helpful. The worksheets are graded on completion and our LA's compiled a document with in-depth solutions and explanations.
+
+The exams were very tough. We only got 40 minutes for the midterm, which wasn't enough, and I found the questions to be quite difficult. The class average was 50%, the lowest Reinman had seen in his 20+ years teaching at UCLA. He accused us of cheating on the midterm since we had done well on the labs, which I personally thought was a bit unfair since we had 2 weeks to do each lab vs. 40 mins for the midterm, so of course we would have done better on the labs. However, I really like how Reinman replaced our midterm score with our final exam score if we improved a lot on the final. That really came in clutch for me. I got a 40% on the midterm (53% after the TA's gave out partial credit). It was the worst I'd ever done on a test in my life and it really motivated me to grind for the final. To redeem myself, I started studying two weeks in advance of the final and created an intense study routine which involved reviewing my lecture notes, making flashcards, redoing homeworks, redoing LA worksheets, and redoing labs. I was scared that the final exam would be super difficult and that my hard work would end up being all for nothing, but I was pleasantly surprised. The final was quite doable and we got the full 3 hours. I managed to get an 83%, and since that replaced my midterm score, with Reinman's generous curve I was able to get an A in the class. I found the class to be quite stressful and it took a toll on my mental and physical health, but it ended fine and I learned interesting stuff.
+
+Quarter: Spring 2022
+Grade: A+
+June 14, 2022
+First, the positives. I appreciate that Reinman knows his field well, and when he's talking about hardwarey things it's evident that he has the capability to be a terrific lecturer . At least in the start of the quarter, the in-person lectures were genuinely engaging and I found myself wanting to go to every class. The labs were never absurdly difficult, the workload was entirely reasonable, and everyone from Reinman to the TAs was willing to be helpful.
+
+That being said, the structure of the class was a disaster waiting to happen. The negatives:
+
+a) We had to watch roughly 1.5 hours of pre-lectures BEFORE the in-person lectures. These in-person lectures were marketed as Prof. Reinman reviewing additional examples to solidify our understanding of a concept, but that didn't end up being the case. For the first 3 weeks or so, the in-person lectures were at least 70% Q&A, with students asking Reinman the same questions over and over (to the point where he wore a shirt with one frequently-asked-question printed on it). To Reinman's credit, he did go over useful examples when he wasn't consistently being bombarded with the same questions; but regardless, this did mean that I would spend roughly 6-7 hours a week on CS 33 lectures alone and at least 2 of those hours would be useless - which is simply unfeasible. Keep in mind that Nowatzki, the fall CS 33 professor, gets through roughly the same content in about half the lecture time - so it's definitely not impossible.
+
+b) The in-class lecture examples were often all over the place. Sometimes he'd bring up a concept, then go into details on some aspect of it, then bring up an applied example with a slide of assembly and completely forget to tie things back to what he was originally talking about. Other times he'd put up a slide full of random debugging output and explain maybe a quarter of it before moving onto the next slide, then return to the original slide 5 minutes later after having gone off in a separate direction entirely. Suffice it to say that, even though the examples were helpful, you'd need to spend a ton of time just thinking about them on your own because the explanations in class usually wouldn't be enough.
+
+c) The slides used in the pre-lectures were old and taken straight from other sources. Reinman would sometimes write on them, but his handwriting was a bit tough to read. Again, not the worst thing in the world, but it showed that Reinman put very little effort into his visual aids. This spilled over into in-class lectures, which often similarly consisted of Reinman scrawling sloppy diagrams and notes on the whiteboard that confused me more than if I were to just attend lecture with my eyes closed.
+
+d) The discussions were mandatory for some reason. I honestly don't quite get the logic behind this; the structure was identical to the discussion content in CS 31 and 32 and even 35L (TA presents slides, LA runs through a worksheet), and none of those classes had mandatory discussions. There's a case to be made for the content of CS 33 being more foreign to most people, but even then, mandatory discussions?
+
+e) By the time the midterm rolled around, Reinman seemed to be rather burnt out with us as a class. After the midterms were graded, he sent out a long email basically accusing us of cheating because the midterm (which we were given 45 minutes for) average was lower than the average on one of the labs (for which we had 2 weeks).
+
+Reinman isn't a *horrible* professor, but he isn't a particularly good one. All of the flaws with the class seem like they could be easily fixed with some actual effort on his part. If he were to clean up the visuals and not be so snarky about the test averages, I might have even liked him and the class. However, as it stands CS 33 is hard enough conceptually without a class structured as poorly as this one.
+
+Quarter: Spring 2022
+Grade: A
+May 10, 2022
+This class has too hard exams. Some of the homework has bugs.
+
+Quarter: Spring 2021
+Grade: A
+COVID-19
+June 16, 2021
+Class with a lot of material. Work was not too hard, but there's a lot of different topics that are covered and it can sometimes be confusing on what to focus on. Labs are pretty fun, but can be a bit tricky if you are not too familiar with the material. These sometimes have extra credit. Tests were not too bad, but it was difficult to get partial credit, which was bad for quite a bit of people based on the group chats. Personally found it difficult to concentrate during lectures, but that may be due to spring quarter distance learning. You'll learn a lot.
+
+Quarter: Spring 2021
+Grade: A+
+COVID-19
+June 4, 2021
+While I didn't find Reinman to be the most engaging lecturer ever (I guess its because everyone CS lecturer seems a little dull after Carey's class), I can't deny the fact that he did an outstanding job teaching the class. He made me feel very comfortable in his class and answered all the questions everybody had.
+He also appears to be willing to increase the weight of your final to make up for poor midterms if you show a demonstrable improvement on the final. He does use a flipped-classroom approach and also has 4 hours of live lecture every week, which means there is a lot of lecture to attend. However, I found most of this to be very useful to help understanding course material. It is very evidence that Reinman wants students to do as well as possible in his class and to master the material.
+The midterm was very reasonable though the final was quite difficult in my opinion.
+Overall I definitely recommend this class. Reinman is an outstanding professor and definitely deserves all the praise he has received.
+
+Quarter: Spring 2022
+Grade: A
+June 19, 2022
+Lectures:
+Reinman adopted a flipped-classroom approach; we watched recorded lectures at home, and Reinman answered questions and solved problems in class. The recorded lectures were dense with information and felt long. With regard to the in-class lecture, it was hard to follow if you didn't have a good grasp of the material from the video from the night before. I personally don't like flipped classrooms, but I didn't find Reinman's approach too bad. I tried to get a high-level idea of the material from the lectures, and I felt I really learned the material when doing the labs and homework.
+
+Labs and Homework:
+The answers are all online, but it really does pay off to do them the right way. The labs and homework will prepare you well for exams.
+
+Midterm:
+I think the questions on the midterm were fair, and they covered material that we had learned in lectures and through homework/labs. The issue was timing; I felt rushed, and I'm sure others did too given the midterm had the lowest average he had seen in 20+ years.
+
+Final:
+The final was fair, but it did have some difficult questions (the difficult questions were accompanied with partial credit though, so if you had any idea about the answer, it would be beneficial to write something down—this is mainly with respect to the attack-lab-esque question). One of the questions was an exact copy from the midterm, but only 60% of students got it correct? I don't know how that's possible, and I honestly think it reflects our (the students') ability much more than it does Reinman's teaching ability.
+
+In all, I learned a lot in this class. It was difficult, and you really did have to put in the effort to learn a concept if you didn't understand it immediately from a lecture. Reinman was a good professor, and I recommend taking CS 33 with him if you will work to master the material and practice applying it.
+
+Quarter: Spring 2022
+Grade: B+
+June 19, 2022
+bad class, nonsensical grading scheme
+
+Quarter: Spring 2019
+Grade: A
+June 26, 2019
+would take rhinoman over nachenberg in a 1v1 arm wrestling match to the death. 10/10 could not give the man higher praise.
+
+Quarter: Spring 2022
+Grade: B
+June 19, 2022
+I don't know why his past reviews rate him so highly. Most people who took the class in spring 2022 did not have positive views of Reinman.
+
+To begin, Reinman uses the flipped classroom model. His prelecture videos goes through the material extremely fast, and I personally don't feel like he describes the material in a clear way. The lectures themselves were hard to follow because of how so many people asked questions in the class and how the professor constantly jumps around between different topics when talking about the material. I get that the flipped classroom model is intended so that lectures are designed to go through examples and give a chance of students to ask questions, but I personally feel like it just doesn't work well when you have hundreds of students in the class.
+
+As for the tests, the questions were absolutely hard. The professor likes to blame the poor performance on the tests on students not properly doing homework and labs, but I would argue that the tests are still hard even if you did everything properly. For example, one of the questions on the midterms was way harder than the question given on homework on the similar topic.
+
+Personally, I would take CS 33 with Nowatzki in the fall.
+
+Don't be fooled by the grade distribution either. Way less people get an A or A- than the distribution on Bruinwalk suggests.
+
+Quarter: Spring 2021
+Grade: S
+COVID-19
+May 9, 2021
+His not as good as Carey, but still a very nice tracher
+
+Quarter: Spring 2020
+Grade: N/A
+COVID-19
+June 12, 2020
++ Reinman is a great lecturer. If I had to take this course again I would definitely take it with him. I liked the labs. They were very interesting and way easier than cs32 ones (for me) although the concepts are harder.
+
+- The class uses a flipped classroom so it takes a lot of time and you have to watch the lecture videos beforehand. Try to not fall behind in this class, because the content moves quickly. I fell behind during the last weeks and it made the parallel lab hard for me even though we had 3 weeks to do it.
+
+Note: I only took the midterm. It was not easy to be honest but doable especially if you have studied and did the labs on your own then you are good.
+
+Quarter: Spring 2022
+Grade: B+
+June 27, 2022
+He fucked us in Spring 2022. Can't trust his historical curve. We were the unluckiest group of CS takers ever. He's irresponsible and I would request yall to take eggert if you prefer learning because both the professors will now fuck your grade. We likes taking suggestions but never acts on them. His midterm and final approach of assessment sucks as there is barely any scope of getting a partial credit in any problem. CAREFUL NEXT BATCHES!!!
+
+Quarter: Spring 2020
+Grade: A+
+COVID-19
+June 13, 2020
+My favorite CS class so far, this class is a really fantastic introduction to computer architecture that struck me as far more interesting than the coding work in CS 31 and CS 32.
+
+The workload is generally pretty light – there are a total of five homework assignments, each of which will take 30 minutes max, and four labs, which will be pretty time-consuming. You do get a lot of time for the labs, which is why I say overall the workload isn't all that great. There is going to be more lecture time, with watching the lecture recordings and then watching the lecture itself, but it really does help you learn – the pre-lecture is kind of like when you read the textbook chapter before going to lecture, except more engaging.
+
+Out of the four labs, the first one (Data Lab) is by far the worst one, since you get basically no guidance for it and was really time-consuming for me. The other three – Bomb Lab, Attack Lab, and Parallel Lab – are all pretty fun applications of the material we learn in the class, with good opportunities for extra credit. In our quarter, you could earn 10 points of extra credit for the Bomb Lab and up to 15 for the Parallel Lab, depending on your speed up, which was quite generous. Don't procrastinate too much on them, since they do take some time and care, but for me, they were relatively enjoyable.
+
+Reinman is a good instructor virtually, and the TAs are valuable resources. Because of the circumstances surrounding the Spring 2020 quarter, the final was made optional so I can't speak on that, but the midterm exam was quite fair and shouldn't be too tough as long as you've done the hoemwork and labs and are careful during the exam. There wasn't a lot of partial credit to be earned on the midterm, which was quite annoying considering that we only had five questions on it during the virtual quarter, but I think he took the feedback to heart and changed it for the final.
+
+Quarter: Spring 2024
+Grade: A+
+May 18, 2025
+Professor Reinman is an ABSOLUTE GOAT. No words can describe my appreciation.
+
+Quarter: Spring 2024
+Grade: A
+Aug. 10, 2024
+Spring 2024 was the last quarter Dr. Reinman taught the class, which sucks for you guys because he is a star lecturer. He told us in class that he'll be teaching an upper-div ethics course starting next year, which I'll be eager to take.
+
+The course covers the basics to, essentially, how computers actually work. Think registers, architectures, linking; that sort of thing. The ten weeks were cut into two parts:
+
+The first three weeks were much lower-level; you'll be literally working with 1s and 0s and figuring out how computers actually store information in memory. Dr. Reinman said straight up that this part of the course is much harder. Our midterm in week 5 only tested us on those first three weeks so that we'd have enough time to study for them. You'll need a decent understanding in binary math, along with a good enough work ethic to get around to grasping how memory is organized. Don't get me wrong-- the lectures were never rushed, and Dr. Reinman was painfully patient in answering any and all questions, but the material in the first few weeks is simply completely different than anything you've needed to learn before. You're learning the inner workings of a modern computer, whose system organization has been refined and tweaked over a century of computer research. You're going to have to work hard to grasp that.
+
+The following seven weeks were much higher-level, briefly going over each of the "top hits" of different computer abstractions. You talk about the virtual memory, optimization, linking, caching, and threading, among other things. The material's much more cerebral, and goes a much faster pace. I did better not taking notes in class and just listening closely to him lecturing. For most of these topics you'll do just fine as long as you really "get" the idea and the motivations for why they're implemented.
+
+The homework was effort-based but I really suggest you try them before looking up the answers. The projects are modified from a CMU course and are very well-written. Many of them are, essentially, games-- you're given a goal and points for each checkpoint and it's your job to figure out to get there by interpreting the assembly code you're given. Give yourself lots of time for each project, and FOLLOW THE SPEC TO A T. I averaged around 10 hours for each project, which was a faster time than many other people.
+
+I wish all the best for Dr. Reinman, and I hope the next teacher(s) go through the material in a similar way. It's a very specialized course, so if you're not 100% invested in the material you will get bored and not do well. However, if you genuinely have a love for computers and what they're capable of doing, take this course as soon as you can.
+
+Quarter: Spring 2024
+Grade: A
+July 15, 2024
+At the beginning of the class, I was slightly intimidated by the class content as it is very dense, but I feel that as you practice the class concepts become a lot more clear. The professor's lectures can be convoluted and are a bit dull but I highly recommend attending the lecture as that is the best way to get the content. The four labs are not a problem at all as lots of time is given. That being said, I highly recommend starting all the labs early. Overall, this class is not too bad but I highly recommend practicing reading X86 or stack attacking (the two most confusing topics) to solidify understanding.
+
+Quarter: Spring 2024
+Grade: C
+July 6, 2024
+really nice guy but i must say he is not a very good lecturer. he is pretty helpful in office hours but theres always the same 10 people asking about a million questions which no hate but guys i just have one question about the lab pls let me ask my question before you ask about the 37th edge case that won't be tested anywhere or at least not in a lower div cs class. GO TO LECTURE don't be like me and sleep through it bc then you have to watch 20 hours of the most information dense lectures the week before the final. be sure to do a lot of practice problems from lab-style problems bc those are SO useful and also the LA worksheets too omg if you manage to get Alec as your LA (if he LAs again for cs 33) he is the most goated person in the entire cs department like actually in the cs hall of fame.
+
+Quarter: Spring 2024
+Grade: A+
+June 27, 2024
+The class itself, adapted from CMU, is very hard. But Dr. Reinman is very kind and helpful. I forget to detach the answer sheet and get no final score at first, but luckily Dr. Reinman helped me scan my final.
+I really learned a lot from this class and feel interested on these topics. Always a good choice taking class with Reinman. (Note: He said on lecture that he will not teach CS 33 starting Spring 2025.)
+
+Quarter: Spring 2024
+Grade: A
+June 25, 2024
+If you can take CS 33 with Reinman, take it with him.
+
+I think the class was reasonable and manageable. The workload was very fair. The exams were very fair. A little more than half of the students ended up with some sort of A. The class is heavily frontloaded in my opinion, so it is okay if you feel confused for the first few weeks.
+
+From what I remember, weeks 5-10 felt more conceptual and weren't as heavily tested. When they were tested on the final, they were weighted less than attack/bomb lab-style questions. He made a mistake on one of the questions on the final, but I think the question was graded leniently. However, I can understand how people felt that the error on the question caused a time-sink and didn't allow them to make as much progress on other questions.
+
+He isn't a super clear lecturer. One of the LAs for this class, Eric Lu, made videos that walked through each discussion worksheet. The discussion worksheets for this class aren't that long but they are super helpful. I watched every single one of these videos and it was extremely useful. To be honest, this is the way that I learned the class material after about week 6. I stopped taking as many notes and paying as close attention to Reinman's lectures because of how much better Eric Lu's explanations were of the class concepts. This was a great way to get interactive practice, which you don't really get much of in lectures. Reinman had around 5 supplemental videos for some of his lectures about more interactive topics/concepts. These were also helpful.
+
+I wouldn't say he's the teacher that Smallberg/Carey is, but I must acknowledge that being the same level of teacher as them is an inherently difficult task since most people enjoy concepts from CS 31/32 more than those taught in this class. I found computer organization to have some topics that felt boring at times, but Reinman still made the class feel reasonable and not a pain for students. He got into enough detail for this introductory class.
+
+Taking this class with Eggert CS 35L also helped me understand topics related to CS 33 that were covered in the latter parts of 35L. The difficulty of this class compared to 35L, however, is night and day in my opinion. Enjoy this class while you can.
+
+Quarter: Spring 2024
+Grade: B+
+June 25, 2024
+CS 33 is much different than 31 and 32, you'll do very little actual coding rather than the Data and Parallel Lab which in total requires 40-50 lines of code. The class is much more conceptually reliant than the previous two. You're going to get really good at tracing x86-64 through Bomb and Attack Lab, which actually ended up being kind of fun once you learn the nature of how they work. In my experience every lab started out incredibly daunting but as you chip away at it you learn the relevant concepts and get prepared for the exams. Some topics are incredibly difficult to grasp but exams are open note making these topics slightly more manageable. All lectures are recorded which is almost necessary if you're trying to take notes during lecture as Reinman moves fast between highly conceptual topics, that aside he is a kind man and gets very excited when students are engaged as he too understands the concepts of the class aren't always the most comprehendible but as he says these difficult concepts ensure job security.
+
+Quarter: Fall 2023
+Grade: B+
+Jan. 14, 2024
+Incredible informative and dense class. Blink and you might miss a crucial piece of knowledge, so paying attention to lectures is of the utmost important. The class is comprised of very light homework, 4 quite difficult labs, 1 midterm, and 1 final. The labs were all very useful in understanding the concepts but they could be incredibly frustrating and starting early is essential. The midterm is quite manageable but the final was significantly more difficult as it is comprehensive. Professor Reinman himself is a wonderful teacher and very enthusiastic. He spends a long time answering every single question, so make sure to listen to the Q and A.
+
+Quarter: Fall 2023
+Grade: A
+Dec. 22, 2023
+He has definitely read these reviews because the class has gotten better from what people have wrote in the past! Still would't say he is the best lecturer but it gets the job done. I just wonder why we just use the entirety of CMU's curriculum
+
+Quarter: Fall 2023
+Grade: A+
+Dec. 22, 2023
+Take 33 with Glenn. Tests were very fair if you did the labs and closely resembled his practice tests he posted. Tough material but useful and interesting. I would definitely take this class again.
+
+Quarter: Fall 2023
+Grade: N/A
+Dec. 21, 2023
+I did not find this class interesting so I did not pay attention to any of the lectures. Reinmann seemed enthusiastic and tried his best to explain things. He might not be the clearest lecturer but I can't really shit on him for it since I did not pay attention. Labs are worth a lot and will actually teach you 80% of what you need for the tests so put all your effort into understanding them. I did really good on the midterm but got fucked on the final yet still got an A. He said over 50% got some type of A and 25% got some type of B. I think if you like low level shit then you will probably like this class. And he does not do flipped classroom anymore so most reviews are outdated.
+
+Quarter: Fall 2023
+Grade: A
+Dec. 20, 2023
+I'm gonna start of by saying that I think a lot of the negative reviews for Reinman from recent quarters have been due to the flipped lecture style that he used after Covid. As of my quarter (Fall 2023) he is no longer doing this, and lectures are fully in person (two hours, twice a week). Personally, I found the class to be extremely interesting and very manageable IF you attend lectures. I went to every single lecture and I never found myself behind or having to learn on my own to catch up. Discussion attendance is required: discussions consist of a review of the week's material or a short lecture preparing you for the lab (if it had been assigned that week). These are super helpful - since it's 2 hours, I often find it can almost function as another TA office hours, which is great. Definitely ask the TAs any questions you have, they usually can provide a really good answer.
+
+Overall I had a great time in this class, which I believe was due to attending every lecture in person and taking notes, as well as giving myself a full week to complete the labs (often times you really only need a few days, but I think pacing it out to really ensure that you have time to actually understand everything is a good idea). The labs are no doubt the single best way to prepare yourself for the exams - the exams pretty much test those concepts (and potentially ideas from the homework) and nothing else, so give yourself time to REALLY get the lab and you'll be good for the test.
+
+In terms of grades, I got a 92 on the midterm (initially 84, but requesting regrades is important) and an 87 on the final, and my final grade was well into the A range. This was because I fully completed every lab, and got extra credit on the labs that it was offered for (which is very doable). My point in saying this is that you don't have to get As on the exams to do well in the course, but just make sure every other portion of your grade is maxed out. My friend got an 83 midterm and 75 final and is ending with a B+ because he maxed out his labs.
+
+Quarter: Spring 2023
+Grade: A-
+July 1, 2023
+It wasn't as bad as I thought it was going to be. Definitely less time spent on homework and learning concepts than in CS 31 and 32, though you might miss how straightforward those classes were. It was a rush to learn assembly in the first few weeks and then the rest of the quarter was spent jumping around from topic to topic with not that much relevance between them. Mandatory discussions, and you should attend them because they are really useful. Definitely manageable to get an A in this class, would highly recommend attending and paying attention in discussions.
+
+Quarter: Spring 2023
+Grade: A
+June 26, 2023
+CS33 is often known as the weed-out class. I don't think thats true. CS33 differs in content from CS31 and CS32 in that it deals with lower level things such as binary and assembly. However, I wouldn't necessarily say it is harder than CS32. Maybe a lot of people have learned the things in CS31 and CS32 beforehand, so when they got to CS33, they were not used to having to learn content from scratch. Personally, I spent a lot less time studying and doing projects for CS33 than for CS32.
+
+Quarter: Spring 2023
+Grade: A
+June 24, 2023
+Breakdown of CS 33 w/Reinmenn and my personal experience:
+- 5% HW: based on completion. Similar to test questions, they don't take too long, and are helpful.
+- 10% Discussion Section Attendance: Chenda Duan (my TA) is the goat, all TA's were excellent and the discussions were very worth it as TAs would drop test/project hints and would review material clearly.
+- 15% Labs: labs are fun, not too time-consuming, but understand them well as test questions are similar to labs. Data Lab is by far the hardest, most people looked it up online. Bomb and Attack Lab are the big parts of this course, both are fun and feel like puzzles. Parallel Lab is a joke more or less
+- 20% Midterm + 30% Final: Failed the midterm, did pretty well on the final. Reinmenn will do grade replacement if it helps you (which it did massively). Tests are pretty tough and always a time crunch, best advice I can give is to become a master at the labs and know them in and out.
+
+I was not expecting to get an A in this class and I did bc I grinded for the final and didn't understand a lot of the material to the end. IMO the assembly stuff (bomb and data lab) is the hardest, and the theory and computer architecture stuff later gets a bit easier. Was a pretty tough class for me in general and I wasn't a fan of the content most times. Reinmenn can be a confusing lecturer at times but ask him questions and he will give you great responses and help clarify things tremendously. He switched back from flipped classroom to a normal classroom this quarter which definitely improved test scores but his lecture material can be dense.
+
+Quarter: Spring 2023
+Grade: N/A
+June 14, 2023
+cs majors reading this go take a shower right now
+
+Quarter: Spring 2022
+Grade: N/A
+Sept. 13, 2022
+Test review
+
+Quarter: Spring 2022
+Grade: B+
+June 19, 2022
+Glenn Rienmann does not deserve the high rating he has on Bruinwalk. The flipped classroom approach would be reasonable if during the actual lectures he went into more depth about the things covered in recordings. However, lectures were just a disorganized mess that often left me with more questions than I had at the beginning. The recordings themselves were fine however but the fact that I had to watch them on my own time was annoying. Furthermore, people talking about a high curve in the comments are talking about something that is no longer applicable - the grade distribution for this class is not as nice anymore with Rienmann himself saying that this year he aimed for:
+
+35% A's of some kind
+37% B's of some kind
+23% C's of some kind
+
+This is a far cry from the 75%+ are A's of previous years so be warned!
+
+I was also not so happy with the projects we had to do. The projects (and most of the slides) are copied from CMU's curriculum, with a lot of the solutions floating around on the internet, making it extraordinarily easy to cheat in the class. If Rienmann cared about student learning, he could design his own, new projects for the class each year (I guess he did that this year with parallel lab?).
+
+Overall, the class would have been interesting had it not been for Rienmann's dumb "flipped classroom" approach, disorganized lectures, the (in Rienmann's words) "generous" curve, and repetitive projects. Just take it in the fall with a different professor (Hopefully Nowatzki).

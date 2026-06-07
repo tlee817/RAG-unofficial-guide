@@ -1,0 +1,226 @@
+Quarter: Fall 2018
+Grade: C+
+March 1, 2019
+Reinmann is a super nice guy but this is not a very easy class. We did too well on the midterm and he made the final extremely hard. A lot of practice is needed. Homework often took a while.
+
+Quarter: Winter 2022
+Grade: NR
+COVID-19
+March 25, 2022
+I did not really enjoy this class, but I appreciate that Professor Reinman is a really good explainer so that made it easier.
+
+The "flipped classroom" format of this class required us to watch about 1-2 hours of extra video each week, which made the instruction during actual lecture feel more optional, since it was just going over the pre-recorded lectured.
+
+The grading in this class is stressful. I'm sure he curves nicely (grades haven't been released as of rn) but weighting 40% Midterm and 50% Final is a really unforgiving grading scheme.
+
+Overall, this is definitely a class where an A is achievable with some effort, but actually enjoying the content and the way it's delivered will depend a lot on preference.
+
+Quarter: Winter 2022
+Grade: A
+COVID-19
+March 23, 2022
+Prof Reinman is great! He uses a flipped classroom structure where you have to watch 1-2 hours of pre-recorded videos before each live lecture, and these videos by themselves cover the basics of the topic you will learn in the live lecture.
+
+The live lectures, the professor goes more in depth over the topics and answers a lot of questions. He also goes over some practice problems live in order to clarify topics and such. Lectures are very engaging since its all handwritten and uses zero slides, plus professor is very fun and charismatic. Must attend these lectures, they solidify concepts and also VERY relevant to problems you will find in exams. In fact, the professor will literally tell you that this kind of problem will show up on the exam so pay attention.
+
+Exams are tough, but the professor will curve it up. They are worth 90% of your grade: 40% being the midterm and 50% being the finals.
+All of the exam questions are advanced variations of questions the professor brought up in class or high level stuff that you don't need to know the details for, so it always feels like fair game. Since they are open note, you don't need to memorize anything(although you must have a good understanding of topics, notes won't help you much).
+
+The midterm does have a time crunch, the final was alright.
+
+Homeworks are based on completion, and you can just bs them if you don't want to actually do it. I personally didn't do any of the homeworks and did fine on the exams, but you do you.
+
+Take the class with reinman yo
+
+Quarter: Winter 2021
+Grade: B+
+COVID-19
+June 14, 2021
+This class was a flipped classroom, so Professor Reinman would require us to watch online videos before coming to class, which was basically a Q&A. The workload wasn't too bad, consisting of seven homework assignments which didn't take more than a few hours. The midterm wasn't bad, but the material gets more difficult in the second half of the class and as a result, the final was much more difficult. The midterm and final decide most of your grade, and the averages were high for both, so it pays to study a lot for both.
+
+Quarter: Winter 2021
+Grade: A
+COVID-19
+March 28, 2021
+This class is difficult, mainly because the tests are focused on very specific subjects, and the amount of practice problems aren't that good.
+
+This class covers a variety of computer architecture topics, but the midterm and final are always from a subset of very specific practice problems which you need to study (in my case, cram) to do well. The problem is that many of these topics are not covered well online, forcing you to rely on Reinman's antiquated normal time lectures (since he does reverse classroom).
+
+For example, one question on the exam was focused on a concept called "TCPI"; however, this was nowhere in the textbook, nor was it in the prelecture slides + lectures that Reinman does for his reverse classroom setup. Hence, you're forced to learn everything about this question from: old tests on test banks, the practice final, 1 lecture where Reinman kinda shoddily covers this material, and discussion slides (which end up just taking the same problems from test banks or the practice final).
+
+This style of learning is mirrored in many other questions in this class. The main reason this class is hard is because of lack of practice problems; many times, the concept is only covered once in a practice problem, whereas it takes many repetitions for me to actually understand what's going on.
+
+I managed to get an A by just cramming the small subset of practice problems that Reinman tests on. I would recommend others to do the same if they want to get an A. I don't think I learned a lot in this class through lectures or the textbook, but cramming for the exams made me learn something (although I'll probably forget it).
+
+All in all, Reinman isn't a horrible choice for this class, but the class in my opinion is just insanely boring. However, it's not setup well at all, and there is so much material every week (textbook, prelecture, normal lecture, discussion sections), and none of it matters except like 20 minutes from discussion each week.
+
+Quarter: Winter 2021
+Grade: A
+COVID-19
+March 27, 2021
+BEWARE: This is definitely NOT an easy class - many of us who took this class this quarter were fooled by the grade distribution from last year (because they made final optimal). The midterm was ok, but the final was much more difficult with ambiguous problems and instructions, and many people didn't do well. For some reason they decided not to curve the class at all - quite surprising - so many ended up with bad grades. The "unique" teaching style was not my favorite - the live lectures (they called it "Q&A section") were completely unorganized and confusing from my point of view, and you'd be probably better off not attending them. I later found TA discussions and textbooks much more helpful, so I stopped attending them since Week 3 or so, and managed to get an A (but with lots of hard work).
+
+Quarter: Fall 2018
+Grade: A-
+Jan. 26, 2021
+I love that low key sense of humor, hands down, one of the best pictures of my college life, amazing professor
+
+Quarter: Winter 2023
+Grade: D+
+Oct. 19, 2023
+Reinman is the only professor you should be taking this class with. He is a great lecturer and is very willing to go over things again when students seem confused. Even with this, the material is very hard to follow. It gets very complicated and nuanced, and you need to have a very in depth understanding in order to do well on the exams. The homework is manageable but really only covers the easier topics.
+
+Quarter: Winter 2023
+Grade: A-
+June 24, 2023
+Reinman doesn't use the flipped classroom approach anymore and made all the flipped classroom videos optional and additional content for this quarter, opting instead to lecture in a more traditional format. I feel like this made the class a lot more manageable in terms of the workload, but this still isn't a very easy class. The first 5 weeks aren't too bad and focus primarily on calculating CPI and execution time, design tradeoffs, ALU and multiplier designs, and the single cycle datapath. The difficulty of this class really ramps up after the midterm as we talk about pipelining the datapath, caching, virtual memory, and cache coherence. Reinman himself is a pretty good lecturer however which is nice.
+
+The midterm was fair and moderately difficult with an average of about 80%. The final was significantly harder and had an average of about 75%. Reinman said he curved the class, but probably not by a lot since my raw score was 89.25 and I got an A-. The grade distribution this quarter was 29% some kind of A, 37% some kind of B, and 20% some kind of C.
+
+Unfortunately, this class suffers from a lack of practice material and knowing what to expect on the exams. Reinman does examples in class and gives you an idea of what kind of problems he would ask on the exam, but some of the questions on the final I honestly had no idea how to do. For example, there was a question on the final about something called "Snoopy protocol," however Reinman only went over this at a very high level in lecture, it's not in the textbook, and it wasn't on the one sample final he provided either. Also, the homework questions from the textbooks don't reflect the types of questions on the exam whatsoever.
+
+Overall, I enjoyed this class more than I enjoyed CS 33, and the workload was definitely a lot lower than my other classes. But definitely be prepared to study for the exams and make sure you actually know what Reinman lectures about. If you just wanna get this class over with then Reinman is a good choice, but I've heard the ECE offering is easier so keep that in mind too.
+
+Quarter: Winter 2022
+Grade: A
+COVID-19
+June 5, 2022
+Homeworks - 9 HWs graded based on completion. Can be really hard to get it correct without help from TAs.
+
+Exams - 90% of your final grade is based on 1 midterm (40%) and 1 final (50%). They are kinda hard but the exams are open notes. Prof. Reinman does not like students pattern-matching his exams, but you can definitely get some insights if you actually watched Professor's lectures and paid attention to the stuff he emphasized. I got 91.5% as the final raw score and was curved to an A. According to other students, curve was pretty generous.
+
+I would definitely recommend taking it with Prof. Reinman as I learned a lot, but do consider Prof. Sehat as an alternative option if you want a perfect grade. He ususally teaches ECE M116C (same course) during Fall quarter. I took ECE 188 with Prof. Sehat and he was super chill too!
+
+Quarter: Winter 2022
+Grade: A
+COVID-19
+March 26, 2022
+This class was pretty good -- definitely learned a lot, and Prof. Reinman was pretty good at explaining concepts. I appreciated how he told us the types of questions that would be on the exams (and what type would not be) -- it made things a lot less stressful. Most of your grade comes from exams, but the curve can help makeup for that. Also, if you show improvement on the final, it can (partially?) replace your midterm score. For doing well in the class, I would recommend:
+- Watch the pre-recorded lectures, but don't feel a need to understand every single detail on those, and don't take notes (because it'll distract you from the important stuff that he'll actually test you on). Instead, just use it to help get context for lecture.
+- Take good notes on his in-person lectures, especially any sort of sample problems he works through, because variations of those problems tend to show up on the exam.
+- Also make sure you work through and understand all the questions on discussion section slides because those tend to be from past exams, which tend to be similar to the questions he asks from year to year.
+
+Quarter: Winter 2021
+Grade: A
+COVID-19
+Oct. 30, 2021
+good class
+
+Quarter: Winter 2021
+Grade: A-
+COVID-19
+April 2, 2021
+The whole experience felt somewhat similar to Reinman's CS 33 class, at least as far as the lecture style (flipped classroom) and exam problem style. There aren't any labs like in CS 33, so the homework was quite a bit less time-consuming. As far as the course material goes, I thought it was interesting and quite coherent, since pretty much everything was built up around the same architecture. The tricky part is remembering how the many various complex aspects of the architecture (virtual memory, caches, pipelining, MIPS, execution, etc.) fit in with each other in different ways. I never went to the actual lectures because they were at 8am, and I felt I was able to get by with just the prerecorded videos for the HW. Although I recommend you at least watch the recordings when it comes time to prepare for exams, since he mostly covers specific problems that will probably end up on the exam. Also if you choose to skip lecture, it helps to go to discussion a lot to make up for it. Shoutout to my TA (Victor Rios) who did a super good job of covering practice problems and reviewing us in general, would recommend in the future. Midterm and final are pretty challenging, and you can get tripped up if you don't really know your stuff. Also, the grades were barely curved this quarter, if at all. So fair warning, if you do really badly on a test, your grade might be screwed since the midterm is 40% of your grade, and the final 50%.
+
+Quarter: Winter 2021
+Grade: B
+COVID-19
+March 27, 2021
+This class is entirely conceptual, i.e., no coding, but the concepts themselves are not easy. We have 7 homework (graded on completeness), one midterm and one final. With 90% of grade is based on exams, if you screw up an exam you basically screw up the class. The midterm is relatively easy. The final involves a lot of multiple choice questions about designs and concepts which are easy to make mistakes. While I really dislike hardware, I don't think there is a better choice to have M151B other than Reinman.
+
+Quarter: Winter 2021
+Grade: A
+COVID-19
+March 23, 2021
+I liked this class! Flipped classroom didn't bother me because I kind of stopped watching the videos... the prof introduces and goes over everything in lecture, so I don't think it's necessary to watch the prerecorded videos... he will only test you on what he's gone over in class, anyway. He draws everything out and walks you through everything you need to know. As long as you spend time going over whatever is fuzzy and don't fall behind, his lectures should be easy to keep up with and understand. The discussions are also very helpful because the TAs review everything he lectured that week, so whatever you didn't understand you can always go over again with the TAs. His handwriting and drawings are messy but the TAs have nice slides that sum it all up. Homeworks are also not time consuming. He tells you exactly what he will test you on the midterm, and the final wasn't surprising, every problem was something he had covered in lecture. As long as you stay on top of everything this class is very manageable and I would definitely take it again with Reinmann!
+
+Quarter: Winter 2021
+Grade: B
+COVID-19
+March 18, 2021
+Anyone can tell you Reinman is a nice professor. But his style of teaching has a few gripes. For one, all of his classes are 'flipped classroom'. This means you have to waste twice the amount of time you normally would watching mind-numbing lectures. If you think you can get by just reading the actual text, you're wrong; Reinman always talks about things in lecture that will be on the test. So you have to try and attend lectures.
+
+And if you go to his lectures live, don't blink; his handwriting and drawing skills are horrendous and incomprehensible. You have to follow along carefully to not get lost.
+
+His homeworks are super light and could be done the night before. But this also means they aren't comprehensive or instructive in any meaningful manner.
+
+His tests are okay. The midterms are usually easier than the final. He prefers to give hard tests and curve, rather than give accommodating tests and let their grades stand. Because of his flipped classroom style, he can just hand you all the lecture content at the start of the quarter and put the onus on you to watch it; like this he's technically never "behind schedule", compared to teachers who lecture live. I didn't see this as a plus.
+
+He's nice, a great guy, fun lecturer. But his rating is deceptive because of it. Reinman is the best choice for this class, undoubtedly; but don't take it easy, and don't be confused into believing he is without flaw.
+
+Quarter: Winter 2020
+Grade: A-
+April 8, 2020
+Glenn is a great guy. He's funny and really interested in what he teaches. I would say he's one of, if not my favorite professor at UCLA. The topic of this class are things like CPUs, registers, ALUs, etc. Really, really interesting stuff. The workload is surprisingly not that bad e.g. it features homeworks that are graded moreso on completion than correctness. The midterm is not too bad actually, and lots of people got 90% or above on it. The final is harder.
+
+The format of this class is pretty special, as it's a "flipped classroom". You don't actually have to attend class since everything's recorded. Glenn uses in-person lectures as just a review session and for questions. Just make sure that you actually WATCH the recordings and don't procrastinate, and you'll do fine. I think part of the reason as to why the grade distro is so spread out, is because of this freedom — lots of people are responsible and keep up with lectures either in-person or via watching the videos, and lots of people don't.
+
+Just be responsible and keep up with the topics, regardless of whether you actually attend class or just watch the videos, and I promise you'll do fine.
+
+Quarter: Winter 2020
+Grade: A
+March 30, 2020
+Reinman is an amazing professor and I'd definitely recommend taking this class with him. The flipped classroom style does require a bit more work on the students' end (have to watch pre-lecture videos), but I feel it really does work to learn the material better. In addition, having the basic material taught through the videos allowed Reinman to answer more questions and cover more examples during lecture.
+
+The final for this quarter was made optional due to COVID-19, so I did not take it. Most people did very well on the midterm (average around 95), and I heard the final was substantially more difficult. In addition, the material covered in the latter half of the quarter is more challenging, so definitely make sure you don't fall behind after the midterm. In addition, both exams are open-note and open-book, and you're allowed to use a calculator.
+
+The amount of time required from the homework varies week to week, but I didn't think the assigned homework was ever excessive. We had a total of 7 assignments (due Friday weeks 2-9). The homework is also graded based on participation, so as long as you put in a reasonable amount of effort you should be fine. I thought the homework was useful for the exam.
+
+Overall, a great class that I highly recommend you take with Reinman.
+
+Quarter: Winter 2020
+Grade: A+
+March 29, 2020
+Didn’t take final cuz I aced midterm. Midterm was really easy. He’s funny but his lecturers are fast paced. It’s an A if u put in work
+
+Quarter: Winter 2020
+Grade: A+
+March 23, 2020
+Fantastic Professor. You learn a lot in his class and he makes difficult concepts very clear. He also bruincast his lectures which allows you to learn in your own time although you need to have the self discipline to catch up with his lectures. Got lucky that he made the final optional this quarter but even if I have a B- in his class, I would've rated him the same.
+
+Quarter: Winter 2020
+Grade: A
+March 13, 2020
+Professor Reinman is easily one of the best professors I have had at UCLA. He cares greatly for his students and his lectures are clear, and straight to the point. I like how every class feels very interactive and because some materials are covered in the video, the professor has time to answer most of the student's questions. His homeworks are very helpful in re-enforcing the ideas taught in class and ensures that students have a solid grasp of the material. He is understanding of different circumstances and is reasonable in his decisions towards concerns of students. He addresses questions of all students with respect, even if other students consider the questions "dumb" or redundant. He is funny at times, which makes the lecture more interesting, and he tries his absolute best to make sure all his students understand what is going on during lecture. He is a role model for all CS professors at UCLA. Even though, I am not very interested in the content of this class, I still had a great time.
+His midterm was fairly straightforward if you paid attention in class! His finals tend to be more difficult.
+I 100% recommend taking 151B with Reinman if you have the chance to! He is just a great guy.
+
+Quarter: Fall 2018
+Grade: B-
+Feb. 6, 2019
+Reinman is a good professor, although he lectures fast. The style is flipped classroom, so be prepared to watch a lot of videos (they are helpful though). The exams are fair, since he tells you what kinds of questions will be on there, but they're not necessarily easy. The final was difficult and long, and I don't think a lot of people were able to finish within the time. Overall, be prepared to put in effort for the course, but the professor teaches it well.
+
+Quarter: N/A
+Grade: N/A
+Feb. 28, 2014
+For M151B:
+
+His exams are very reasonable. He tells you exactly what is going to be on there. In his lectures he goes over multiple examples of the types of questions he will ask you on the exam. Go to class. He isn’t an easy A, but if you go to class and understand his examples it is very reasonable for you to get an A on all of his exams.
+
+This class is about two things: rules, and tradeoffs. If you learn all of the rules in ALU design, pipelining, caches, etc, you are good to go. There are no “tricks,” and nothing inherently difficult, just a bunch of rules you have to apply to examples.
+
+The only “downside” of Reinman I can think of is that although he is a very good communicator, he may talk too fast for some people to keep up with. That being said, go to all the lectures and do not fall asleep. He is a funny guy, so that should not be so bad. Take notes on his examples, and if you do not understand what he said, ask questions. He will go out of his way to repeat and explain concepts.
+
+In Winter 2014, he added an extra midterm, 2 instead of 1, to spread out the content and not have your grade weighted so heavily on just two exams. The homeworks are not graded rigorously which takes off some of the stress, but do them as they’re indicative of exam questions.
+
+Besides Paul Eggert, Glenn Reinman is probably one of my favorite CS professors at UCLA. He is a smart guy and you can tell he is very passionate about the subject. He once let everyone who wanted to leave 40 minutes into the lecture, so he could go into details about Core i7 pipelining (optional material that was not at all part of the class).
+
+For CS 33:
+If you’re a CS major taking this class as a freshman, it can be a little intimidating at first. It exposes you to many new topics at once at a very fast pace. Plus, there are labs that can be frustrating and take up a lot of time. But generally all I said above applies here. His exams are reasonable because he tells you what is on there and does example problems in class.
+
+Quarter: N/A
+Grade: N/A
+April 26, 2011
+Homeworks: Homeworks are required but graded pass/fail. I highly recommend doing them, because in the process you learn what you need to know for the class. If you can do the homeworks and understand how and why the answers are what they are, you are in pretty good shape. Of course, you can also fake them and still get credit if you do not have time to work on it.
+
+Exams: The exams are pretty straightforward. If you can solve the sample and past year exams without too much trouble, you will be in great shape. The final had one problem that was a curveball, but everyone in the class was lost on it, so the curve compensated.
+
+----------------
+
+Effectiveness: Reinman is a good teacher, but not the best. I often left class feeling confused, but when I then went to discuss section and reviewed my notes, the book, slides, and attempted the homework, I was generally able to figure things out. What is also great about Reinman is that he throws in real-world applications so that students know why topics are important and how they are relevant. Much better than most CS professors that teach 10 weeks of concepts without tying things together and explaining why would should care about each topic.
+
+Difficulty: The material is of course hard at times, but the class is about as easy as a computer science class can be without it being a joke and a complete waste of time. Yes you have to study and yes you have to struggle through some of the concepts, but with 1 solid study day every 2-3 weeks, I aced the class. Most other CS classes usually take me 10-30 hours a week to master. The lack of projects is also a huge time saver, though don't minimize the homework if you want to stay on top of the material. If anything, my biggest regret was putting in as much effort as I did in the last week, since the curve was so generous that the extra effort to move from a low-A to a strong-A did not make a difference.
+
+Concern: Reinman truly cares that students are getting it. He constantly asks if anyone has questions, and is very friendly when asking questions after class. This alone puts him way above most of the grumpy CS professors in that he is actually pleasant to interact with and listen to.
+
+Availability: Never had to go to office hours, but he responded to most emails pretty quickly.
+
+Overall: Reinman is not a must take, but if he is teaching one of the classes you have to take, you absolutely should take. If you are also looking to fulfil a breadth or other requirement and want an easy-ish A, I would recommend 151B with Reinman. He has a great attitude, is very reasonable, makes the material interesting, and makes the class very doable.
+
+Quarter: N/A
+Grade: N/A
+March 24, 2009
+Prof. Reinman is excellent! If you can, take this class with him. He's funny, nice and extremely patient. And he's always available during office hours, and he will make you comfortable with asking questions.
+And, he explains things well, too.
+
+At the same time, his exams are really tough, so GO TO HIS LECTURES!!! and PAY close attention.

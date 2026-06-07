@@ -1,0 +1,430 @@
+Quarter: Winter 2016
+Grade: A
+March 29, 2016
+... and then we're toast!
+
+Helpful?
+
+ 8
+ 0
+
+Quarter: Winter 2019
+Grade: A
+ Verified Reviewer
+Aug. 11, 2019
+The popular opinion for this course is that the projects are way too hard and take way too long. For most people, that does carry quite a bit of truth. However, just saying that would make this review sound exactly like the ten preceding this one, so I'll try to do better.
+
+I would qualify the difficulty in the projects, as not that they themselves are difficult, but rather they require quite a lot of knowledge and maturity in programming in C – something that the previous Computer Science classes do not prepare the students well for. Having done the projects myself and helped numerous others, I'd say the two major pillars that people were not as prepared for were:
+
+- reading documentation (“man pages”): ability to skip the boilerplate and get to what you are actually looking for; finding and adapting example code
+
+- understanding and applying memory allocation: fixed-size arrays vs. malloc(); pointers, lifetime, and ownership. Most people understand what they are and how they are different, but applying that knowledge correctly could be a different challenge.
+
+If you are or become comfortable with these things, the projects will be quite doable.
+
+On the other hand, the exams had a different focus. I hate to use the overused word, but they force you to think critically and provide a reasoned answer backed up with facts and experience. For dreamers and debaters, it was heaven. For the rest of us, it was a first taste at what software engineering is all about: a whole lotta dreaming and debating. (Oh, feel free to replace “dream” with “BS.”)
+
+But where do you get the facts and the experience? The former you get by following textbook readings, which are unfortunately very heavy, as well as by listening and processing Professor Eggert's excellent lectures. The latter you get by stumbling and reflecting while doing the projects.
+
+Of course, many online resources exist for help in the projects. However, a word of caution if you do decide to go down that route: most folks on GitHub who post their solutions were just as clueless as you are when they did it. Thus there is great variance in the the quality of said resources.
+
+But if you do end up finding resources of high quality, make sure to maximize your learning by carefully reading and understanding why they did something but not something else: because there’s an actual reason, or because they just felt like it? How did they think of something that you didn't? Reflect, and you’d become a much better Computer Scientist or Software Engineer for it.
+
+Probably said too much already, so I'll stop. In any case, good luck, and hope you enjoy the class!
+
+Show More
+Helpful?
+
+ 3
+ 0
+
+Quarter: Fall 2019
+Grade: A
+Dec. 25, 2019
+If you actually do the readings, this class will be a lot of work. I read all the assigned A.D readings and additional readings and did most of the S.K. readings (all of those before the midterm and chapter 11). The discussions are very helpful and my TA was very helpful in telling us how to approach the project and often times gave us pseudo or actual code to implement the project. The projects are relatively time consuming but for the most part aren't super difficult.
+
+I got 80% on one of the projects but over 90/100 on all the other projects. I got a 49.5% on the midterm after a regrade(mean was 49.5% and median was 51%). The TA's grade the report at the end and don't seem to care much so I got 100 on it even though I completely rewrote it the day it was due in like an hour. The final was open book and open note so I had a whole binder with a table of contents that really helped in the final which I got a 77% on and ended up with an A overall in the class.
+
+I definitely suggest going to his office hours to clarify on concepts in readings/in class because he is really good at explaining in smaller settings and is a really nice person, so don't be intimidated!
+
+Show More
+Helpful?
+
+ 2
+ 0
+
+Quarter: Spring 2023
+Grade: A
+ Verified Reviewer
+June 30, 2023
+Eggert takes you on quite the roller coaster. I actually liked the readings, I felt it was important for the exams to actually do all the assigned AD readings. Of course, most important was lecture material. But it was difficult to decipher lecture material often, so you had to really pay attention. Other than Yadi, the other TA's weren't super helpful, and we only had 2 out of our 5 labs graded before the final, which was bad, since I had no idea how I was doing.
+
+But overall, the labs were interesting and I think I came out with better knowledge on C programming than anything else.
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Spring 2023
+Grade: C
+ Verified Reviewer
+June 28, 2023
+Highly reccomend the class, but its really tough. Grading is also really weird. There are 4 labs that make up over %30 of our grade, but only lab 0 and lab 1 were graded in time to talk to TAs about grading. The rest were not graded until 2 hours before the grade deadline, and any 0s were left that way even if unfair. The only enjoyable part of this class was lecture, and maybe labs if the grading wasn't so bad. Eggert is a really ood lecturer, and can stay engaging for 2 hours, unless the material is really boring which does happen. The labs are actually pretty fun to do, but hard to test, so a working program might still get a 70-80 because of special case test cases. Exams were very hard, ~%50 averages on both. As a really bad test taker i still did around average on the midterm and below on the final and passed.
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Fall 2019
+Grade: B+
+Jan. 29, 2020
+EGGERT IS THE GOAT. This class is legendary. As long as you stay on top of your work, you will survive and walk out learning a lot about OS. His tests are impossible so they might not even be worth studying for. <3
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Fall 2023
+Grade: A
+ Verified Reviewer
+April 8, 2025
+most winnable eggert class imo, textbook is hugely important
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: A-
+ Verified Reviewer
+Feb. 7, 2024
+This isn't rly a review for Eggert or CS 111, but rather the TA Yadi Cao (and by extension Brian Rosyar). If you see any discussion section TA'd by Yadi Cao, even if you aren't in his section, DROP THE CLASS. Yadi Cao is a TA straight from the depths of hell. Yadi does not prepare for his discussion sections (if he is even present), is always late, and is very rude both in-person and via email. If you try to email him or ask questions on Piazza, don't expect a response from him (or Brian for the matter). The worst part though is his grading standards. Yadi had completely asinine grading schemes for Lab 2 and Lab 3. For Lab 2, he changed the lab significantly and provided no test cases, then proceeded to use over a thousand randomly generated test cases that caused the class mean and median to be in the range of 60. And for Lab 3, we don't even know how he graded it, just that tbe class mean and median was once again in the 60's. It's absurd he's still allowed to TA classes frankly, but I suppose that's to be expected from UCLA.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: A
+Jan. 31, 2024
+Unlike 35L, this class has a textbook, which covers 90% of what you need to know for the tests. You don't need the textbook, as everything on the tests is covered in class, but it's nice to have anyways. The tests were decently difficult (average around 60 for both the midterm and the final I think) but fair enough. There were a few particularly challenging questions on each of the exams, but I think you could get a solid grade just by answering the simpler ones and hoping for partials on the hard ones.
+The grading for the final and labs 2 and 3 was so ridiculous, I honestly can't tell if they just used an RNG. If you're set on getting a good grade, this may not be the class for you.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: C+
+ Verified Reviewer
+Jan. 9, 2024
+This is a classic Eggert class, lectures are interesting but very inconsistently relevant to the assignments. The exams were hard, but the projects were very manageable, I hear they are much easier than in the past.
+
+Helpful?
+
+ Quarter: Spring 2023
+Grade: A
+ Verified Reviewer
+Sept. 22, 2023
+Paul Eggert is an absolute legend. A veteran of the software development industry, he shines in his lectures while he doles out wisdom from his years of experience. He is irreplaceable.
+
+In terms of exams, yes, they are hard, but one can easily get away with 1-2 standard deviations above the mean by writing down what seems reasonable. Much easier than other exams where you absolutely must know the answer.
+
+Readings were a little bit harsh. Too many readings, not much useful content on them in the exams. One of the books, Principles of Computer System Design: An Introduction by Jerome H. Saltzer and M. Frans Kaashoek (SK), was way too stuffy.
+
+Projects were an absolute disaster this quarter. Way too easy, the skeleton gives everything away. Takes me only like 2 hours to complete. Absolute disgrace, learning nothing from them. Please note that I talked to the professor about this—this isn't his fault, he says he has to keep the labs because the TAs are only trained on them.
+
+I didn't really attend discussion, but the first one was pretty good. Solid TA. Just by design of the course, this discussion wasn't very useful. Reading over the PDF worked just as well for me.
+
+Show More
+Helpful?
+
+ 0
+ 1
+
+Quarter: Fall 2022
+Grade: A
+ Verified Reviewer
+Jan. 15, 2023
+I took this course in Fall 22 and have to say, the course seems to have become a lot less work in recent years. Now, Professor Eggert uses Eyolfson's Labs for the majority of his assignments (excluding a short paper at the end) which are far easier than the assignments he used to give out (though they're a bit less interesting). The decrease in workload coupled with Eggert's fantastic lectures makes this class a pretty great one. The tests are the only real beast to beat but I managed an A with around a 60 on the midterm and a 75 on the final. Just stay on top of things and print out all your notes and assignments and you should be good to go. I would also recommend paying attention to the resources provided by your TAs for help with the assignments.
+Overall, 10/10 would take again.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2019
+Grade: B-
+June 23, 2019
+CS 111 is already a very hard class. The materials are condensed and the projects definitely cost tens of hours to finish. However, having Professor Eggert makes this class even harder. His exams are not predictable at all - which means, he could give his finals in two totally different styles on two consecutive quarters. One could score 80 in the previous quarter but 40 in the current quarter. The only way to score an A - at least what I could think of - is to prepare yourself with any kind of hard questions. Go to his office hours regularly and ask him tricky questions so that you could follow his answer as an example of how your thinking process should be when facing a similar question in the final. And when attending lectures, don't just drop down notes about concepts he mentions but how he actually gets there as well, that being very important.
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Winter 2019
+Grade: A
+June 17, 2019
+This course is extremely rewarding if you put in the work. You will walk away having learnt something. But if you are not a hard-core CS major who just wants to coast by with little work, do not take it with Paul Eggert. If you want to get a rigorous introduction to Systems then take Eggert. This is what you have to do to learn well and do well:
+1. Do the 100 or so pages of reading from Arpaci and Duseau before every lecture and take notes on them! You can ignore SK, maybe it helps with lecture or exams? Also do the readings on the course page. You will find that Dr. Eggert offers a perspective that is distinct from what is in the readings. It is much easier to follow the lecture if you do the readings.
+2. Start projects early. Obviously not the day its assigned (everything is assigned on day 1 in Eggert's classes). I mean start 2-3 days before the deadline and be willing to stay up until 3am coding them up. It is also important to discuss edge cases with friends as these will for sure be tested by the grader.
+3. Pay rapt attention in lecture. Type down everything he says. It will come to 1500-2000 words per lecture. I advise you to not have classes during his office hours. The TAs are, for most part, clueless about the material especially if they are Masters students (shoutout to Vishwas for reading the man page in all its glory). But TA Zhaoxing Bu, was quite useful. Eggert's office hours are not packed despite how much you can learn from him in those hours. I basically had close to one on one attention and was able to clarify all my questions. I personally felt that discussion for this class are useless as all they do is give project hints which are not that hard for you to figure on your own, if you love coding in C/C++ or enjoyed 35L.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2019
+Grade: B+
+June 16, 2019
+The syllabus and projects for this class were completely revamped in 2016, so reviews prior to that may not be as relevant. That said, the overall details are mostly correct: this class is quite tough.
+
+The class had two textbooks, both of which are free to access. I'd highly recommend doing the recommended reading from the Arpaci-Dusseau book, it's free and not dense at all. The reading will help you follow along in lecture.
+
+Eggert himself is a pretty engaging lecturer, but he doesn't use slides. He writes on the board in a pretty disorganized manner, and zoning out for a few minutes will probably leave you confused for the rest of lecturer. It's really important to note down everything he says in class, and I mean everything. His exams are usually based on expanding off the ideas he went over in lecture, so if you can follow along in lecture, you should be okay.
+
+Coming to his exams, they're really difficult, but by doing the readings and following along in lecture, you should get at least a little above the median. While the questions don't make sense initially, it's important to read them clearly and write at least something coherent for every question. Even if it's not entirely correct, you'll get good partial credit. I managed to score well on the final by regurgitating a few of Eggert's ideas from lecture. Also, each exam has some giveaway questions, so look for those.
+
+The projects are quite difficult, and a lot of people cheat on them and get high scores. That's why it's important to get above the median on the exams to differentiate yourself.
+
+Eggert himself is a really nice guy, and is great to talk to in office hours. However, he usually doesn't offer specific help on the projects. For that, use the Piazza or go to the TA office hours. Alexandre Tiard is a great TA, and is quite helpful.
+
+CS 111 is a hard class, but is a great way to learn about how computers work and how software is built. Don't shirk, and you'll be fine. Also make liberal use of Eggert's late policy.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2019
+Grade: B-
+April 6, 2019
+I studied HARD for this class. I almost all the readings, but it didn't really matter because his test questions didn't really relate to the readings. Everyone pretty much gets 100% or near 100% on the projects. I got 100% on the paper and I'm sure it wasn't really graded hard. The tests is what determines your grade pretty much.
+
+Eggert has the most generous grading distribution out of all of the professors who teach this class. However, the variation between the different grades can just be a matter of a few points on an exam and your performance can sometimes be determined by luck. The exams are so hard and do not have to do with any of the readings and go beyond the difficulty of lecture so much, that your grade essentially is determined by your ability to BS and also luck. I got around the bottom 15% on the midterm and then around average for the final.
+
+If you're the type of student who does not really study or spend a lot of time for classes and just wants to pass, then take this class. Your grade will be determined by your BSing skills and luck. If you're the type of student who studies hard, it won't really help you. I would suggest taking another professor.
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Winter 2015
+Grade: A
+June 20, 2017
+It's honestly been a while since I've taken this class, so I can't really give a really detailed overview of what the class was like. However, I would highly recommend taking Operating Systems with Eggert because he really knows his stuff. His philosophy towards software, his passion, his humour... I really think he's the embodiment of what all prospective software engineers should aspire to be.
+
+So, I would recommend Eggert because he's a really awesome person and you learn the most by being around awesome people. That being said, Eggert is not exactly the best "teacher" per se and he will use a lot of computer science terms without bothering to define them and sometimes, his lectures will be really hard to follow because his knowledge of the material trumps your knowledge of the material a thousandfold. Also, the class is a lot of work and maybe a little overwhelming at times.
+
+However, as Professor Eggert frequently emphasizes, a lot of software is about tradeoffs. In the situation here, what you're trading for your "free" time, unimportant hobbies, and uninspiring social life is an opportunity to learn a very cool subject at the steepest learning curve possible. I would say that's a worthwhile trade.
+
+Edit: Also, I took this class back in Winter 2015, which is the last class based on the old curriculum. The labs have been changed decently so the class might not be the same experience as before.
+
+Show More
+Helpful?
+
+ 2
+ 0
+
+Quarter: Winter 2015
+Grade: A
+May 10, 2017
+The difficulty of this class is heavily overblown.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2017
+Grade: A
+April 2, 2017
+Eggert is very decent for 111. IMO he's the best 111 lecturer in UCLA. His lectures are engaging and clear (unlike his 33). His 111 exams are not as hard as those from 33.
+
+His final has a lot of multiple choice problems, which are basically quizzes for the assigned reading. I suspect that's why he doesn't have quizzes like other 111 instructors. If you read all required readings from either textbook (I used the online version), those multiple choices are very doable (some questions can be directly found in boldface texts from the book).
+
+Labs won't cover kernel code at all, which is a shame, as USC's OS course has a few kernel assignments.
+Lab 0 and 1 are ok since they teach us how to correctly use system calls, etc.
+Lab 2 basically reiterates through what we learn in class so we basically didn't learn anything new from Lab 2. I don't know if it's a good thing or a bad thing.
+Lab 3 is a total disaster. I learn absolutely ZERO from this lab and it costs me days to finish it. Reiher's spec is also the most unclear I have ever seen. Compared to Reiher's specs, Eggert's 35L specs are pretty amazing.
+Lab 4 requires us to buy a $100+ Intel Edison device. From this lab, I learned how to adapt sample code online. I really can't think of anything else I learned.
+Unfortunately all 111 labs are the same, so we have to live through that.
+
+Show More
+Helpful?
+
+ 3
+ 0
+
+Quarter: N/A
+Grade: N/A
+March 20, 2015
+Pretty decent lecturer, but not as good as everyone says, and the class not as hard as everyone says. One thing I do not like is his exam, absolutely nonsense, you may get the same score as those who have not taken 111..It's pretty irrelevant to the class.
+
+Quarter: N/A
+Grade: N/A
+Dec. 31, 2014
+Eggert is a very good lecturer, it just seemed like there was only time to give a handful of details about a giant subject matter. The exams, though, expected you to have a broad understanding of it all, so it made it tough to score anything presentable. Tuan is a great TA and has taught this class a few times before. He's a really big help. Go to his discussion if he's still teaching.
+The other TAs seemed to be off the rails when it came to grading the non-technical projects, like the essay and the scribe notes. Really harsh grading on those. When you ask those TAs about this grading, they give totally baffling reasons. Ridiculous.
+Most importantly, get a good lab partner, and remember that you can change partners between projects if it's not working out.
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: N/A
+Grade: N/A
+June 8, 2011
+I took 130, 111, and 131 with him. I feel like he's only good for taking 111 with.
+130 he assigns way to much readings with quizzes which, by the second half of the quarter, probably were never getting graded. The midterms and finals were HUGE essays so you really need to know how to BS well to get a good grade on them. The plus with 130 though is that you get to do a real project for a real company or professor, but this was really challenging for me because 130 was my first upper div class. Final grade: A-
+111 he was actually OK, he had pretty good notes, and the projects were pretty cool especially with a partner. However, it must be noted that the entire course with the lectures and projects were all designed by Kholer who's no longer teaching. Nevertheless eggert was definitely effective for 111. Final grade: A
+131 was my second least favorite CS class, next to CS33 with Rohr. It seems like he doesnt think when he assigns those homeworks to you. Most of them were ok, some even on the easy side, but the scheme project was just too crazy, most people gave up with the most basic implementations because it was just not worth it to spend 20+ hours on something that was only going to be worth 5%. His lectures for 131 was also extremely unorganized, it was pretty much impossible to take notes because he would keep on erasing what he had on the board to add some changes. Midterm and final were extremely hard. Final grade: A-
+
+overall, only take him for 111, take 130 with him if you want some real life experience, but for 131, avoid him unless you like to be frustrated for a long period of time for 5 points
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: N/A
+Grade: N/A
+Dec. 4, 2010
+Professor Eggert is an excellent professor, albeit very challenging and time consuming.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: N/A
+Grade: N/A
+June 10, 2010
+The other evaluation is also correct. He is the best professor ever. I divided my review into several sections.
+
+Professor:
+
+His teach is entertaining and informative. He offers real world example and situation (none from the book, you should note them down). The essential information is basically from the book. However, he delivers it well. After 2 hours of class, you know more than you knew before. He is always available in his OH. He holds high work ethnicity, such that if there is a phone call, he tells the other side to call back afterward. "Some professor" don't even do that. (I won't name names here).
+
+Class:
+
+I can't say CS 111 is easy, because it is not. It is a lot of work and it is even more work now. I heard that CS 111 will be count 5 units from FALL 2010 and the class will be much harder. For this quarter, you may not need to know x86. MIPS is sufficient to understand assembly example. The only assembly instruction you learn from this class is INT and how to do asm inline in C code. I don't even go to discussion at all, partially, TA is sux at explaining and some TA doesn't even reply your email within 3 days. The only one time I went is for to make oral presentation. That is right. There is a required oral presentation.
+
+Book and additional readings:
+
+Book is not very well written for some chapter, but it does its job. However, it is not supplement for skipping class. Don't try to skip class by reading book, you will be missing a lot. There is no official additional reading as far as I can tell you. But if you want to pass this class, you will need to know how to program a device driver for linux kernel (There is a book for that). Also, the exam is open book and open note. I advise you to print out everything you read to do the project such as kernel functions such as chdir, open, fctnl, read, ..., and other materials. You will not do well on midterm and final if you don't print out EVERYTHING you read. If you read from a book, just print the chapter you read. You don't need to print out the entire book. Scribe note, I found that the best note is the one that you took and not some other people. If you intend to print out scribe note to replace your lecture notes. Then you are doing 1 thing wrong here; that is to trust the people who write the scribe note.
+
+I think I say enough for anyone who take Eggert could pass his class. He is not hard, he is VERY creative in his test, but if you prepare well, you won't strip up on anything.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: N/A
+Grade: N/A
+Dec. 23, 2009
+First of all, the review from 8/23/2009 is spot on. Since Eggert is one of the best teachers I have had, however, I will do him justice by giving a thorough review even if partially redundant.
+
+Lectures: Very thorough, clear, well structured and entertaining. Eggert is good at combining practical topics with real-world examples and stories to keep the students interested. In CS111, he focuses on the standard UNIX functions (i.e. open, chmod, etc), and talks about the important design considerations while essentially implementing simplified versions of these. He does the same for various kernel tasks. The advantage is that you gain a real understanding of the low-level by learning through actual code examples and designer logic. This is unlike CS33, where Rohr presented low-level concepts without giving a clear picture of how they do what they are supposed to do and how they are relevant to everything else.
+
+The only thing I did not like about Eggert's lectures is that he often went through topics too quickly. I found several cases where his examples went completely over my head until I spoke to others for an hour or two. He provides notes from past quarters, which are helpful, but those notes are not always that good. Operating Systems is also pretty low-level, so google does not provide great explanations of all of the minor topics. Eggert also goes through some assembly code, which was very scary but turned out not to be important for the class or exams. For the assembly code, just understand what it is doing at a high-level without worrying about each instruction.
+
+Homework: His projects are tough but also very practical. For instance, implementing a filesystem or writing a small operating system from scratch. They are hard but doable if you start early and get sufficient help. Further, Eggert comments the exercises to make them more approachable by knowing what to do where. I often had trouble figuring out what we were supposed to do, but then once I got it, the implementation was not too bad. Therefore I would recommend starting early and getting help as needed. Working with friends is also helpful.
+
+Also keep in mind that there is a constant flow of work -- 6 projects/minilabs, scribe notes, a brief research paper, and a design problem report, presentation and code implementation. Therefore stay on top of things, and don't slack off! He does, however, give extensions on the some of the projects so it is not too bad if you are on top of things. I would also recommend doing optional work early. I made the mistake of saving my Scribe notes, research paper and design problem to the last week, which forced me to do them while working on Lab 4 and studying for exams. That week was hell, and made me wish I did Scribe notes within the first 2 weeks of class and did the design problem no later than lab 3.
+
+Exams: The one thing I hated about Eggert was his exams. They are open-ended and unlike any other CS exam -- if anything formatted more like a Social Science test. Simply knowing how things work and how to implement code only helps you a little. You have to really understand the material to be able to answer questions like "Would this Operating System work if we used a custom compiler that laid out the stack and heap like XXXXX? Why or why not?". There are also some questions that seem clear, but are really trick questions or ones you misconstrue until after the TA explains why your answer is right but you got 0 points cause you answered the wrong question. Overall, however, Eggert is good about partial credit, so just write a lot to show you know what you are talking about. Eggert aims for a mean of about 50%, so even if you lose lots of cheap points, so does everyone else. I was pissed that I got a 76% because I felt most of the points I lost were unfair and I desired a 90%. With the curve it was a strong A however.
+
+In my class, the final was a lot easier than the midterm, but that may have just been luck. The format was the same as the midterm, but much longer.
+
+Grading: Overall the class is really hard, but certainly doable. I got an A, while working full-time. With that said, it required spending 1-2 days a week working full-time on projects and homework for this class alone. I didn't study too much for the exams, but being really interested in the material I paid very close attention during the lectures and reviewed both my notes and the scribe notes to make sure I understood everything.
+
+Bottom line: If you are interested in Computer Science and/or Linux/UNIX, you will learn a ton from Eggert and do well in the class. If you do not want to be there or don't care about the details of how OS's work, the projects and exams will be really tedious, and I could see how one could easily fail.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: N/A
+Grade: N/A
+Aug. 23, 2009
+Eggert is the best professor I've had at UCLA
+
+Admittedly, he's also the hardest. This is both a function of the course material that he teaches being particularly difficult (I took him for CS111 (operating systems) and CS 131 (programming languages)) and the fact that he expects your life to revolve around his class.
+
+Lectures: His biggest selling point is that his lectures are very interesting and very informative. He speaks loudly and clearly, with a lot of animation. It's kind of like watching a philosopher muse to himself about deep questions of the universe.
+
+Projects: Hard. Really hard. He tells you the first day of class that you should expect to spend about 12 hours a week on projects, and I would say thats an underestimate. In CS 111, you do get a partner if you want one, so if you have a buddy you work well with, that's very helpful. Don't expect to go to too many parties while in one of his classes.
+
+Tests: They're very difficult, due to their open-ended nature. The curve is pretty good (averages between 60 and 70 when I took the classes). It's also pretty hard to totally pwn a test, because it's pretty easy for them to doc you a few points here and there. This, combined with a lot of partial credit even for idiotic answers, has the effect of compacting the overall scores into a smaller range, meaning that you can't ace the tests and ignore the projects like some classes.
+
+I would recommend an Eggert taught class for anyone who really wants to learn. If GPA and free time are more important to you than learning, don't take his class, because it's a difficult A.
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: N/A
+Grade: N/A
+Jan. 29, 2009
+I really enjoyed Professor Eggert's class. He was incredibly knowledgeable and had a way of enthralling the entire class. I had though operating systems would be incredibly boring, but Eggert somehow made it very interesting. He is brilliant professor, but ...
+
+This class is pretty close to impossible. That being said, I did get an A. The projects did take about 12 hours per week, so you should certainly not take the class with any other hard ones on your schedule. The funny things about the projects is that you can get about a 90% on each one while only doing half the work. Every project has one last little section that's worth about 10% that is a ridiculous amount of work. If you're a shoddy programmer like me, don't even bother with this part. Oh, and don't bother buying the course reader, if he still has it. Ours was 579 pages, with 2 real pages on each page. This becomes of 1000 pages of uselessness! Finally, a note about the tests. They are difficult, open ended questions that likely don't have any 1 answer. Just put something down for every question, and you'll likely get partial credit. He aims for the average on the tests to be around 50%, but it was around 60% for us. If you do well on the midterm, you'll do well on the final. Same questions, different material.
+
+This class is very difficult. I'd recommend getting a good programmer for the projects, because there is absolutely no way to go it alone. With all this bad stuff, he was still probably my favorite professor. You should definitely take this class with Eggert if you get the chance and don't have too much other work that quarter.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: N/A
+Grade: N/A
+Jan. 18, 2009
+This class is by far the hardest I've taken at UCLA. This class broke my love for computers and computer science and right now I just have a corrosive hatred for anything to do with computers.
+I also had to consult professional help because I was under so much stress during taking this class.
+To me, it's not the material, but the way UCLA chooses to do it that is the problem.
+The material was honestly not bad, and it was quite interesting, but the management of the class was the worst thing
+
+The specs are UNBELIEVABLY poorly written. Installation instructions are so bad that I spent most of my time googling all the instructions that I wasted 75 % of my time just installing stuff like the emulators.
+I consulted professionals who also told me they've never seen such poorly written specs in their life.
+
+The TAs and other professors are not great either. They simply suck, and so does the new prof Nahapetian who's also started teaching 111. Eggert is probably your best bet, because he at least teaches well.
+
+I thought education was all about learning and fueling your love for your learning. We clearly do it differently in colleges like UCLA, CAL, and MIT. I was enamored by the prestige, but I should have probably gone for lesser colleges people might actually care enough to give us good specs!
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: N/A
+Grade: N/A
+Dec. 19, 2008
+Professor Eggert is very knowledgeable about operating systems but that makes his class difficult. On the first day of class he tells you that you will need about 12 hours a week of outside work (meaning doing the projects). Its not much of an exaggeration either, there are only 4 labs but there are 2 "mini-labs" which are almost as difficult as the regular labs and the other weeks you are studying for the midterm/final. So basically you will always have something to be working on in this class.
+On the upside, you will definitely learn a lot about operating systems. If you want to actually learn something this is a great class, just know that it is definitely NOT an easy A. Eggert's exams are difficult, especially if you are used to pretty much knowing everything about computer science up to this point. The mean is normally set around 60% so expect to be very challenged in this class.
+

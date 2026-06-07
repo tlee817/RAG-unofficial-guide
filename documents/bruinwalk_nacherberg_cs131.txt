@@ -1,0 +1,241 @@
+Quarter: Fall 2023
+Grade: N/A
+Jan. 5, 2024
+Sure, Carey is fun. He is an engaging professor and puts a lot of effort into his slides and making class interesting. That doesn't go unnoticed.
+
+But in all honesty - this class sucks. Never have I put such time and effort into a class for such little reward. It's brutal and there is little support. The projects take forever, the tests are extremely difficult, and class time is wasted for jokes and irrelevant stories so we were behind and had to learn a whole topic during our own time.
+
+I think Carey has a bit of an ego. Instead of telling random anecdotes about his life, why don't we learn what will be on the exam?
+
+I have never felt so defeated and stupid than I did in this course. I wish I would have taken it with Eggert (never thought I would say that!).
+
+Show More
+Helpful?
+
+ 2
+ 0
+
+Quarter: Fall 2022
+Grade: NR
+Dec. 9, 2022
+CS 131 with Carey! I personally didn't take CS 32 with Carey, so I was pretty hyped about this. And honestly, I think it lived up to the hype. The class did remind me CS 32, in terms of the type of content covered and the programming in the class.
+
+As a disclaimer, a lot of these criticisms are probably because this was the pilot quarter for the course. Carey will probably improve most of these criticisms in future offerings.
+
+The class material isn't difficult, there's just a lot of it. I thought most of it was interesting and cool, you really get a pretty good grasp about how different languages do things differently. His slides are very in-depth and good for self studying. But by the week 6 midterm, there was honestly so much content to review it was a bit of a struggle. If you study early and come prepared with notes (open note/book exams), you will be fine.
+
+We have 3 projects in the class, each building off the one before it. The projects were basically implementing an interpreter for a made up language using Python. They did take quite a long time (15-20 hrs), but definitely doable and good just for practicing your programming/code design skills. In future courses, I think he might shorten them a bit or provide more starter code, since a lot of students seemed to take a while on them.
+
+Overall very satisfied with the class, glad this course got reworked with Carey!
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Winter 2026
+Grade: B+
+ Verified Reviewer
+Feb. 19, 2026
+nachenberg is the goat! difficult workload for sure (and fast moving content) but he really does his best to clarify materials and keep students engaged.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2025
+Grade: A+
+ Verified Reviewer
+Dec. 18, 2025
+Great class by Carey. New format this quarter was 4 quizzes instead of midterm and final – felt the pacing was much better this way. Still would recommend taking with Eggert and sometimes this class was too slow and easy, very generous curve at the end
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2024
+Grade: A
+ Verified Reviewer
+April 8, 2025
+I thoroughly enjoyed this class. The projects were pretty rewarding but as the other reviews said that debugging them was helped a lot by student-sourced test-cases. I thought exams were fair but definitely a time crunch, course material was super easy to digest and the TA notes that accompanied each topic on the website were extremely helpful both in understanding/reviewing the material as well as creating cheat sheets for the exam. Lectures were engaging/helpful and slides r good although imo too many carey glazers when you attend y'all need to calm down
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2024
+Grade: A
+ Verified Reviewer
+Dec. 24, 2024
+I really enjoyed this class, probably my favorite class I’ve taken at UCLA in my 3 years. I felt like I learned so much from this class that I’ve already applied in my day-to-day learning and programming. Graded on effort, the homeworks are designed to be however much you want to put into them. I found the project to be super fun and I actually looked forward to doing each part, but definitely make sure to start early! Midterm was on the easier end, but the final was brutal. My advice is to not care about your final grade and just try to learn as much as possible because this content is super useful.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2024
+Grade: A
+ Verified Reviewer
+Dec. 19, 2024
+The other reviews already outline the structure of the course including percentages of your grade for hw/projects/exams, so this review will touch on some other things.
+Overall, I'm glad I took this class with Carey instead of Eggert, and I do recommend taking this class as the content is solid and Carey is very clear. However, I do feel that you will only find this class very fun if you are one of Carey's favorites. There is clear and obvious favoritism in the class, but I do love his engaging personality.
+Carey also takes student feedback seriously which is great. Definitely reach out to him if you have comments/suggestions/concerns.
+Something that I thought was unfair was that F24 quarter was experimented on for the final. Instead of open notes, students were restricted to 15 pages front and back (it was actually going to originally be only 5 pages) and we could not reuse the papers we had already printed for the midterm. Our time for the final was also shortened by 30 min. The final exam was very difficult and the 2.5 hour time limit was unrealistic. I almost didn't finish. I didn't understand what some of the questions on the final were even asking. I think the paper and time restrictions single handedly brought my score down at least 10 points instead of the actual content of the final, which was unfair in my opinion. Regardless of the difficult final, students did well (about 75% median) and this was also the case on the midterm. I believe there were just some very very strong students in the class this quarter because the averages were not as low as they typically would be in a CS class.
+For both the midterm and final, I recommend knowing Haskell well. The Haskell questions are usually the hardest questions, and the hw is excellent practice for the final. Make sure to be familiar with project implementations because both exams assumed you remembered project implementation like project4 having need semantics, short circuiting, exceptions etc.
+The interpreter project is split into 4 projects, each their own version. Students crowd sourced test cases which helped TREMENDOUSLY with knocking down test cases. The projects are submitted on Gradescope and you can resubmit to run the test suite as many times as you like which is good, but keep in mind your entire submission history is recorded.
+Lastly, Carey and TAs are very adamant about catching cheating and Carey will often start classes saying they caught 5-10 students on the most recent project submissions. You definitely do not need to cheat to do well with the class. The projects are not that bad, but discussing conceptual implementation with TAs and other students can help you a lot with figuring out certain features, especially need semantics and pass by reference.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2024
+Grade: A-
+ Verified Reviewer
+Dec. 17, 2024
+131 with Carey is an interesting class, but I'm happy I did it with him rather than Eggert. He's pretty interesting, he posts his slides (the most useful thing) but doesn't record. I feel like he tries his best to teach you practical information (a lot of it is), and he makes stuff engaging. The class is outlined as follows:
+4 Projects, first one is 3%, second is 7%, third is 10%, fourth is 10%. It's pretty interesting since they all build off each other but hardly relate to the class content and the tests. The first one is chill, but the last three are decent time sinks (10-25 hours each), but are kinda more tedious since they don't really prep you for the tests at all.
+HW is 10%. About an hour or two per week, pretty good and REALLY useful for test preparation, he often reuses old tests questions as homework. You should do them and understand them fs
+Midterm 25%, he made it open note (like most classes), I found it fairly easy because I printed everything and used it for reference, also the content is a bit easier than the final too. The average was pretty high, around mid-80s.
+Final 35%, I was cruising in class until the final hit, it was way harder than the midterm, also attributed to the fact that he made it 15 pages (double-sided) instead of open note, which contributed to the lower average (mid-70s). Some questions were borderline unanswerable, and others were purely meant to take up your time and try to trick you. Easily one of the hardest exams I've taken at UCLA. Also, its massive time pressure too, since he only gives you 2.5 hours to do it (when it's significantly longer and harder than the midterm).
+
+Overall, Carey's class is solid if you put in the work and (mostly) understand class content. Discussions are pretty useless IMO, but the TAs were generally nice and responsive. It's a hard class nonetheless, but I'm happy I took it with Carey over Eggert.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2024
+Grade: A+
+ Verified Reviewer
+Dec. 17, 2024
+i thought this class was gonna be harder than 35L but thankfully i was proven wrong, however this was def the 2nd hardest class ive ever taken at this school. the actual lecture content is pretty reasonable imo. he did quite the overhaul of course content this quarter and it started off with a 2w deep dive into python, a 2w deep dive into functional programming (with haskell), 5w spent on a whole bunch of language paradigms (type-checking schemes, memory safety & garbage collection, variable binding semantics and parameter passing semantics, OOP from head to toe, iteration, and a whole bunch more), and 1w spent on logic programming (with prolog). i would say i learned a LOT in this class, and i'd def say the 5w spent on the various "paloozas" (data, function, OOP, etc) was some of the most useful content that i see myself using outside of this class. his lecture slides are super useful to walk through (view them in microsoft powerpoint, not google slides) and the TAs uploaded their lecture notes, so if u missed class it wasnt that big of a deal (altho i'd rly recommend going to lecture bc he doesnt record and i think it rly helps to receive that direct teaching from him as well). the grading scheme was as follows:
+
+10% HW (graded on completeness)
+3% project1 (graded on correctness)
+7% project2 (graded on correctness)
+10% project3 (graded on correctness)
+10% project4 (graded on correctness)
+25% midterm
+35% final
+
+the project was a cumulative course project where you built an interpreter in python for a custom language (the grammar and parser were given so just the implementation logic is up to you). you are going to write a lot of python in this class. the projects are EXTREMELY difficult and take a LOT of time. ur given an autograder so yk how you do on each project, but only 20% of the test cases are public. that being said, a lot of students crowdsourced test cases and that made the projects a little more bearable, especially when trying to figure out certain bugs. the projects are moreso a grind than they are difficult. the midterm was rly easy this quarter, so easy to the point where they made the final slightly harder. the final wasnt too bad but most ppl complained about it. ppl say the final couldnt be studied for, but i rly feel like it was similar to the practice finals that were given. thats not to say it was easy, but i still feel like it was fair. overall, super difficult but enjoyable class
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2024
+Grade: A-
+ Verified Reviewer
+Dec. 16, 2024
+I loved this class! I feel like I become a much better developer from this class because it takes many of the concepts that you already have basic knowledge on and goes very in depth to them. Carey is funny and has engaging lectures. He really cares about his students and his office hours were super helpful - he hosts 2 one hour office hours a week and is happy to discuss the homework, projects, lectures and pretty much anything (his project tips were great!). This class is of course a lot of work and the exams are challenging, but it is definitely a class you can do well in if you put the effort towards it. He tests knowledge of the projects, so definitely make sure to do them completely and even though homework is based on completion, I would make sure to understand it fully. Classes aren't recorded but lecture slides are so good that you could just go through those if you don't want to go to lecture (though I recommend going to lecture and he gives out food as incentive for answering questions so its def worth).
+
+Show More
+
+Quarter: Fall 2024
+Grade: A
+ Verified Reviewer
+Dec. 10, 2024
+Overall, this class is tough but fun, I really admire Carey as a person and I enjoyed working through the projects of this class, although they take very long to complete.
+However, I got absolutely wrecked by the 24F final. Ugh. The format was 'easy' for the grader to grade this final, but also it makes partial credits much harder to get. There were little or none "Why/How" questions, but a ton of code-tracing questions that attempts to trick you to make a mistake. I genuinely felt that the final was made to trick people, instead of an accurate representation of the content of the class.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: A
+ Verified Reviewer
+April 2, 2024
+yall already know he the goat
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: B
+ Verified Reviewer
+Jan. 12, 2024
+Carey is extremely overrated and grades very harshly. Take it with Eggert.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: A-
+ Verified Reviewer
+Dec. 17, 2023
+If you're taking 131, take it with Carey. The material and tests are still difficult don't get me wrong, but the experience is much better compared to eggert. Our project was building an interpreter in python over the course of the quarter (split into 4 projects). Carey provided incremental solutions so if you didn't finish one, you could use his solution for the following project. I ended up using it for project 4 and it made it so much easier!! HWs are long but only graded on effort. My only complaint with this class is that there is so much material crammed into the quarter. Carey had to release an extra lecture for the last topic (logic programming) which then was 20% of our final exam. I definitely didn't understand that content as well and had to learn it on my own.
+
+Helpful?
+
+ 0
+ 1
+
+Quarter: Spring 2023
+Grade: B-
+June 29, 2023
+CS131 is a HARD class but Carey is probably the best one out there to teach it. We had 10% homeworks graded on effort, 30% projects (3 projects 10% each), 25% midterm, 35% final. The projects were extremely brutal, by brutal I mean spending more than 30 hours on each project, pulling your hair out and trying to find test cases that would break your code (getting edge cases). The projects build on each other and we basically build our own Interpreter (Brewin) using Python. The first project was the hardest because we had barely any skeleton code but the projects got progressively easier as he released his solutions for project 1 and project 2 for you to build on after the due date. The exams were difficult but not too crazy, the average of the midterm was about 65% ish and the final was about 70% ish. I would say just prepare yourself to spend a lot of time on this class, probably the most you would ever spend on a class. Take this class with easier classes so that you can dedicate the time to the enormous amount of content that this class has. It is very content heavy and extremely time consuming. On the bright side, this is only the second edition of Careys version of the class and it can only get better from here. All the best!
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2022
+Grade: B+
+Jan. 7, 2023
+If you have to take CS131, definitely take it with Carey. This was the first quarter he taught it, so some imperfections were expected. Overall, Carey and the TAs (pre-strike) were all very passionate and helpful. They actively listened to our feedback and put in a lot of effort to improve the class.
+
+Class website: https://ucla-cs-131.github.io/fall-22/
+
+The homework (graded on completion) was initially very long, but they listened to feedback and made some questions optional. The projects were a bit more time-consuming than initially expected (maybe 20+ hours), but the autograder was insanely helpful to instantly see your score on Gradescope, and there was a subset of the test cases publically available. The exams (open book) were fair but challenging, and really tested your deep understanding of the concepts. The course material wasn't particularly difficult, but there was a significant amount.
+
+Advice: (seriously) don't procrastinate on the projects! Try to keep up with the course content because it's really easy to fall behind. Attend lectures (he's entertaining and gives out snacks) - it may feel easy to ditch because he posts his slides, but he will explain things more clearly than if you skimmed through the slides yourself.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2022
+Grade: C-
+ Verified Reviewer
+Dec. 29, 2022
+Had a great time with him. Lectures are very clear but move quickly as there is a lot of material to cover. The exams are close to what we cover in lectures but more difficult. But it's still good, at least the professor covers a lot and won't let you see the questions and have no idea what to do like Eggert's exam.
+
+Helpful?
+
+ 0
+ 1
+
+Quarter: Fall 2022
+Grade: B-
+ Verified Reviewer
+Dec. 28, 2022
+Very well organized class. F22 had three projects (which build on each-other) where you had to build an interpreter for a new language. Pretty heavy workload for these, but grading was transparent (through a Gradescope autograder). Carey's a good lecturer, as usual. Exams were pretty tough IMO, and the class ended with about 30% A's, 30% B's, and 30% C-F's. Best strategies would be to have the concepts down perfectly and get a lot of practice programming in the languages that you study that quarter (for us it was Haskell, Python, and Lisp.)
+
+Helpful?
+
+ 0
+ 0
+

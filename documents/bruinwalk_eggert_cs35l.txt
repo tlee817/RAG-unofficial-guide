@@ -1,0 +1,891 @@
+Quarter: Spring 2019
+Grade: B-
+June 26, 2019
+I had a great TA (Zhaowei the GOAT), but still got absolutely assfucked by this class. Here are some tips for you so that you don't have the same shit ass experience I did:
+Step 1: Don't take the class
+Step 2: If you have to take it, get really familiar with the material from the first four assignments before week 1 so you have a crazy good advantage.
+Tough it out for the first 4 weeks and you'll be good in terms of managing workload. The final was a straight clap, no amount of studying could have prepared me for that bullshit. Sure, I learnt a lot, but this class is broken.
+
+Helpful?
+
+ 14
+ 0
+
+Quarter: Spring 2019
+Grade: A
+ Verified Reviewer
+Aug. 29, 2019
+If I had known about Eggert before coming to UCLA, I wouldn't have come to UCLA.
+
+Helpful?
+
+ 27
+ 1
+
+Quarter: Fall 2019
+Grade: N/A
+Dec. 22, 2019
+I take 35L with Dalmia Shivam, he is a nice guy. HOWEVER, I have to say, Aditya Joglekar and Aaron Zhou basically fucked up this quarter. As everyone know, each TA is in charge of an assignment per week. Aditya takes Assignment 4 which is due on week 5 's Monday. And he takes the entire quarter to grade it, which the grades comes out even after assign9 just 5 days before grades finalized in 12/23. Aaron Zhou was in charge of assignment 9 which is a brand new one. Everyone was busying on finals, and he decided to give only 20% on lab(easier part), and impossible-task homework(hard part) 80%. Don't believe it's Eggert decision. NO! It's TA 's choice that they don't want you to pass at least they want you to suffer. They don't fking care students, if they are still TA for the next quarter, watch out the assignments they take charge of cuz they are b_tches.
+
+Helpful?
+
+ 20
+ 1
+
+Quarter: Winter 2020
+Grade: NR
+March 14, 2020
+Like other comments stated here, this course is a pain in the ass even though the content is useful. It's disorganized. The workload is so heavy that few materials can be covered during the lab. So, you have to study most of the content by yourself. The final has 26 pages and Prof. Eggert claims it's a 3-hour exam. Some TAs are very harsh on grading, and they take a lot of points off just because you are wrong in one question or you don't include something that is not even asked for in the assignment instructions. Many TAs don't even provide any feedback for your grade unless you ask for it. If you have to take this course, I would recommend you start to study the content, such as python and bash, before the quarter you are gonna take the course. One more thing, some people may be smart enough to be a very good graduate student, but they may not be competent to be a TA, and this is a TA based course. So, be cautious.
+
+Helpful?
+
+ 5
+ 0
+
+Quarter: Fall 2021
+Grade: B+
+COVID-19
+Jan. 3, 2022
+WORST OF ALL TIME
+
+I'm prepared for heavy assignments and difficult tests on things he barely lectured in class. However, what I want to tell people right now is his unreasonable, mysterious curve and final grading strategy. The final grading is messy, with some people curved down but some not, just because he thought we would take benefits from generous graders in assignments. He didn't even tell which portion of the class was curved down and how, nor did he seem to consider that some answers might just be good enough to receive a full grade from any grader. It has NO transparency at all. You never know if you would be mysteriously curved down at the deadline of final grade submission day, and you can do nothing about it (since he will also not expose how he did it). I got full grades for every assignment, but if I knew those grades does not reflect anything, I would consider P/NP instead of getting this shitty grade that ruins my GPA (never got a B before).
+
+In a nutshell, he is not the type of professor we usually met that gives you a hard time during the quarter but curve up at the end to make students learn. He is the devil that gives people a hard time till the moment you get your final grade. I don't know how curving down without clear explanation benefits learning, and he might not care.
+
+Show More
+Helpful?
+
+ 4
+ 0
+
+Quarter: Spring 2022
+Grade: A
+June 22, 2022
+If you have to take this class, buckle up because, in my 2 years here, it has given me the most workload of any class by far.
+Eggert himself is pretty friendly and a super engaging lecturer. His lectures sound like TED talks, and I never found myself dozing off in his class. He is very intelligent, and I respect him as a software engineer. You will need to show up to lectures to do well on the exams because, for certain questions, he might allude to random points he makes during lectures.
+Speaking of the exams, they are notoriously difficult and there's not much you can do to study for them. The exams are conceptual and expect you to have mastered the material. Most people end up printing the entirety of their notes, myself included, which can help for 1 or 2 questions. The best way to study is to go over previous exams and the LA practice exams.
+Another major part of the class is the homework/labs. Eggert's late policy is very generous, but my advice is to only use it when you need to and just start the assignments early. You'll need the time. Google is your best friend here.
+You also have a final project where you create a full-stack web app, usually in a group of 5. If this is starting to sound like a lot of work, that's because it is. In my opinion, this is the most rewarding part of the class, but I encourage you to meet people early in the class and group up with people you trust. I made the mistake of grouping with randos, and maybe I'm just unlucky but none of them wrote a single line of code. So I spent every day from Friday Week 8 to Wednesday Week 10 working on this damn project.
+Similar to other reviews, I was disappointed with the lack of transparency and the obscene delays in grading. One of our assignments was due Week 4-5 but was returned a few days before grades were due. It took a toll on my mental health stressing over these grades, and looking back I should have just accepted that I get what I get. I don't understand how the curve works, but I'm pretty sure he goes for a B/B- average.
+Overall, you will learn a lot, but know what you're getting yourself into.
+
+Show More
+Helpful?
+
+ 3
+ 0
+
+Quarter: Fall 2019
+Grade: B
+Dec. 24, 2019
+Worst class that I've ever taken. The workload is insane especially for the first 6 weeks. It eases up a tad but then they had the worst assignment ever during week 10 (when the final is on the Sunday before finals week) that was so time consuming and hard that half the class didn't even do it. You're expected to learn pretty much a whole language/aspect of cs (bash, python, c, linking, git) and then complete super time consuming hw assignments showing "mastery" of a concept that you just learned. Also, Eggert doesn't teach the class. The TAs do, so if you get a bad TA then you're screwed. The only good thing about this class is the generous late policy. The final exam was terrible and scarring. I never want to take this class again and I never want to take an Eggert exam either. This class needs to be reworked. The workload can be cut in half easily especially for a 3 unit class. I made the mistake of taking this at the same time as CS 33 and the workload was insane. Worst quarter at ucla so far. I have no clue how I scraped out with a B but I don't want to think about this class anymore.
+
+Show More
+Helpful?
+
+ 3
+ 0
+
+Quarter: Fall 2019
+Grade: N/A
+ Verified Reviewer
+Dec. 2, 2019
+I suspect that this course was designed to make people who aren't 100% invested in cs quit the major. Just get this course over with ASAP.
+
+Helpful?
+
+ 3
+ 0
+
+Quarter: Fall 2021
+Grade: A
+COVID-19
+ Verified Reviewer
+Dec. 28, 2021
+Class is difficult and takes up more time than any previous class but is somewhat manageable. Class is graded on a curve and the average grade is around a B+ (maybe B or A-). This class teaches you a lot and gets you up to speed with actual software development.
+
+To anyone confused about previous years' reviews, CS35L used to have lectures given by TAs instead of Eggert and more homeworks, and was much more difficult and chaotic. If you want more relevant reviews, take a look at CS97 from Spring 2020 onward, which was like the beta to the current 35L.
+
+The main topics covered were Emacs (text editor), Unix, Shell/Bash Scripting, Lisp, Python, C, and Git. React and JavaScript were briefly covered in a lecture but were essential for one assignment and the entire final project. If you've never used React, knowing a little HTML/CSS/JS will help a lot.
+
+Lectures/Homeworks: Eggert's lectures are a lot more theoretical and only cover a little syntax. You need to look up a lot of stuff for homeworks and teach yourself but you’ll learn a lot. Lectures are pretty interesting and I enjoyed them. The late penalty is pretty generous (only 1% off for 1 day late. 2^(N-1)% off for N days late). 3 or more (outta 6) of the homeworks were given extended deadlines. Homeworks can take up many hours.
+
+Midterm and final are difficult and much different to traditional tests. You can't really study for them that much except for doing the practice tests. Many questions are open-ended and require you to understand instead of regurgitate. Some questions are pretty obscure/random. The tests are unlimited open-note, but extremely detailed notes on lectures only help on getting maybe an extra 5%. And don't leave any question blank. You will get some partial credit even if it's completely wrong.
+
+For the final project, most people make a web app with React. Getting a good group where everyone does their fair share is crucial to not spending too much time on it. Your group presents to a discussion at the end of week 10. The project was graded generously (most got 90%-100%). And you get something to put on your resume
+
+Show More
+Helpful?
+
+ 6
+ 1
+
+Quarter: Fall 2018
+Grade: N/A
+June 23, 2019
+This class need a complete reform. It is not professor Eggert's fault but someone in CS department have to do something with it. Once again, everything in this class is a disaster and need a complete reform. Materials in the syllabus are useful but they are so poorly taught that we would rather study the same thing on our own during summer holiday.
+
+Quarter: Fall 2023
+Grade: N/A
+Dec. 28, 2023
+Special shoutout to Tang Mohan for being the most useless and careless TA of all time. Good job for not explaining jackshit and talking down on students who want to get clarity for the most convoluted questions ever written on the exams. You fucking suck.
+
+Helpful?
+
+ 2
+ 0
+
+Quarter: Fall 2023
+Grade: A
+ Verified Reviewer
+Dec. 26, 2023
+CS35L is probably the hardest class I've taken so far. You have 10+ hours worth of assignments each week, and a huge final project. The midterms and finals were all pretty hard and open ended, although this quarter Eggert experimented with MCQs. That being said, I've learned so much from this course and I genuinely believe that this is the most important computer science course. The skills you learn from this course are super applicable (shell scripting, web dev, maybe not elisp, makefiles, git).
+
+For the midterm and final, I suggest having super detailed notes that you can copy down in the exam. Make sure to understand the bigger ideas and how different topics link together.
+
+For the final project, try to find a good team and START EARLY.
+
+Helpful?
+
+ 2
+ 0
+
+Quarter: Winter 2022
+Grade: A-
+COVID-19
+March 30, 2022
+The other reviews are right. This class is a LOT of work. Labs are difficult. Lectures do not go over how to do them. You have to figure out a lot of it yourself (lots of googling). Discussions are also helpful, depending on your TA, with some good hints. Exams are also very hard, that's how Eggert exams are. Open book/notes, but somewhat more difficult conceptually (combine 2 ideas, pros and cons of a hypothetical program to create, etc), as well as some coding problems. Open notes helps, but not much. You need a good understanding of the material to succeed. Grading was very slow this quarter, we didn't have grades on any of the 6 assignments until after the final :/. Very untransparent, which was frustrating. All that being said, this class was VERY helpful. Eggert is a great lecturer, and incredibly smart. He definitely knows what he's talking about (ex: he coded part of emacs, which you use in this class). It's certainly difficult, and labs can be quite tedious, especially because his lectures just discuss the concepts/background of what you're doing, and you have to figure out the syntax/process. But I definitely am thankful I had this class, I learned a LOT. Might be an unpopular opinion, but I intend to take more classes with him (at least 131). You learn a lot in this class, and its a very valuable experience, potentially at the cost of a slightly lower GPA.
+
+Show More
+Helpful?
+
+ 2
+ 0
+
+Quarter: Fall 2021
+Grade: NR
+COVID-19
+ Verified Reviewer
+Dec. 18, 2021
+This class is going to change your life, but not in a good way. CS 35L is basically a lower division capstone project, and takes up so much of your time. DO NOT take other challenging courses in the same quarter unless you're already familiar with Emacs, Git and a few programming languages.
+
+By change your life, I mean that you will change all your schedules to work around Eggert. Your holidays and free time will be spent working on his homework or project. Say goodbye to a normal study schedule as assignments will probably take longer than you need.
+
+I actually liked Eggert's lectures and he covered some interesting concepts (would be a great guest lecturer). However, it is so out of sync with the homework and project that you will find yourself thinking that the class is broken (I did several times). You have to remember that his lectures are more or less independent of the rest of the class. If the assignment involves coding in Python, don't wait for his Python lecture before starting. Use TA notes and your own knowledge to start projects ASAP, as that's the only way to not fall behind.
+
+The group project at the end is about programming a web app from scratch, which is actually pretty fun if you have a good team. You are free to choose whatever idea and technology stack works for you, and there are lots of tutorials available as needed.
+
+Eggert's exams though... if you have a mindset of aiming to get 100%, it's time to let that go. He makes his exams extremely challenging and long, and a lot of it is computer science theory (meaning answers are paragraphs and it almost seems like a philosophy exam). While you will almost definitely be depressed with your exam scores, remember that Eggert wants a bell curve and tries to use it as needed.
+
+Best of luck, you'll need it
+
+Show More
+Helpful?
+
+ 2
+ 0
+
+Quarter: Fall 2021
+Grade: N/A
+COVID-19
+ Verified Reviewer
+Nov. 19, 2021
+before I took this course, I used to like programming
+
+Helpful?
+
+ 2
+ 0
+
+Quarter: Fall 2020
+Grade: A
+COVID-19
+Dec. 30, 2020
+As the last batch of this class, I find it to be my responsibility to pass on the information of this course to the lurkers who wish to find out what this class was and learn more about the prologue of what is now CS 97.
+Quite contrary to many of the other reviewers, I... liked this class. As someone who didn't know CS terminologies and tools out of the box, like git, bash, text editors, etc, I find this to bring me up to speed with what a lot of people come into college knowing in CS.
+I did the projects 100% on my own, and it was worth it. I learned so much from this course. Yes the topics were split up by week, completely different from the other so it seemed quite disorganized, but as Professor Eggert would put it, this class is to help you learn how to learn. In that respect, this class achieved the objective.
+The final was 50% of the grade which sucked but it's a great excuse to make sure that you know your stuff well when you exit the class. Because, well, CS 111 will kick your ass harder if you don't know stuff from this one.
+The course was also a stage for Professor Eggert to flex about his Emacs contributions and GNU Linux contributions. You'll see his name on the command line more than you'll ever see it in class (it is TA-led, after all) and half of the answers to the assignment questions had his name popping around somewhere or the other.
+Well, I must say that there are two reasons that this class was significantly more mangeable and merrier than previous batches. Primarily, we had an autograder, so we kinda knew our scores on submitting and could ask TAs on and off about which test cases we weren't hitting. Secondly, it was online, so the final exam format was that you have the internet and the servers to your disposal when attempting the exam, and you're kinda expected to use it.
+
+Shoutout to Madhu the TA for being awesome in this quarter.
+
+Well, not like this course will be offered again so, adios. Hope you ace CS 97, or whatever CS class that might be the standard software construction lab in the future.
+
+Show More
+Helpful?
+
+ 2
+ 0
+
+Quarter: Winter 2020
+Grade: B+
+May 7, 2020
+Let me be clear, GitHub and StackOverflow are your teachers in this class. That, and the phrase "20+hrs/week" are all you need to know about this class.
+
+Helpful?
+
+ 2
+ 0
+
+Quarter: Fall 2019
+Grade: B
+Dec. 25, 2019
+Beware of this class! 35L drained so much of my time, so make sure to schedule your quarter appropriately. As others have stated, there needs to be some restructuring.
+This class had 2 lab sections per week, with a lab assignment due at the beginning of each week. Attendance for these sections is not mandatory, and usefulness depends on ur TA. Labs 2, 4, 5, and 9 were especially time consuming for me, and all the other labs were still either difficult or annoying af. I turned in most of the labs late, so my lab average was about an 82. I did feel like I learned a lot from trying to do the labs, but this did not help at all for the final lmao. I pulled up with textbooks and hundreds of pages of notes and scored around the median (52), which got me a B. The final was 17 PAGES of the hardest shit ever. Each of the 10 questions were weighted equally and had to do with one of the labs. I straight up left a question blank after reading the directions lool and totally guessed on the multiple choice. There were basically no free points at all, so good luck on that lmao. 3 units does not correspond at all to the necessary workload of this course, and after hours and hours of work I escaped with a B. This class also takes hella time away from all your other courses, so be ready for that
+
+Show More
+Helpful?
+
+ 2
+ 0
+
+Quarter: Spring 2019
+Grade: A
+ Verified Reviewer
+June 25, 2019
+This class is a pain in the ass, but as long as you don't cheat (i.e., don't look at GitHubs), you'll learn some really important skills for industry. I'm currently doing an internship, and being comfortable with Linux, bash, ssh, and git is really helpful.
+
+The class is TA-led, so how much you struggle depends on who you get. Regardless, prepare to do a lot of Googling and to read a lot of man pages to get through some of your assignments. The assignments take up a lot of time, but Eggert's late policy is very generous, so you're almost never strapped for time.
+
+The final is fairly difficult, but you can bring as many notes as you want. I recommend finding notes from previous students and printing those out. They also give you practice exams and solutions to them, so you will know what to expect on the final.
+
+For reference, I averaged about a 94% on labs and got 67/100 on the final. The average for the final was about 54, and the standard deviation was 14.
+
+Show More
+Helpful?
+
+ 2
+ 0
+
+Quarter: Spring 2019
+Grade: NR
+June 26, 2019
+did not actually take this class but it fully fucked my friend. prayers up for my billah boys
+
+Helpful?
+
+ 4
+ 1
+
+Quarter: Fall 2023
+Grade: A
+ Verified Reviewer
+Dec. 30, 2023
+My advice for getting a good grade in this class:
+
+Tests: To make the tests Eggert will watch recordings of his lectures and randomly pull topics for his tests, on my midterm he put a question on how make files, a topic he had spent all of 5 seconds on in class. This is why this class is almost impossible to study for, the best you can do is look over high level concepts (he really likes to ask what if questions) and if you have the time, rewatch the lectures. While taking the test you might feel discouraged because you don't know the answers, this is because you aren't expected to get many right. Eggert shoots for a 50% average on his tests, which is why I recommend just word vomiting on anything you don't know to try to get partial credit.
+
+Hw: the hws are worth 1-1.5% of your grade each and there are 6 of them, considering how little they're worth you'd think they'd be easy, but they can legit take over 10 hours each. The reason people do them is he likes to put questions from the hw on the test and if you have your hw solution with you its really easy to copy bits and pieces from it to the test and they also teach you the content. However if you something else more pressing, for example the project, its fine to turn them in really late or not at all (I personally didn't do assignment 6 for that reason) as the late policy is really generous and they aren't worth much.
+
+Project: All I can say is try to take this class with people you know, if you get a bad group you're just screwed. Most people spend week 10 grinding nothing but this project, break the cycle, start early.
+
+Final grades: Its a little odd that I have to say this but your raw score isn't very correlated with your final grade if that makes sense? He doesn't have a curve, or even a set amount of A's he wants to give out. To determine your final grade he goes over your work and determines what grade you deserve. Eggert is not afraid to fail an entire class if they don't live up to his expectations. But that won't happen to you ... hopefully.
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Fall 2023
+Grade: B+
+ Verified Reviewer
+Dec. 28, 2023
+This class absolutely sucks, but has some silver linings. Here's a review from someone who isn't insanely cracked at programming and doesn't converse in Mandarin:
+First: assignments. There are 6 assignments, most of which do not pertain to anything said in lecture, each of which takes a stupid amount of time and is pretty pointless for your grade (worth 1.5% each). Use GitHub + GPT to save your own time and sanity.
+Second: The TAs. The negative reviews of the TAs are completely accurate, most TAs for this class are insanely useless, not familiar with the content, or teach you the wrong information that screws you later on the test. I stopped going to discussions as the TA-lead section is almost completely useless and sometimes even negative for your own learning. Also, the TAs constantly screw up grading and misgraded 4 out of my 6 assignments, so be sure to regrade request any possible assignment + midterm. The midterm averages increased by 4% just because of regrades and how incompetent the 35L TAs are.
+Third: The tests. I got about a std deviation below the mean of 48% on the midterm, but somehow crushed the final and got in the top 20%. Here is the strategy to do good on a Paul Eggert exam: take notes of everything he mentions in lecture/writes down. GPT/understand all the concepts you are unfamiliar with. The stuff he barely goes over or covers is always tested. Become really familiar with the workings of the assignments, especially shell commands, Linux, and Python. Print all lecture + searched up notes. The small things he mentions in lectures are very similar to test questions, Having all lecture notes printed saved me for the final.
+Lastly, some tips. Participate a few times in Piazza for participation points. He covers things really fast during lecture, I preferred to watch the recordings to actually write down what he says. The final project was easily the best part, but be sure to get a good group and start early. The content after the first 4 weeks begins to get slightly more interesting and useful. This class is pretty useful as a whole (besides Emacs Lisp). It's also pretty generously curved: around average on the tests will get you a B, above and below average and between 1 Std dev will get a B-/B+, anything above/below std dev will get you an A/C.
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Fall 2022
+Grade: A
+Jan. 3, 2023
+I would argue that this is one of the most important classes for being able to understand software development practically. You learn a good deal of skills that are useful in the software development industry - Git, Linux/CLI, web development, etc. That being said, the class is intense in terms of workload. There are six "lab" assignments going over a variety of topics (Linux/Emacs, Python, Javascript React, Git, C, lower-level Git) that are very loosely related to what is covered during lecture (sometimes the lecture reaches the topic AFTER the assignment is already due), so there is a lot of learning on your own time. You also have a group project involving a full-stack web application, typically using Javascript and React, which is another time sink.
+
+The exams are by far the hardest part of the class though, since Eggert makes his exams with the intention of a 50% average, despite being open-note. A lot of people say there is no way to study for them, but I'd recommend paying attention to the topics and overarching ideas during lecture as he tends to base exam questions on these ideas, though the questions themselves often require you to think beyond those ideas. You can think of his exams as testing your intuition behind certain computer science topics rather than specific, concrete concepts.
+
+Advice:
+- Plan out what you're going to create for the group project accordingly and try to learn what you need to on your own time. At the bare minimum, you'll probably need to know Javascript and React. For your backend, if you plan to use a dedicated backend framework it would probably be best to learn ExpressJS and a database (usually MongoDB or mySQL). It would probably be easier to use a backend-as-a-service platform such as Firebase or AWS.
+- Find reliable people to group with - groups are usually of five.
+- Assignment Difficulty (Easiest to Hardest): Two (Python) < Three (Javascript/React) < Four (Git Basics) < One (Linux) < Five (C) <<< Six (Git Internals)
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Fall 2021
+Grade: A
+COVID-19
+Dec. 15, 2021
+If you do not have a background in the technologies that are supposed to be taught in this class, you will struggle. However, if you do, Eggert's lectures will teach you a lot about the broader concepts behind them.
+Homework is not that bad and were graded fairly generously.
+Tests are Eggert Tests so they tend to be pretty tough.
+The project required a lot of outside work.
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Fall 2021
+Grade: NR
+COVID-19
+Nov. 5, 2021
+Unclarity. Unclear lectures explaining anything vaguely. Unclear assignment specs that makes you wanna smash the computer. Absolutely ridiculous project that the professor teaches you nothing about, and you have to learn every single bit from online resources.
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Spring 2021
+Grade: A
+COVID-19
+June 24, 2021
+This is my fourth time taking this class. Yep, you read that correctly: 4 times. To be sure, however, I wouldn't exactly say I really took this class until this past quarter. That is because all previous times, I would get psyched out upon looking at the first assignment, procrastinate, think 'oh this prof has a nice late policy' (2^n points off for n days late), and then boom, the late policy would creep up on me, and I would never get the assignment done.
+
+Which brings me to advice on how I got an A in this class, after 2 withdrawals and an F: Treat this class as your absolute number 1 priority.
+
+This class is extremely tough. With the addition of the project (in which you design a web application), this class is essentially a 'lower-division capstone'. You should not expect Eggert to cover what is needed for each assignment and you especially should not expect him to really cover anything needed for your project. For example, we didn't even really cover Git (which is absolutely essential for the group project) until around week 7 I think. And if you waited until week 7 to start your project, well that just isn't a good idea.
+
+You should start all of the assignments as soon as they're released. Do not wait for Eggert to go over everything needed for it, because he won't. The lectures serve as high-level explanations of software construction, and while he uses the assignment topics as kind of guidelines for him to go over various topics of software construction (i.e. Git for version control), he won't go into specifics. It is up to you (and hopefully the TAs' hints video if they keep doing them) to figure out what the hell to do, probably with a couple of visits to office hours. Eggert is very strong on learn-by-doing.
+
+Another thing to be prepared for are Eggert's exams. They are absolutely terrifying. It is quite possible that you will not really know how to do any of it. That being said, you need to realize that everyone is probably on the same level as you, and so everyone will get around 50% most likely (as that is the score that Eggert aims for, because he 'likes a nice bell curve'). In other words, don't freak out too hard on the exam. Just get as much down as you possibly can.
+
+And finally on the final project: Your group will pretty much be on your own. Finding a group that is around the same skill level as you is most definitely the way to go also, as going with the CS gods who have been coding since the womb will probably just give you some intense imposter syndrome, and you really won't learn anything. Nobody on my team had ever even used any of the languages/technologies we used on our project prior to this course, and we still got a 100 on it. Again, online resources/tutorials are godsend.
+
+Anyways, hope this review helps you all not to make the same mistakes I did 3 times in a row.
+
+(P.S. Emacs > vim)
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Fall 2019
+Grade: A-
+March 30, 2020
+35L was definitely one of the most unique classes I've taken. Since this class is taught by TAs, everyone's experience seems to be different. Having a good TA is critical to understanding everything in this class, however without any ratings on TAs, it is kind of a wildcard when signing up for the class. Thankfully my TA (Shivam Dalmia) was phenomenal and explained everything thoroughly while also being very helpful with projects. The projects in this class are all over the place with new topics coming up every week. Some projects were extremely tedious like learning Eggert's beloved Emacs in Project 1 and literally logging every single key you press in a text file. Projects varied in difficulty and usefulness overall with most projects just being Eggert flexing some patch he made to Coreutils or another GNU project. Project 9 was new this quarter and took a lot of people by surprise. Overall it wasn't too difficult if you gave it some time, but it seemed kind of pointless dedicating a whole project to digging around the git internals.
+
+The final in this class was interesting to say the least. Eggert (who does not show up until the final) strolled in with a stack of exams that were ridiculously thick (at least twice as long as the practice final that was given out). He prefaced the final by saying that he didn't have time to edit the final which was why it was "a little bit longer than he wanted". This was an understatement. I don't think a single person finished the final and the point distributions of questions were completely off. For example, answering in a few words what a git branch is was equivalent in points to writing an entire Makefile for a C program that you also had to write by hand. If you take this class, be sure to do the easy questions first on the final to maximize your points.
+
+Overall this class was a wild ride, but the material you learn is undoubtedly extremely useful. After 35L, it's amazing how much faster and competently I can work on linux servers and use all of the tools that are provided.
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Winter 2020
+Grade: I
+March 27, 2020
+I placed an incomplete as my grade since it has not been officially recorded yet, but I'm probably headed towards an A.
+
+First off there is no professor for the class, only TAs that can help you solve small problems with your code or clear up concepts. The entire class is broken into 10 assignments and a final exam.
+
+Assignments:
+For most of the assignments they are "assigned" Monday and due that Friday, giving you roughly one school week to finish them (some exceptions like the shell scripting program that takes 2 weeks). I quickly learned to start the assignments the weekend before so I could space my work out properly. I would say to prepare to dedicate on average 15 hours for each assignment. Most of them are not even long, you just need to do a lot of the research on your own. There were multiple times were I had to scrap everything on Wednesday and restart to finish that Friday. Many people think they get easier further down the class. I think there's definitely hard ones throughout the class(Assignment 8) but you get into a nice groove. Also project 10 is just a presentation and short report, and it's pretty easy.
+My advice: Break assignments into small chunks and work a bit everyday, while testing all the time of course. Always play around with your code a little too, it'll help answer some of your own questions.
+
+Final Exam:
+Focus on the TA slides and overall concepts for the assignments. Just make sure you get what is important from the slides and study these concepts every so often and you'll do fine.
+
+Overall, this class is like a marathon were you think you are always behind. Just put in your best effort for the assignments and study a bit for the final and you'll do fine :)
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Winter 2020
+Grade: N/A
+March 13, 2020
+He clearly doesn't care about how COVID-19 will affect some of the students. All the family shit, inconvenience or fairness cannot be compared with the joy from torturing students. Dr. Eggert is an extremely caring professor and, I sincerely love this course. I love CS but this class is just disgusting.
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Winter 2020
+Grade: N/A
+Jan. 25, 2020
+Wow. This is the worst class I've taken so far. The skills are all valuable but you are given little to no guidance / explanation and the work load is absolutely ridiculous. I EASILY spend twice as much time on this class as CS 32--the weeder class. Not to mention this class is only worth 3 units. :(
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Winter 2022
+Grade: B+
+COVID-19
+March 29, 2022
+Exams are more of creative writing questions rather than coding questions. One example question would be like "If you were to redesign system A on top of framework B, what's the pros and cons", at which point you can only freestyle write if you don't have the pros and cons of each system in your notes. Midterm had a mean and median around 63/100, final had a mean and median around 70/100, and yet still no curves on the final grades. I got 1 point above the average for midterm and about 82/100 for the final and got a B+. The whole class is appalled that no curves were given to such a low grade distribution. One TA said that past GPA distribution is around 2.7 for this class. It's pretty accurate. Don't be misled by the beautiful grade distribution of 2020 spring on Bruinwalk
+
+Helpful?
+
+ 2
+ 1
+
+Quarter: Winter 2022
+Grade: A
+COVID-19
+ Verified Reviewer
+March 29, 2022
+Overall this class was definitely very useful towards learning about various aspects of computer science in terms of software development. Eggert was very engaging and the class wasn't as bad as I had initially thought (though the class was probably revamped and being a Sophomore helped as I had previous knowledge before coming in). Eggert is an amazing lecturer and the TAs were nice as well. The assignments were a bit difficult so they definitely took a lot of time to complete. For tests there is a wide variety of subjects tested on so it benefits to really understand how higher level concepts work as well as how to program in the ways taught during lecture.
+
+Helpful?
+
+ 2
+ 2
+
+Quarter: Winter 2022
+Grade: C
+COVID-19
+March 30, 2022
+Screw this dude. Screws us over with ridiculous projects and insane exams that are so hard to answer because he gets philosophical in his questions. He delves into a lot of redundant history and just generally goes on long tangents for extended periods of time, makes him seem like a good professor who wants to make students learn in depth but also makes me question what the point of some of his lectures is when they never make the exam. And after all this shithousery, he doesn't even curve our final grades. I ended up with a C despite being a consistently A/A- student because I did dogshit on his exams. He may have helped amplify my passion for CS, but I'm never taking another class with him again. My GPA and mental wellbeing took a strong hit with this dude.
+
+TLDR - If you care a lot about cs at the risk of your own sanity/free time/grades, by all means ignore this review. If you just want to learn stuff and do exams and do a project, be very careful about this man and this class. It will screw you over if you're not at the very top of your game.
+
+Show More
+Helpful?
+
+ 1
+ 1
+
+Quarter: Winter 2022
+Grade: A
+COVID-19
+ Verified Reviewer
+Feb. 5, 2022
+Dr. Eggert is a godly lecturer. You will never fall asleep in his lectures (despite the fact that they're two hours long) because each second of his speech is like honey for your ears, oozing with essential knowledge and a little bit of his eccentric humor. Even when we were just going over basic git commands, his clear and confident explanations just showed how much expertise he has in software construction. And of course he would be an expert—he literally helped write the very tools that he teaches us about. I can't think of any other professor at UCLA who has a bigger impact on free and open source software than Dr. Eggert, and I am truly grateful for his both as an awesome professor and as a pillar of the FOSS community.
+
+Ok, I may be a bit biased, but no matter how passionate you are about FOSS, you will learn a TON from this class. It's not about memorizing Elisp functions or every generation of the HTTP protocol (you can leave those details in your notes since the exams are open-note), but more about understanding the significance, pros, and cons of different components of software construction and how they work together.
+
+One of my favorite lectures was about building software. We started with compiling individual C files. Then, he introduced layers of automation on top of gcc, such as make and autoconf, until we concluded with system packages. It was just so satisfying to learn about how every stage combines to form a more complex system.
+
+Show More
+Helpful?
+
+ 1
+ 1
+
+Quarter: Spring 2019
+Grade: A-
+June 25, 2019
+A lot of people really dislike CS 35L, since there's so much content and too little time to absorb it. Personally, CS 35L is my most favorite class at UCLA so far, since it taught topics like git/ssh/python/bash/make, which I LOVED learning about. HOWEVER, the class itself is still a pain in the ass. Assignments are often vague and time-consuming. As others have mentioned, this is TA-led, so your experience may vary. I was lucky to have an awesome TA that taught well.
+
+Helpful?
+
+ 1
+ 1
+
+Quarter: Spring 2019
+Grade: A
+July 2, 2019
+GNU Emacs was the only thing of value that I learned in this class.
+
+Whoa. So, before I 'defend' Emacs, I have to be very careful you know that this is not just a knee-jerk reaction and 'HeY yU iNsUlTeD mAh EmAcS', and that it is not unreasonable to think emacs is outdated. Emacs being outdated is most likely a myth, and that impression will most likely be spread by the fact that many don't use emacs, and never actually get to learn about what it is. It is often compared to text editors, namely Vim, and that is all the more reason it will just look like some old text editor, but it is not that at all. Emacs is not a text editor, emacs contains a text editor. Emacs is more like an example of ancient magic that people once had a hold on and was lost in modern times to some extent. The reason is its a full programming language interpreter with a text editor, at the bare minimum, built on top of it (and to the person who asked why 'nobody builds these things for IDE's', I don't know if that's true, but if there's any truth to it this may be partially why; not every IDE is a programming language, nor does every IDE allow full turing complete modding. Emacs is exceedingly suited for change, even ridiculous change). Better yet, the language it uses is possibly the most dynamic language in the world (lisp), one that allows you to touch and play with the code of the device while its live, and add on to it effortlessly. Hell, a language that allows you to modify the language itself. That is the pinnacle of modding and customization.
+
+Anyways, because of this, its true power is not in its text editor -- many of us forgo the emacs text editing and just integrate vim's text editing into it. It does have a powerful text editor though, I still end up text editing Emacs style more often than Vim style, but anyways -- it is its power as a sort of operating system. You can always build new emacs tools, full programs if you will, and similarly we have continued to build emacs tools over time. You are not using 1970s emacs in 2019, it is still alive and well and extended. Emacs, as it looked when it first came out, was just a starting point, since its not like a normal program which is just a snapshot in time, but a fully organic starting point to grow anything.
+
+It has some graphical limitations, not in functionality but in pure appearance, which can further give the appearance of being outdated, but none of the practical limitations.
+
+Because of emacs' dynamic language nature, there is another secret gem that might be the true source of its power -- integration. Every tool you add to emacs can often be used in conjunction with every other tool in a very polymorphic way, which means adding features is less like "emacs + n + m" and more like "emacs * n * m"; every feature boosts every other feature. This has resulted in some tools that are true outliers, with true power that may not be emulated elsewhere, like org mode and magit (please look into magit if you haven't). Emacs can accommodate many workflows, and teach you some newer ones.
+
+Anyways, as for actual emacs users, the number is not insignificant either. It doesn't have a majority usage, but I will usually see it with at least a 5% or 15% in different community interviews (example: https://insights.stackoverflow.com/survey/2016 ~5.2%). Looking at this survey, that puts it on the same usage (about) as PyCharm , VsCode, and PhpStorm, differing by about 2%, and about half the users of Atom, and it has several more users (in this survey sample) than a common editor like TextMate. It is still a common editor, just with an image of being old or unused or uncommon at time, if anything because its old.
+
+Just as a reminder for the 400th time, one of the strangest things about emacs is its called a text editor, and maybe because in the beginning, that's all there were, and that's what its image became cemented as. Emacs is an IDE, a mini operating system, and much more, and never have I gotten as much features elsewhere as I have in emacs (although I do not claim they are not there), and never have I had the combined features you get from the unique combination and integration of all these features within it. From what I've seen, some emacs features are less refined than some other IDE counterparts, others are more refined. Emacs often (not always) requires more tinkering, an IDE less so. I have had times where I was able to use a huge mod pack for emacs 'out the box' like I would an IDE, and other times where it needed some adjusting. I will say its a bit like android vs ios; android if you want to tinker and freedom, ios if you want something that just works and don't want the freedom to break something. I will not be so bold as to say emacs is going to be the universal best for everything, just that its not outdated, and that it is going to have a very long shelf life. I do possible hope to one day, however, work on a new emacs with a makeover and an overhauled branding, as the latter I think is more what emacs is outdated on; its brand. I luv emacs. T-thanks for reading
+
+Imagine showing up to the final having memorized all 1 billion emacs commands and still getting fisted harder than any other test. People literally showed up with 500 pages of printed notes for this final. All I could do was copy directly from my notes onto the final. I literally have no idea how I got an A in this class.
+
+Show More
+Helpful?
+
+ 3
+ 7
+
+Quarter: Winter 2025
+Grade: F
+ Verified Reviewer
+April 15, 2026
+I was not prepared for The Big E... Assignments were horrendous, to the point I gave up trying to do them. Somehow managed to get average score on the midterm but after that everything went downhill (personal issues) and I ultimately gave up on the class. Make sure you know what you're signing up for if you take this class with him.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2025
+Grade: B-
+ Verified Reviewer
+Feb. 19, 2026
+class too hard people too smart. that being said i'd still recommend all cs students take at least 1 eggert class for the experience. generous grading on final project and exams were generously curved to 50% average
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2024
+Grade: P
+ Verified Reviewer
+Jan. 15, 2026
+I learned a lot in this class and I believe is very good for the overall structure of the computer science degree.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2025
+Grade: B-
+ Verified Reviewer
+June 25, 2025
+I HATE THIS CLASS
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2025
+Grade: B+
+ Verified Reviewer
+June 22, 2025
+I mean there's no real point in saying whether you should take this class since if you're reading this you probably have no choice.
+
+Project: Grading for this is pretty generous, just be very explicit about all the requirements for the report in it and you should be okay there. Even if you start early like we did you're still going to be in a time crunch at the end.
+
+HW: They're all tedious, they vary in difficulty, they're not really relevant for the exam (or the effort you put in is very low yield), so just do them in whatever way you can and get the points...
+
+Exams:
+
+Eggert used an unusually large amount of conceptual essay style questions for our quarter. Having extensive notes will really serve you well here. I printed out man pages (these were very low yield), rules on globbing/regex, tutorials on shell scripting and emacs lisp, and my lecture notes along with vinlin's that you can find on github (very useful). I also made chatgpt explain some particularly hard concepts and printed out that as well. Unless you're really cash-constrained, print out as much as you can. In addition, write tons of information for every essay question on the test, I suspect I lost quite a bit of points on the final from not doing this. You never know what will show up on a final..
+
+One more thing, though it didn't show up that often for us, ACTUALLY PRACTICE the coding techniques (barely taught) from class. Most students will not know how to write code in Lisp or Bash and knowing how to do this stuff can give you a decent advantage on tests.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2025
+Grade: A-
+ Verified Reviewer
+June 21, 2025
+Lectures are interesting but all over the place. I would recommend watching the recording to make sure you don't miss ANYTHING. If Eggert spends more than two sentences talking about a topic, it is fair game to assume it's on the exam.
+
+Assignments are a pain, so start them early. And take notes on them. I think Eggert aims for about 40% average on his exams, so expect to do bad. Bare minimum you need to understand every thing he said in class, and that should get you a median grade. If you want to do better, try printing out hundreds of pages of command manuals, guides, and tutorials to make sure you are proficient in JS, Python, shell scripting, and C. Aim for partial credit.
+
+Class participation is 10x endorsed answers on Piazza for 0.1% each. I'm not sure why this is a thing because that means TAs have to endorse 2400 answers for everyone to get full credit.
+
+Make sure you have at least one or two people you know will pull their weight in your project group. It's 35% of your grade, and I had a groupmate that authored one commit. I don't think the TAs give af.
+
+TLDR: Pretend this class is 15 units.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2025
+Grade: NR
+ Verified Reviewer
+June 16, 2025
+This is a review for people who feel as if they are a "below average UCLA student."
+
+Now I can confidently say this, because I am a transfer from CC as a Ling & CS major (35% acceptance rate). So yes, I was not a top 5-10% handpicked CS student like the majority of the students in this class. In fact, I recently switched to Ling & CS, making me still pretty extremely new to coding and all CS-related topics. CS 35L was my first CS class at UCLA.
+
+As a result, I struggled heavily. I don't think I have ever struggled this much in a class EVER. If you are not familiar with the topics and are not considered a superstar student, this class will be extremely difficult; there's no way around it. I even got 2 std below the mean on the midterm (raw score of 16/100).
+
+The odds say that you are definitely a better student/coder than me for being at UCLA, but for those of you who are or believe that you are around me level, I hope that some insights from my experience can make it easier for you.
+
+The first thing I would say is to GPT everything you don't understand. I can confidently say that I would easily have failed/dropped this class if it wasn't for the help of AI cutting the learning curve significantly when it comes to the pace of this class. Eggert goes through several topics pretty quickly, such as Shell Scripting, Emacs, Regex/Globbing, Python, C, git, debugging, security, etc.
+
+The lectures don't go over the content needed to complete the assignments (each takes 5+ hours), so you need to get help from the TAs as much as possible, or use GPT to help break down the assignments or guide you.
+
+Also, you need SOME web dev experience to be of use to your teammates for the group project. I had little to no web experience, so it made my time more stressful/difficult. Try to get a decent/good group, and try to start as early as possible. Make frequent meetings and set goals for each week. Leaving this last minute IS NOT A GOOD IDEA.
+
+For Eggert's tests, you need to pretty much take impeccable notes to at least get the mean. My notes for the midterm were subpar at best, and ability to shell script / apply REGEX were extremely weak, which led to a horrible score.
+
+HOWEVER, for the final, I completely changed my strategy, and even though my grade for it is not out, I believe I did extremely better on it compared to the midterm. Here was my strategy:
+
+- Sign up to StudyFetch with your UCLA email (gives you the full benefits).
+
+- Go to "Media Gallery" on Canvas/CS 35L class and go to each lecture and download the transcript.
+
+- In class, Eggert gives around a 5-10 min break for each lecture. Take the 1st half of the lecture, plug it into StudyFetch for AI Notes, and let it generate "In Depth Notes". Do the same for the 2nd half. This strategy ensures that StudyFetch makes the notes as detailed as possible. If you want, you could split the lectures into 3 or even 4 parts.
+
+This strategy gave me way better notes, and for the conceptual questions, I believe it will give me good enough partial credit for questions that I got completely wrong (I haven't gotten back the final yet).
+
+Eggert still included Node/Python/JS coding/syntax questions that heavily favored those who have experience in coding in those languages. So for the questions that need you to apply the information, I would highly suggest practicing shell scripting, regex, python, C, and JS.
+
+Overall, this class is unlike any other class I have ever taken, and even though it will completely tank my GPA, I still did learn a lot, and I will be trying to improve my CS knowledge over the summer to try to at least be somewhat on par with the average UCLA CS student.
+
+I wish you the best of luck and try not to get egged on the exams! ;)
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2025
+Grade: B
+ Verified Reviewer
+June 6, 2025
+Eggert is extremely knowledgeable. However,
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2025
+Grade: A
+June 4, 2025
+The main weakness of this course is that it's incredibly difficult to be prepared for the tests. The content of the lecture is interesting and presented in an entertaining way (although the lectures can drag on) but the tests are full of content we didn't learn.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2024
+Grade: B+
+ Verified Reviewer
+April 28, 2025
+This class is definitely challenging, and the material moves at a very fast pace. That said, Professor Eggert is the best lecturer I’ve had at UCLA. His explanations of software development concepts are clear, and it’s obvious he has deep knowledge of the subject. Whenever a student asked a question, he would explain thoroughly and make sure they fully understood the answer. The main drawback, as others have mentioned, is the difficulty of the tests. Still, if you take solid notes and review the lectures before each exam, you should be able to at least hit the median.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2024
+Grade: B
+ Verified Reviewer
+June 27, 2024
+NEVER with Eggert anymore! Never!
+Before I took this class, I assumed that the reviews on Bruinwalk is a bit too exaggerated. I changed my mind right after the midterm.
+Exams are very hard and almost impossible to prepare. Homeworks takes a lot of time but how to do the homework is not taught in class. The Project is just enforcing your group to self-study a lot untaught stuff.
+The worst point of this class is that you grade depends more on your classmate. If they work very hard, there will be almost no curve, and your effort is nothing in this case.
+I did learn a lot through this class, but that kind of suffer make it not worth. I cannot imagine how happy my spring would be without CS 35L.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2024
+Grade: A
+ Verified Reviewer
+June 25, 2024
+Some Bruinwalk reviews were helpful for me while taking this course, so I felt that I should provide another data point for this class. I also think that people typically read Bruinwalk reviews for strategies on how to do well in a course, so that’s what my review will mostly cater to. I hope this is useful if Prof. Eggert teaches more iterations of this class which is uncertain at this point in time.
+
+TLDR:
+To give yourself a good chance of doing well in this class, you need to have really good/organized (not necessarily concise) lecture notes and play around with concepts Eggert discusses to develop intuition. Make sure you really understand the lecture content (supplement your notes with Google searches, man pages, documentation, etc. to add details to your notes). Eggert exam questions typically test students’ intuition about concepts from lectures. His questions are akin to niche Stack Overflow questions. Developing an intuition for concepts will allow you to fish for more partial credit, which is the way that you do well on these exams. The graders are usually generous with partial credit. Pretty much everyone struggles through this course, so don’t feel bad if you feel lost. To be honest, this is one of those classes where you should stop worrying about how things will affect your GPA/grades, or else you will be super stressed.
+
+Relevant prior knowledge I had:
+Some simple UNIX commands (ls, cd). Knew some basic Git commands (add, commit, push). Played around with gdb once or twice. Same with Python. Took CS 31 and CS 32.
+
+Homework:
+Reviews from prior quarters give some tips on how to do well on these so I don’t have much to add. New to this quarter (Spring ‘24), there were LA assignment guides that helped students get through the assignments. This was super nice for assignment 6 (random byte stream generator). One of the LAs who contributed to these guides, Benson Liu, was pretty active on piazza to answer questions. Shout out to him. New to this quarter were autograder scripts that the TAs wrote. These were helpful despite some hiccups in the grading of the first assignment. You’d pretty much know your homework grade by the time you submitted it, so that was a nice benefit of having the autograders. You also had unlimited submissions so you could incrementally check that you are on the right path.
+
+Project:
+Not much to add here. It was graded leniently. Find a good group and start somewhat early. I feel like everyone spends a lot of time on it until the deadline, even groups who start early. That’s just from what I’ve observed.
+
+Midterm:
+I got around the median on this exam. During Spring 2024, the midterm was moved online because of the Palestine/Israel protest events that happened on campus. This probably led to quite a bit of cheating on the exam and I think that this may have been compensated for in the final grades.
+
+Final:
+I was able to score in the top 10% on this exam so that’s probably why I got an A. I think I did better on this exam because my answers were much more specific and detailed than those on my midterm. Prof. Eggert typically references an example or piece of code for many concepts in this class. Since my notes were organized (albeit 200+ pages long), I was able to reference relevant examples from lectures to strengthen my exam answers. Having tables of contents and a binder helped me do this. The grading rubrics for these exams tend to award answers that provide some specifics, so I think that worked in my favor. I’d aim for 5-9 sentences for the longer free-response questions. My wrist felt super sore doing this but I think it was necessary.
+
+This is already a pretty long review, so I’ll just add some more comments that you may find insightful:
+
+The class is graded on a curve which is why I talked about my exam grades relative to the class. Prof. Eggert doesn’t provide a methodology for his curve, but I think I got an especially helpful boost from the curve due to my performance on the final being significantly better than my performance on the midterm. Perhaps he was compensating for the online midterm. I know other people in this class felt that they didn’t receive much of a curve (the raw exam scores were relatively high). Nobody will really know though.
+
+There were 2 Bruinwalk reviews for this quarter (Spring ‘24) posted before mine -- I wouldn’t take them super seriously though since they posted a review prior to the final. The final exam is 33% of the grade, so I’m not sure how you can give a reasonable review of a class without taking the final (especially one from Eggert!). To provide context, the first review for this quarter was posted right after the first assignment which is when those auto-grader hiccups happened. As I said before, these issues were resolved for the rest of the assignments.
+
+Would I say that Eggert’s exams are mostly fair? Probably, with some exceptions. Namely, I’m thinking of a problem from our final exam that was not really related to anything covered in class. I’m not going to get into specifics, but I luckily had some knowledge of graph theory prior to the final. For my peers who had no experience with those concepts, I feel for them and can see how that question was unfair. Eggert may introduce new concepts on the exams -- he feels that these are moments where he has the class’ undivided attention to teach. I don’t agree with his philosophy here, but I think you can still do well on the exams by getting questions correct that were mostly related to lecture material.
+
+I felt anxious at times while taking this class, especially after my midterm performance. I think the ideal way to deal with this is to stop worrying about your grade. Just focus on trying to maximize the content you learn from this class because it is useful material. As a bonus, you’ll likely end up with a better grade with that mindset.
+
+Prof. Eggert was always kind and approachable when I asked him questions. His lectures are memorable. I’d suggest trying to attend every lecture in person.
+
+This may be an unpopular opinion, but you may want to take CS 35L and CS 32 in the winter if you have some prior knowledge (more relevant prior knowledge than what I had when entering this class). I say this because the medians for the exams have been much higher in the spring than in winter/fall (70s vs. 50s). CS 35L + CS 32 quarter would be a ton of work, but the spring averages are just so unbelievably high. For reference, 400 people took CS 33 in the spring (the large majority of which were freshmen). Around 170 people took CS 35L in the spring (with a large number being freshmen). The freshmen who take this class in the spring tend to be some of the top in their class, so you might have a better chance to outperform your classmates in the fall/winter.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2024
+Grade: A
+ Verified Reviewer
+June 3, 2024
+Paul Eggert is the greatest lecturer I have ever witnessed. He is so passionate about teaching, and it's remarkable how he is so knowledgable while also so good at understanding what it's like to not know things. It is truly an honor to attend CS 35L lectures. Assignments and exams are also very well made. I thought that grading was error-prone, and TAs were not very responsive, but I still enjoyed homework assignments and exams regardless. The LAs, on the other hand, were fantastic. I don't think software construction is a topic I enjoy much, but this class put forth an incredible effort to change that.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2024
+Grade: NR
+ Verified Reviewer
+April 12, 2024
+AVOID THIS FUCKED UP CLASS AT ALL COST!!! The syllabus and Eggert's teaching is horrible because he's trying to squeeze AT LEAST 2 quarters worth of contents into 10 weeks. The autograder policy he implemented makes this class a fucking nightmare. Yes. one typo will make you get a zero on ALL subsequent keystrokes even if you got them right. I spent like 10 hours for each assignment trying to redo my dribble files again and again just to make the autograder accept my attempt even though I understood how does emacs really work. This class needs a reform ASAP and I don't think Eggert is a great lecturer.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2024
+Grade: B+
+ Verified Reviewer
+April 10, 2024
+This class is actually so horrible lol. The material covered is so crucial to being a programmer and I think this class has an insane amount of potential, but Eggert's teaching philosophy kills it. On HW, you basically get thrown into the deep end on purpose because programmers are supposed to be able to pick up new technologies on the fly. Well, unless you're one of the smartest people in the class, this approach will really just teach you that cheating is necessary for success. Tests are literal RNG as he picks random moments (often incredibly irrelevant ones) from lecture to turn into terribly phrased, often ambiguous questions. Although I did very well on the final and poor on the midterm, I strongly believe that neither of those tests were even a remotely accurate representation of what I knew or what was covered in class/projects. The one highlight of this class is the group project, I had a good group and found it the most fun and rewarding thing I have done at UCLA. Overall though, get ready for the relentless stress this class brings, and pray that you are smarter than your classmates as this is a pretty competitive class in terms of grading.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: B
+ Verified Reviewer
+April 2, 2024
+I feel like I learned nothing. Class was too hard for no reason. Averages for test were around 45%. No regrades allowed for finals. TAs graded tests completely wrong.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2024
+Grade: C-
+ Verified Reviewer
+April 2, 2024
+Finally passed this class. I only need a D- to get my degree, so this grade exceeds my expectations.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2024
+Grade: N/A
+ Verified Reviewer
+March 21, 2024
+genuinely one of the best professor's i've ever had, and i'm not even a cs major lol
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2024
+Grade: B
+ Verified Reviewer
+March 8, 2024
+Oh Eggert. Sweet sweet Eggert. The grade lottery I am playing right now and don't know where I'll come out on the other side. Needless to say, the midterm was horrid. I cannot wait for the final (to be even worse). I like his lecture style, I don't find the information to be presented in a way that's hard to handle, but where I draw the line is the labs being worth abyssmally little percentages and taking hours on end. I know this is for our benefit, but if I'm putting in the effort to get a good grade on the lab, I wish it mattered more. Another thing. The project. THE project. Basically zero guidance on where to start and what you need to know. It follows the Standard Eggert Model: self teach. But I literally pay so much money for these classes that there is zero point to self teach. If I wanted to do that, I wouldn't have gone to college. Simple as that.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2023
+Grade: A
+ Verified Reviewer
+Feb. 20, 2024
+I don't know why people keep giving this class a bad review. It's a great class and I learned a ton from Eggert!
+
+I think as it is with all Eggert classes, he bins you on the final based on ur project grades. So make your project grades are very high (other wise you'll suffer more than the bad project grade!)
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: A
+ Verified Reviewer
+Dec. 30, 2023
+This class is just something you'll have to suffer through. The course is extremely difficult and you won't have very much guidance for most of it, and from what I can tell, that's mainly the point. You'll learn a lot in this course, and you'll be teaching yourself much of it.
+
+Make sure to pay very close attention to the lectures, since Eggert constructs his exams directly from small tidbits he mentioned during that quarter's lectures. Don't worry about making your notes concise; make them organized instead. The exams are open-book and you will often need the tiny details that Eggert mentioned in passing during a lecture in order to answer a question on the exam.
+
+I got really lazy after the midterm and didn't end up the second half of the class's lectures until the day before the final when I binged them. I definitely do not recommend this strategy, though it ended up working out for me since I remembered almost everything that he had covered in lecture and I ended up doing extremely well (relatively, I got a 69% lol) on the final. So, if you really stressed about the exams, I would genuinely recommend rewatching lectures before exams. Though it'll be a bit painful sitting through it, you can probably multitask browsing Reddit, playing your favorite farming simulator, or building a Lego set while watching the lectures on 2x speed.
+
+You don't really need lectures to do any of the assignments nor for the group project, which is worth a whopping 35% of your total grade. Please make sure to find a good group people you know and trust before it's too late, preferably before you even attend the first lecture. Having a good team of 5 is pivotal to reducing stress in this already very stressful class. You're mostly left on your own by the instructors for the group project, where you'll have to construct some sort of dynamic application with the skills you definitely did not learn from lectures or discussion. The course content is mostly unrelated to the group project.
+
+Eggert has a really lenient late policy for assignments. You should start early but do not worry about having to be multiple days late. If you calculate how much of your total grade you're losing out by taking a few extra days to complete an assignment (also remember that the class is heavily curved), you may realize that you were stressing way too much on turning your assignment in on time.
+
+The TAs are usually pretty late on grading assignments and you do not get much feedback. PLEASE make sure to submit a regrade request on anything you might find reasonable to get points back on. Named your file incorrectly? Regrade request. Assignment guideline was ambiguous? Regrade request. Forgot to comment a piece of code that crashed everything? Regrade request. This philosophy also applies to the midterm, something I regret not taking advantage of. The TAs were very understanding.
+
+Learn as much as you can. Good luck. Unless your laptop is already plastered in arch stickers, you'll probably need it.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: A
+ Verified Reviewer
+Dec. 27, 2023
+No more need to say. He is Eggert. Be prepared to be egged for the exam...
+
+However, Eggert's class really worth it. I end up learning so much useful staff by the end of the quarter.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: N/A
+ Verified Reviewer
+Dec. 27, 2023
+Get ready to get fucked on the most ridiculous tests you will ever see in your life
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2023
+Grade: N/A
+ Verified Reviewer
+Dec. 22, 2023
+You will get egged! Overall this class is TOO fast, tough, but teaches you some important material that's pretty practical. If you thought CS32 was fast, this is easily 3 times that.
+This class is something that'd work well in semester system. But absolutely sucks in quarter. Everything is bunched up together, you go over fundamentals way too quick (within 2 weeks). You are into the next huge topic in 2 weeks which is crazy. It is WAYYYY too fast paced. The assignments are weird. The tests are even weirder and super tough. The graders make mistakes, and some of the TAs are absolute shit in their grading. They are ruthless, if u dont have something specific, you will get 0/10 for a question where you probably should've gotten partial 5 points.
+
+Helpful?
+
+ 0
+ 0
+

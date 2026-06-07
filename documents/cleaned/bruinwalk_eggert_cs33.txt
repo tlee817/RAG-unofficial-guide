@@ -1,0 +1,74 @@
+Quarter: Fall 2018
+Grade: N/A
+Nov. 26, 2018
+I'll preface this by saying that I'm a mediocre CS student who scheduled his quarter to very generously accommodate this class' reputation as a hard class with a hard professor. I came in wanting to really learn this well, and I'm sitting at week 9 with an almost guaranteed drop (just waiting on my MT2 score) and feeling like I learned nothing of use.
+
+Eggert is a brilliant man. He's a good speaker too, and manages to make the dry topic of assembly code and low-level computer architecture interesting. That being said, this class is one of my biggest regrets at UCLA. The expectations are unreasonable and the class is organized pretty horribly. He expects students to read the entirety of the over 1000-page textbook, and lectures are incredibly difficult to understand without it. They're pretty hard to understand even with the readings.
+
+The homeworks and labs honestly shouldn't be incredibly hard. The problem is they're filled with bugs and issues. Instead of giving you the files that you need and then having you work through the assembly code, he gives you files that you need to configure, unzip from tarball, patch, or otherwise modify, often inside the linux servers, which he assumes you are completely fluent in using. This wouldn't be a big issue if they could just tell you what to do and why you're doing it, but the spec instructions are always incomplete. Ask the same question on piazza 7 times and you'll get 7 different answers, so your best bet is sitting in TA office hours for countless hours until your assignments are configured properly. If your TAs don't constantly decide to move their office hours, sometimes cancelling or moving them on piazza only after a student posts that they went to office hours and no one was there. But I felt like I was so bogged down in the trivial garbage of setting things up properly that I couldn't properly learn. Giving more assignments but cutting out the setup or giving Smallberg-style detailed instructions instead of a 1-page spec with 1000 missing steps would help tremendously with the learning in this class.
+
+Late policy is generous, being 2^(n-1) percent loss for n days late. But because so many students get high scores on the labs (often through cheating, which even the TAs almost encourage, or through crowding office hours, which makes it impossible to get your questions answered), you can't afford to lose that many points on labs at all. Start early, because every step of every assignment will have unreasonable and unexpected errors... even if you use online solutions.
+
+Tests are literally the most depressing thing you'll ever experience. Eggert makes his tests on the fly. They're good tests for the A students, but if you're not an A student, it'll leave you feeling hopeless. They're tangentially related to the course content but I definitely felt tremendously underprepared for them. Review sessions and discussions seemed to reinforce the material, but nothing could save me from the tests (even actually knowing the material, which I did on occasion). Maybe if you're good at BSing you can get on top of the curve. But if not, you're in for a rough time.
+
+Overall, I thought the course was a pretty terrible experience. I learned quite little, was overwhelmed almost all the time, ran into 10000 bugs every time I tried to turn something in, and didn't get enough of a chance to apply the content to assignments. I have a lot of respect for Eggert's brilliance, but if you want a good learning experience and your sanity, take it with anyone else.
+
+Quarter: Spring 2017
+Grade: NP
+Nov. 16, 2018
+Leave now!!
+Wrote with blood and tear.
+
+Unless you feel like you are smarter than 99% of your classmates.
+
+Quarter: Fall 2016
+Grade: N/A
+Dec. 8, 2016
+This class is way too easy. We typically spend less than 1 hour per week on projects, and attending the lecture is somewhat optional. I just hope the exams can become harder to keep us understanding this course well. Eggert's class usually great and recommend this class for gpa boosters. 5/5
+
+Quarter: Fall 2018
+Grade: A
+June 23, 2019
+He is a really good professor and good lecturer. A frustrating thing is that because he is a lecturer he doesn't do a particularly great job of writing down the info so you can see exactly what you should translate to your notes. This class is really hard though. The first midterm is primarily assembly and stuff like that which is really hard to understand at first. The second midtem was a bit better. The final was somewhere in between. I don't really think I can give much advice about them except at least understand the projects and it's probably a good idea to study assembly a lot. Project 1 actually sucks so much and is super hard to figure out on your own so you are gonna need a lot of help from TAs. The gdb project is super short and simple. The stack buffer overflow project SUCKS SO MUCH. A lot of people including me did every step as the TA told us to and it just didn't work in the end but if you can understand at least what is supposed to happen and just add to the end of your report that it worked even though it didn't you'll be fine. The last project was nice and easy so I'm glad he only gave us 2 really hard projects.
+
+Quarter: Fall 2018
+Grade: A
+Dec. 19, 2018
+He is a good lecturer. Even though some people think he is hard professor, I took him and it turned out it was not a true. I think the main reason that people think he is hard is because they don't read a textbook. The textbook is written by CMU faculties and it is a bible.
+Also, the professor knows the stuff really well. He is one of the guys who participated in making LINUX EMAC function, which is gonna be a big part of the lecture, so hands down. And he is kind, if you ask a question, he is always there to answer you.
+Read the book, and review the lecture, end of the story. You definitely learn a lot from this class, and I've got so many of the job interview problems that I would not have been able to solve if it were not for this class. GOOD CLASS OVERALL.
+
+Quarter: Spring 2017
+Grade: A-
+March 18, 2018
+Professor Eggert was a terrible lecturer. He did not have a clear outline and often meandered off into meaningless in-depth side topics that barely anyone could understand.
+
+It's not too difficult to receive a good grade in that class, but that never meant he was actually good at teaching me anything. His tests were not directly relevant to the class material and were honestly a measure of how well you could bs the answer.
+
+Don't be fooled by other positive reviews from people who thought he was a good teacher after receiving a good grade. His only job is to teach yet he does it very poorly. Comparing him to Smallberg or Nachenberg, he is in a separate lower league.
+
+Quarter: Fall 2017
+Grade: N/A
+Feb. 6, 2018
+Eggert is infamous for a reason; his exams are ridiculously difficult! The class average for the first midterm was 30% despite open-note open-book policy. Every time I walked out of an Eggert exam, I felt like I had been grilled on information that hadn't been noted on the study materials. They were a terrible experience, and jarring after reasonable-feeling Smallberg exams. If Eggert didn't curve his class, he'd probably have four or five students pass out of sixty.
+
+His projects were okay, but the specs of the projects were very unclear. Students took to Piazza to ask TAs over 20 questions per project, just to clarify what Eggert was grading at all.
+
+Eggert's lectures are boring and difficult to follow, but necessary for the class. He doesn't release slides or notes. Make sure you read the textbook before going to class.
+
+Overall, I got the feeling that Eggert is truly brilliant as a computer scientist, but that he assumes all his students are equally brilliant and can quickly comprehend what he says (or read between the lines if they don't). As a result, he's not a good professor at all, despite his obvious mastery of computer systems and programming.
+
+Quarter: Fall 2017
+Grade: B-
+Jan. 1, 2018
+This class was so hard. I think most CS majors don't expect hardware stuff and so the material is completely brand new. Tests and lab 1 was overkill, the other stuff was ok. Read the book, as I barely went to class and just read the book and did ok.
+
+Quarter: Fall 2017
+Grade: N/A
+Dec. 10, 2017
+READ THE TEXTBOOK BEFORE CLASSES!!! Go to Eggert' s office hours, which I found more helpful than his lectures. His projects and homework are doable, and you can still get a decent grade even if you submit one or two days after the deadline. It is also advisable to take CS35L BEFORE this class. The average scores of midterm 1 and 2 this quarter are 32% and 52% respectively, even though TAs are very generous in grading. The problems are mostly open ended, and legend has it that Eggert came up with his questions hours before exams. During his last office hour this quarter he said that he taught us his understanding of the class materials, while the textbook provides us with another perspective, and his exams test us both versions of "truth". I think that is why so many people found this class daunting.
+
+Quarter: Spring 2017
+Grade: B
+July 13, 2017
+Paul Eggert is a good professor. Understanding his lecture is a challenge but you will learn a lot from his lectures. He is just very knowledgeable and has so much to say about computer system. His test is hard, and sometimes you will find it what the hell the question is asking. I personally like the way he constructs the test, because I think in general, his test is testing on how well you can use what you already know about computer system and apply to his problem, so as long as your answer is making sense to the problem, you will get most of the points. Another reason is when the test is too hard , everyone is on the same boat, you don't have to worry about that half of the class is gonna score 70~80 above, because when you feel like you do horrible and half of the class is gonna feel the same way. My advice: read the book !!!!! it is gonna save your life!

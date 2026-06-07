@@ -1,0 +1,813 @@
+Quarter: Spring 2018
+Grade: C
+ Verified Reviewer
+March 24, 2019
+Eggert's class never fail to piss me off. The amount of work required for this class is ridiculous, and the pacing is just way too fast. On top of that, we all know Eggert writes these impossible exams where the average is 40%. I put so much time into this class and still struggled. No one really knows what's going on and everyone copies code off Github.
+
+Helpful?
+
+ 14
+ 0
+
+Quarter: Winter 2019
+Grade: N/A
+March 21, 2019
+He doesnt care if you understand the material, he makes no sense, his projects make no sense, he doesnt feel the need to make his projects easier because no one confronts him for reasons i dont understand. I wish i learned but i cant learn from him. Hes all over the place.
+
+Helpful?
+
+ 11
+ 0
+
+Quarter: Winter 2020
+Grade: A
+March 27, 2020
+I'm sure the other comments have already painted quite the picture of this class. I'll spare you the repetition about how this class is a mess, has the most insanely unpractical workload I've ever seen, and absurd tests.
+
+Instead I'll just outline some tips that may help you get an A like I did:
+-Take notes in lecture, and really make sure you understand everything he goes over conceptually. Lecture can feel so bizarre, because it is almost never relates to the assignments you will have to do that week. But the tests are at least, if not over half conceptual, and understanding the conceptual will give you the extra edge to do well on the tests.
+-Don't waste too much time on homeworks. If you did each homework legitimately, by yourself, from start to finish, you may be able to finish just before you graduate. Maybe. Just reference github instead.
+-Do the practice tests. They are super helpful and similar to the real tests.
+-On the tests, don't panic. The medians are 50% for a reason, you aren't supposed to be able to nail every question. There will be a question that will blindside you. Just write what you can, and throw in as much Eggert vocab that you learned during lecture and from the textbook as possible. Its okay if some of it is a little wrong too, just write a lot of stuff down with good vocab that is somewhat logical and move on
+-Lastly, study. Many students go in thinking their notes will save them. Or that because the tests are so hard they don't have a chance and will use the textbook as a crutch. Not the best idea. If you understand 90% of the things he talked about in lecture and can do from memory most of the basic/intermediate tasks required in the homework by hand without notes, then you are set.
+
+Also just take a nap during the first hour of the first lecture.
+
+Show More
+Helpful?
+
+ 7
+ 0
+
+Quarter: Fall 2018
+Grade: C
+Nov. 6, 2019
+I decided to transfer after this class, now Im enrolled in CalPoly, and now I regret my first decision to attend ucla for cs.
+With these non-sense classes, you'll waste a great amount of time.
+
+Helpful?
+
+ 17
+ 2
+
+Quarter: Winter 2021
+Grade: A-
+COVID-19
+March 27, 2021
+TL;DR: This class is the most awful CS class I've taken at UCLA, and I've already taken all the required courses. Homeworks were so bad that the TAs couldn't even handle the workload of grading in Winter 2021.
+
+On paper, this should be one of the most useful classes in the CS curriculum. If you work as a software engineer, it's expected to have to work with different technologies and programming languages. It's useful to know the general programming paradigms because languages might change in the future. However, in reality, this class was the biggest clusterfuck of the UCLA CS department I've yet to experience.
+
+- As expected with Eggert projects, specs are often unclear and leave you longing for the 20-page Smallberg specs of CS 31/32. Any questions you have should be answered by the TAs, but they were not active at all on Piazza. There was only one TA (bless Boyan) who was semi-frequently active to answer questions, but there were still entire weeks when questions on Piazza went without an instructor answer.
+
+- There's a super useful CS 131 assignment repo (made by a previous TA) with amazing hints and boilerplate code, but for some reason the current TAs no longer support it? It had sanity checks that are super useful when working with a brand new language, but our TAs wouldn't answer questions about it, or provide any alternatives.
+
+- Grading in this class is so fucked. I spent an entire week neglecting other classes and used multiple late days to finish the Scheme homework assignment, but the instructors just gave everyone arbitrary scores about 90. Yeah, this sounds great, but the class is curved, so it just fucks over the students who actually did the work. I'm convinced that the homeworks were so ridiculous that the TAs used a random number generator because they couldn't figure out grading. I had friends who turned in code that couldn't pass half of the provided test cases, used multiple late days, and got a 100.
+
+- Homework breakdowns:
+HW 1: OCaml. Pretty easy stuff, mostly teaching OCaml syntax.
+HW 2: OCaml. Much harder than HW 1, but a surprisingly useful project in understanding how grammars and parsers work.
+HW 3: Java. Super easy thread stuff, most of your time is spent writing a report that the TAs probably don't read.
+HW 4: Prolog. Prolog is a weird language, but this project is pretty easy and a good tutorial on logic programming. Still, Prolog is a useless fucking language that nobody in the 21st century uses.
+HW 5: Scheme. LMAO this hw was ridiculous. I'm sure it's useful in some AI/ML/symbolic programming contexts, but the language is so ridiculously hard to read and debug for beginners. This HW in my opinion is the hardest, but don't worry if you don't do it, it probably won't get graded anyways lol.
+HW 6: Probably changes every year, but usually it's to evaluate some new language and talk about advantages/disadvantages. Not much practical use, but the skills of identifying pros and cons of languages is probably useful. Doubt the TAs read the report.
+Project: Not too hard because it's done in Python, but the specs were unclear and TAs decided to take this week off on Piazza lmaooo
+
+- Somehow, in this quarter, exams were the most fair part of this class. They were still Eggert exams, so strange conceptual stuff, but surprisingly good at measuring how much of the course you understood. I'd recommend reviewing homework assignments and previous exams to prepare for this.
+
+Show More
+Helpful?
+
+ 5
+ 0
+
+Quarter: Winter 2021
+Grade: C+
+COVID-19
+March 29, 2021
+This class was a complete mess in Winter 2021. There was only one TA who seemed to care- thank you Boyan Ding.
+
+The workload was so high that the TAs could not keep up with grading and gave arbitrary scores to everyone on HW5 and HW6. For example, I turned in HW5 6 days late (-32 penalty) but got a 100.
+
+If Eggert cares about most of the students learning, rather than only the top 5 or 10% of the class learning, he should make the workload lighter by removing a HW or two, or at the very least simplifying HW2 and HW5.
+
+Helpful?
+
+ 4
+ 0
+
+Quarter: Fall 2019
+Grade: A-
+Dec. 14, 2019
+Anyone who had the unfortunate opportunity to take CS 33 with Eggert will find that CS 131 with him is easier.
+
+But not that easy.
+
+This class crams a ton of programming languages into 10 weeks and expects you to learn them as if you only had this one class for the quarter. Be prepared to slam your head against the wall while doing Homework 2 (the hardest one by far) and spend a lot of hours dissecting the textbook (it's helpful, but dense) to actually learn the material.
+
+For lectures, Eggert invites you to his two-hour TedTalks twice a week. He's a great lecturer if you just wanted to sit in on his history lessons and hear his opinions on language semantics or something. But if you actually want to learn to pass the class, please go to your TAs.
+
+Assignments take forever, but Eggert has that incredibly generous late policy, so make sure to take advantage of it. TAs are a godsend in this class (shoutout to Patricia for spending a whole night writing test scripts for the Python project during Thanksgiving break! <3). Anyways, go to office hours and ask questions on Piazza. Your grade depends on it if you aren't a natural CS whiz.
+
+Exams are hard. Seriously, the average for the midterm was like 45%. And the final will probably be in that range too. There's no way to truly study for Eggert exams. But it's an even playing field because almost everyone is just as confused! Eggert knows people are always lost in his class. He grades on knowledge, but he rewards INTUITION. No matter how wrong your answer may be, if you can back it up with any kind of evidence, you will get partial points. Pro-tip: Eggert's favorite questions in this class are language implementations and optimization languages. Is X language better than Y language for Z task? Is it feasible to implement X's function in Y to do Z?
+
+Lastly, do yourself a favor and do NOT take this class with CS 111. You will die. Literally. I took this course in a four-class quarter and it was not fun to say the least. But everything will be all right. Getting through Eggert is like a rite of passage. You can't call yourself a true CS major without getting Egged after all.
+
+Show More
+Helpful?
+
+ 4
+ 0
+
+Quarter: Winter 2021
+Grade: NR
+COVID-19
+March 22, 2021
+Haven't gotten grades yet but this class was just awful.
+
+Helpful?
+
+ 3
+ 0
+
+Quarter: Winter 2021
+Grade: N/A
+COVID-19
+March 10, 2021
+What a bad course. I really have nothing to say that hasn't been said before. I don't think I've learned anything in this class that I didn't have to teach to myself and on top of that, I've lost interest in these topics because of the way this class was handled. I don't think I've met any student who has taken this class and not hated it (or themselves) by the end of it.
+
+He really said that his course was better than the college of letters and science because his course was "harder"? Way to think that your mediocre class is better than any of the amazing courses I've taken in the college of letters and science. It's so boring when a white man is going off about how he thinks non-Engineering subjects are lesser than him.
+
+Also, the fact that he doesn't tell us the answers to the exam or assignments shows that he actually doesn't care about us learning from our mistakes but he just wants to uphold the ridiculous standards that no one apart from him cares about. One of the worst classes I've taken at UCLA and that is really something because I have taken multiple other CS courses which were similar experiences (except CS 33. Shout out to professor Rienman who can do no wrong, cares about his students, teaches well, and doesn't have a god complex).
+
+Show More
+Helpful?
+
+ 2
+ 0
+
+Quarter: Spring 2019
+Grade: A
+March 31, 2020
+It's almost like a philosophy of programming languages class - Eggert's lectures are engaging, thoughtful, and worth every second of your time. Each lecture is jam-packed with information (not always timely in relation to the projects, unfortunately). Each lecture genuinely feels like a valuable use of your time. You start to really enjoy every second of it. Then you remember it's still an Eggert CS class, and the projects destroy your very soul.
+
+This is not a class to double with another hard class - this is a "take a GE, a moderately hard class (maybe) and another easy major class, then focus most of your efforts on this" kind of class. Projects are insanely difficult. Like insanely. Be prepared to sink hours of your life each week into them. You're pretty surely going to finish them, but it's going to take some willpower and some sacrifice.
+
+Exams are typical Eggert fare - asking lots of theoretical questions that involve making arguments and backing them up. Honestly, after taking his CS 33, I think I was just more prepared for these, and they didn't seem that bad. Just pay attention in lecture, make sure your notes are well-organized, and present coherent answers to the questions he asks, citing stuff from lecture/discussion. If you're totally lost, find any relevant notes you have for the question, and start writing down key words and concepts in a way that seems like you're at least semi-legitimately trying to answer the question. Generally, that should get you to a B, if not an A, on the exam (after the curve, obviously, only like 4 people got a legit 90+ on these exams).
+
+Yes, this class is stressful. Yes, it's a lot of work. Yes, you'll probably hate it while you're taking it (I know I did at times). However, I think you learn a good amount, and get a great discussion on a lot of the "why's" in CS. Honestly, I wish I'd tried to take every Eggert class I could have. If you have the opportunity to take 131 with him, do it - just make sure you're emotionally prepared to cry over some of your half-baked attempts at mutually recursive grammar parsing functional language nonsense.
+
+Quarter: Fall 2019
+Grade: N/A
+Dec. 5, 2019
+Eggert, as a lecturer, is very enthusiastic and knowledgable. I can tell he is super passionate about computer science and knows a ton. However, the workload and rigor of this class is TOO MUCH. I can barely catch a break while I was in this class. The professor's lectures were all over the place, with no clear direction and random concepts thrown in as a mush. I still do not understand many of the concepts of the class. Eggert's exams were impossible to study for, as he just puts whatever he wants. Overall, I applaud him for being a good lecturer, but the course needs to be organized better.
+
+Helpful?
+
+ 2
+ 0
+
+Quarter: Spring 2020
+Grade: I
+COVID-19
+May 28, 2020
+I think I learned a lot from this course, but at the expense of my mental health unfortunately. The lectures are a bit all over the place in terms of organization, and it is sometimes difficult to know what are the essential concepts to take away from a lesson are. I do appreciate the professor's enthusiasm and extensive domain knowledge on the subject, and his little tidbits and asides kept the lectures from being dull. He is also really good at addressing questions that are brought up during lecture and is approachable in that regard. Overall, the lectures were very informational, but not very digestible. Sometimes the "bigger picture" was lost in the focus on minute details.
+
+The homework/projects, on the other hand, are an utter mess. I wish I was being hyperbolic. The assignments are written in a way that almost seems like they are intentionally trying to be confusing and frustrating for students. I quickly learned that there is very little point in starting the homework before discussion section because it is simply not worth my time to decipher (and probably misinterpret) the assignment. Luckily, the TAs are great in filling the gaps in this respect, but their absolute necessity to make any meaningful progress on the assignments is very telling of their quality. Keeping updated on every Piazza post is a must to not lose points on arbitrary requirements that were mentioned vaguely, if at all in the assignment. For example, the Scheme parsing assignment is nearly impossible to complete by just reading the very open-ended specifications -- you almost have to code against the already additional sample test cases provided by the TAs to have a chance to do well or spend hours writing code to handle edge cases at random. This was especially frustrating because new test cases would be updated multiple times throughout the assignment period, though I am at least thankful they existed to make up for the shortcomings of the specification.
+
+The stress of these assignments that many students complain about come from this dispiriting experience of programming based on assumptions that they are forced to make while waiting on TA's to confirm/deny via Piazza. It is sad to say that it is actually a viable strategy to wait for these Piazza clarification posts before starting the assignment. Overall, even though the assignments could be better formulated, I did feel like I learned a lot about the different programming styles by completing them. It's just a shame that my experience had to be this way, and although I think the TAs did a great job considering these circumstances, the course should be able to stand on its own.
+
+Show More
+Helpful?
+
+ 4
+ 1
+
+Quarter: Fall 2020
+Grade: A
+COVID-19
+Dec. 29, 2020
+It's hard. The midterm was already difficult, and then the final took it to another level. One of the questions could legitimately be a Scheme homework assignment. Generally speaking, there are three types of exam questions:
+
+- Rote: Implementing a simple function, drawing syntax diagrams, etc. This is as close to free points as you're gonna get, so I try to do these first.
+- Discussion: I save them for last since they're pretty easy to BS. On the flip side, the TA's will often have a random reason to dock points.
+- Cool stuff: Occasionally there will be a question that is like a logic puzzle. The answer was not discussed in class exactly, but you can arrive at it with a solid understanding of the course material. Probably where people lose most points.
+
+Overall, there is no difference between remote and non-remote Eggert exams; they're still timed and he still writes them the day before.
+
+On the other hand, the homeworks are extremely fair. The spec contains a lot of test cases, and if you pass all of them you're almost certainly going to score perfectly. Not to mention the exponential decay penalty for late submission :chef_kiss:
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Spring 2019
+Grade: B+
+Oct. 7, 2020
+Unpopular opinion: Eggert is one of the best professors at UCLA. His lectures are incredibly engaging and the subject material is interesting. You learn a lot about a bunch of things related to programming languages. This may have been the most interesting CS class I've taken here. There are also practical aspects through the projects. Maybe Prolog isn't that useful but you do a lot of functional programming and go over asynchronous programming and multi threading. These are all extremely useful. Projects range in difficulty. The OCaml project on parsing a grammer is impossible, I think I turned it in a week late. The Java project is okay but a little obnoxious. Every other project is straightforward and fun. I actually found the Lisp project the most fun (but I'm sure a lot of people won't). There's a paper due at the end of the class where you have to talk about a modern programming language. This paper is very easy and depending on how much effort you put into it you could maybe learn something that will help you. We had Kotlin as our language for our paper, which is nice because it can be used practically. The tests had a lot more coding than an average Eggert class. Our first midterm was 3/5s writing functional programs. These kind of tests are a lot more fair and the projects do help.
+
+Don't get me wrong, this class is hard and you will have to put effort in it. But this is the best and fairest class I've taken from Eggert and one of the best Upper Divs at UCLA.
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Winter 2020
+Grade: A
+April 1, 2020
+Ok so this is probably an unpopular opinion but I didn't find 131 to be as tough as people make it out to be. Yes it's still hard. Yes I still struggled. And I'm surprised I got an A (was honestly expecting a B+) so hear me out:
+
+I took CS33 with him and that was an absolute madhouse so I was prepared for 131 to be so much worse but was surprised when it wasn't. I actually understood what he was talking about for like 70% of lectures and the stuff that I didn't get I would go online and read articles, watch YouTube, and go through the textbook to make sense of it. If you go into the class with the mindset of being ready to work hard, you will learn a lot in this class. The textbook was really helpful to read (it doesn't cover everything though) but it's a good way to gain a simple understanding of material if you have no idea what's happening.
+
+The TAs are all super good and super active on piazza and also had hint code on github for us to refer to (tbh it wasn't that helpful after the first homework). Homeworks 2 and 5 (Scheme) were the hardest imo. It's difficult conceptually to wrap your head around let alone code yourself so be prepared to be super frustrated with these. Homeworks 3 and 6 were the easiest and took like 2 and 4 hours respectively. It's really important that you put in effort for the project report and HW6 because these are more conceptual and high level and are more than likely to be tested.
+
+Also, I took 111 with Harry Xu before 131 and I think that helped me out a little bit because I had the analytical skills of weighing pros/cons that you do a lot in 111.
+
+Tests are open notes like usual and our midterm average was like 70% which is ridiculously high for an Eggert test and most people thought that this midterm was easy. It definitely felt more straightforward and the questions weren't as convoluted as usual. The final was online because of the whole COVID-19 situation and the average was bout 65% which is again, super high but we had open internet access and 24 hours to do the test.
+
+Show More
+Helpful?
+
+ 1
+ 0
+
+Quarter: Fall 2019
+Grade: NR
+Nov. 25, 2019
+nothing new, homie Eggert, "interesting" exams, annoying specs, satisfying curves :|
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Fall 2019
+Grade: N/A
+Feb. 25, 2020
+The projects are moderately hard. The midterm and final are ridiculously hard. Open book and open notes will help you little. If you want your effort to be paid off reasonably, avoid him at all costs.
+
+Helpful?
+
+ 2
+ 1
+
+Quarter: Fall 2017
+Grade: A
+Feb. 11, 2018
+宝儿作为在职的软件工程师 讲他做喜欢的软件工程（不是计算机科学）
+看得出来满腔热情
+思路很快 得保持全神贯注
+能学到很多
+
+Helpful?
+
+ 7
+ 9
+
+Quarter: Spring 2020
+Grade: P
+COVID-19
+May 27, 2020
+Honestly after taking 35L and 111 with Eggert I thought it couldn't get any worse but it does. This is hands down the most useless class I've ever been apart of. The amount of work involved with it is absolutely insane(much more than his 111 IMO), and his "late policy" is just his way of assigning more work than can be done in class.
+
+For the Prolog section, he started going over the language the day the homework was due. Python project is due in less than 48 hours and he hasn't spoken about Python of TCP once haha. It's absolute madness. They need to rework this entire class. Remove one of the OCAML homeworks and maybe you could have a decent schedule.
+
+Helpful?
+
+ 2
+ 2
+
+Quarter: Winter 2021
+Grade: C+
+COVID-19
+March 29, 2021
+I made the mistake of not githubing anything in this class. I know the material really well did remarkably well in the homework (as in lost points only because I submitted late), but you need only look at my grade to see how that turned out.
+
+Here's a few tips for the class if you're looking for a good grade:
+1) Don't try. Really. Just github all the projects. You'll need the high grades on homework since everyone else is githubbing too and they'll have perfect scores.
+2) BS on the exam. You may know how to code well on all the languages and understand the concepts, it won't matter. You need to write as much as you can using words that pop up in lecture. Don't paraphrase.
+3) If you're taking exams online, cheat as much as you can. They won't be able to tell as there is no way to tell.
+Do yourself a favor, do what CS35L really tried hard to teach you to do: Copy, steal and lie.
+
+If on the other hand you actually want to learn something in this crap class do all the projects yourself, read the textbook and try to understand by digging deeper into every concept.
+You will learn a lot. I'm a better programmer because of this class. I'm a worse student however as my GPA says.
+I am also a smarter human because of it too! I know now that you need to take advantage of everything you can regardless of whether it is fair or honest. I don't know if that was the lesson Professor Eggert was trying to give, or if he even cares enough to give any lesson.
+
+I am bitter because of my results in this class, but at least I learned a lot.
+
+Show More
+Helpful?
+
+ 1
+ 1
+
+
+Quarter: Winter 2019
+Grade: B
+June 29, 2019
+Get ready to spend countless hours a week on these insane projects, especially the first two. Eggerts lectures are very interesting but often are not remotely useful to the homework until AFTER the assignments are due. Midterm and final are a guessing game of what might be on them, pray that you are able to take this class with Millstein instead.
+
+Helpful?
+
+ 1
+ 1
+
+Quarter: Spring 2020
+Grade: A
+COVID-19
+June 20, 2020
+This was my second class with Prof. Eggert. I took 111 with him and had a similar experience. Prof. Eggert is a world class lecturer. The difficulty of the class comes from the coding assignments and the exams. The medians for the midterm was around 60% and the final was around 50%. This is higher than the usual medians. The issue most students have with the class is that the homeworks, as difficult as they are, do not prepare students for the exams. I think this is correct. Doing well on the homeworks does not imply good performance on the exams. This makes the approach to doing well on Eggert's classes less formulaic. To do well you have to understand the material in lectures and the textbook really well. Take detailed notes on lectures and read the textbook. The text book for this class is wordy and not as good as the 111 textbook, but it is still a good reference. The lectures go into greater depth than the textbook and are more important. Go to office hours of the professor to get help on concepts. Go to TA office hours to get help on assignments. I did not go to discussions because the TAs just spoon feed the homework code. A class this challenging is essential to a rigorous computer science education and for developing your intuitive ability. Eggert's goal, in his words, is to "test your intution". Therefore he makes his exams open ended (not really) and really pushes you to reason based on the information you learnt in class and from readings. Regurgitation of notes/readings will not help. All the people who complain aren't interested in maximizing their learning but are more focused on getting good grades. Eggert is incredibly knowledgeable and a treasure of the CS department. I wish we had more classes like this and less classes like that of Prof. Reinman's.
+The few criticisms I have are that I thought that the typed reports (homeworks 3 and 6) were not necessary. I didn't learn that much from writing a 5 pg. reports. The TAs also don't provide detailed feedback on them.
+The students who usually like Eggert are students who code a lot outside class and like coding.
+
+Show More
+Helpful?
+
+ 1
+ 2
+
+Quarter: Winter 2026
+Grade: A
+ Verified Reviewer
+March 4, 2026
+This is the worst class I have had on this campus. One of the TAs graded midterms papers with objectively wrong interpretations of multiple questions and stubbornly stuck to those wrong interpretations, never admitting fault. The professor promised intervention, but it was either unsuccessful or was dismissed. The other TAs tried to be supportive, but they were simply overworked and could not give enough support in the end. The content is not useful in the real world; this class is purely here to shoot down some students, and waste the time of the rest. Please tell your younger friends and relatives to not come to this school for computer science.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2025
+Grade: NR
+ Verified Reviewer
+April 17, 2025
+Eggert is a great professor, and is obviously very knowledgeable of everything there is to cs. Lectures were very interesting and it was cool studying different programming languages and comparing them. The homeworks were pretty hard tho and the midterm actually wasn’t so bad, but the final was terribly difficult. This class stressed out a bit too much lol.
+
+I can now consider myself a survivor after barely passing.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2025
+Grade: A
+ Verified Reviewer
+April 7, 2025
+131 is definitely better than 35L, but I think that's mostly just because its our second shot at an Eggert class. HW is RIDICULOUS, I mean essentially impossible to do the right way without spending 10+ hours a week. Exams weren't too crazy this quarter, but that doesn't say anything about what future exams will be like. Just like 35L, a lot of this class is very interesting and useful, and a lot of it is a complete waste of time and effort. Overall, I would recommend him for 131, and this really is just one of the classes of all time.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2025
+Grade: A
+ Verified Reviewer
+March 20, 2025
+This is the hardest CS class at UCLA. At every single moment during the class I wanted to blow my brains out. I hate Eggert. The stress he caused me this quarter is more than any other class, and affected my general wellbeing and sleep this quarter. If you have any concern for your wellbeing and sanity, do not take this class. Fuck you Eggert.
+
+edit: after all is said is done, I got an A. However, it cost me all the will I had left in this world.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2024
+Grade: A
+ Verified Reviewer
+June 27, 2024
+Typical Eggert class with lecture, homework, and exam style identical to 35L. However, unlike 35L, the content is much more interesting and follows a logical order (probably due to it being based off of a single textbook). The textbook is a very insightful read and definitely helpful for understanding the material beyond the surface level covered by the lectures. Definitely take Eggert over Carey for this class.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2024
+Grade: A-
+ Verified Reviewer
+June 22, 2024
+The timelord never fails to take years off my life at this school. This class was GREAT--content-wise, as you go through numerous programming languages, starting with OCaml, Prolog, Java, Scheme, Python, and a bit of Rust. However, there is no doubt that this was insanely difficult, at least when it came to the final and HW2 / HW5. Still, this class teaches you so many valuable lessons; take this class at your own risk and be prepared to actually learn so much about programming language design, functional programming, logic programming, and grammar; oh boy. I'd definitely recommend taking this class over Nachie if you definitely WANT to learn and leave feeling somewhat rewarded; otherwise, do what you will.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2024
+Grade: A
+ Verified Reviewer
+June 12, 2024
+131 is just another display of how Eggert continues to carry the CS department. Best lecturer I've ever had by far. This class at times feels like an extension of 35L, where Eggert talks about random-ish topics in the realm of CS and ends up connecting them together. I can see how that's frustrating, but its valuable to see abstraction from his point of view. As usual, his lectures are targeted around high level concepts which he makes intuitive to understand. He does struggle with technical teaching (such as teaching syntax) in my eyes by overcomplicating things. TAs are helpful in clarifying the basics of the languages we go through. Expect to spend your own time actual learning the programming languages he gives a high level overview about.
+
+Besides the self-teaching (which is expected for Eggert anyways), the one other drawback about this class are the HWs. Two of them are just downright impossible (HW 2, HW5) and the other ones require some hard thinking as well. Figure out a way to get the HWs done in any way possible...
+
+Would highly recommend if you're genuinely interested in the subject! If you didn't like 35L with him, definitely don't take this class.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2024
+Grade: A-
+ Verified Reviewer
+May 2, 2024
+egg my beloved !!! by FAR the greatest lecturer at ucla ❤️ wish i could take another class with him. can't speak to other profs but definitely advise u take this class w eggert over nachenberg. personally i found the assignments mostly doable in 2-3 days except for the scheme one (hw5) which was pretty rough. project was super ez. lectures were recorded. for exams, advise rewatching lectures (did this on the final and scored ~upper 20%, didn't do this on the midterm and scored median) and doing some extra programming exercises with each of the languages. i also read the textbook chapters, but i'm not sure they were that helpful so if ur short on time id skip those and focus on finishing the lectures. highly recommend taking 131 with eggert, i learned so much from this class and i felt it wasn't that hard to get a relatively good grade.
+
+Helpful?
+
+ 0
+ 0
+
+
+
+Quarter: Winter 2024
+Grade: A
+ Verified Reviewer
+March 31, 2024
+Eggert 131 is fantastic, but come prepared for war. His teaching style is brilliant if you can keep up - his lectures are packed with insights and you'll learn more than most courses combined. The only catch is the workload. I started this class when I was 20 years old. I'm 24 now. The assignments are intense and time-consuming - this isn't a class, it's a lifestyle change. Quality comes at a cost. Just know what you're signing up for.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2024
+Grade: NR
+ Verified Reviewer
+March 14, 2024
+This class took years off my life. An absurd amount of work if you do it legit
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2024
+Grade: A
+ Verified Reviewer
+Feb. 21, 2024
+Be prepared for one of the hardest courses you will ever take (but you may know that already -- it's a pretty standard Eggert class). The workload is very rough, where homeworks will take you on average 12 hours/week to complete (according to Eggert himself).
+
+That all being said, this was one of the most interesting CS courses I've taken. You truly do get exposed to the entire field of programming languages and will definitely learn not only languages, but ways to think about code and programming. The assignments, while rough, provide great introductions to all programming styles and languages. Eggert's lectures are also (usually, sometimes not) pretty insightful. Take this course if you want a thorough exposure and experience with programming languages.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2023
+Grade: A
+Nov. 8, 2023
+Absolute baller. Want to actually learn programming languages? Want to delve into many, many different programming paradigms? Take Eggert. None of that Carey boof.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2023
+Grade: A
+June 14, 2023
+Eggert. That is all that needs to be said.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2023
+Grade: NR
+ Verified Reviewer
+March 25, 2023
+Completely agree with the previous reviews. The difficulty and workload of this course is beyond ridiculous. Be prepared for a rough quarter if you do decide to take cs 131 with the project lead of the tz database.
+
+Homeworks were so long and hard that it was even funny. HW 2 and 5 were the challenging ones, but IMO the hardest was HW 3 (Java), the one about multithreaded gzip compression. We had less than a week to do that one, which was not nearly enough time. The only upside about this quarter's HW was that we had an autograder to test our submissions.
+
+As usual with Eggert's exams, they have medians of ~ 50 percent and it is very hard to study for them. While many of the written conceptual questions are quite fair given what was covered in lecture, others were not. Many questions had very little to do with the lectures and seemed so random that you could only make an educated guess and move on.
+
+On the bright side, I'm impressed by the TAs for this iteration of cs 131 (s/o to Matthew Wang and Ashwin Ranade). They were very helpful in explaining key programming languages concepts and clarifying assignment specs on Campuswire. TA Matthew even organized a review session the week before the final to go over the most important concepts in this course and answer any questions students had. And many of the key ideas Matthew emphasized in the review session did end up making its way onto the final!
+
+Looking back, I'm grateful that I learned a lot about PLs and more importantly, how to think critically (mostly from the TAs, less so from Eggert). But given the choice, would I choose to take cs 131 with Eggert? Hell no!
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2023
+Grade: N/A
+Feb. 13, 2023
+Homework 2 and homework 3 are so ridiculous this class should never ever exist. Please just take it with Carey.
+Just to add to this - homework 5 sucks too. Fuck Eggert.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2022
+Grade: A
+Sept. 15, 2022
+Everything you've heard about this class is true. The homeworks are awful and nearly impossible to do. The exams are the hardest things you've seen in your life and even Eggert talks about how this class has way more work than you should expect.
+
+Now, even after saying all of this, I have learned so much from this one class and I think I would still take this again especially since it felt so rewarding after I was done.
+
+Now, here is my unsolicited advice on how you can do well in this class. The breakdown was: 24% Homeworks (each 4%), 8% Project, 24% Midterm, 44% Final
+
+The very first thing I recommend doing is starting the homeworks early. Literally the day or the day after they get out. If you're able to stay on top of them and finish them a few days before they're due, then you'll do great in this class. Don't be afraid to ask the TA's for help and make sure you understand the rationale and reasoning on why things are the way they are.
+
+When you eventually fall behind, don't be afraid to just turn in an unfinished homework. It's honestly worse to take the late days because the work just starts pilling up so quickly and coding with deadlines is never a good idea. Given that, it is super important that you get the basic idea of what you would have needed to do (and why you need to do it like that) even if you don't get it working.
+
+For the Project, spend as much time as you can on this. Test your code and make sure that your report is really good. There are a lot of edge cases that are not explained. Check Piazza, so you can keep up to date with the various edge cases people think of because you won't get all of them.
+
+Now, for the Midterm/Final, to add on to what everyone else says, I would also recommend studying by trying to connect the various topics he talks about. For example, think about Garbage Collection methods and the issues that could arise if Java used Python's Garbage Collection. Overall, I studied by trying to connect the topics when I was writing my study guide(had to make 2) and then looking at a few practice exams to see if I knew how to approach it. I was able to do really well on the final and average on the midterm
+
+Good luck to whoever read all of this, you're going to need it
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2022
+Grade: B
+ Verified Reviewer
+July 16, 2022
+This class is awful as everyone else says. Prepare yourself for an awful quarter with ridiculous projects and un-passable exams.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2021
+Grade: NR
+COVID-19
+June 24, 2022
+how could this guy keep lecturing in such a prestigious school?
+it really hurts me that I'm paying about thousands of dollars just to take this kind of shitty, fucked up class.
+getting rid of professors like this would be the first step to develop this school.
+FUCK YOU EGGERT
+
+Quarter: Spring 2022
+Grade: A
+June 22, 2022
+This class is hard as hell. Eggert is an incredibly smart man, and a very good lecturer. But he's a pretty tough professor. Exams are classic Eggert, I think both our midterm and final averages were around 45%, obviously with a hefty curve (although very non-transparent since it only happens for the final grade, so I had no idea what grade to expect until it was posted). The assignments are tough, with low means as well. Projects 2 and 5 are the classic hard ones, but 3 was definitely the hardest for me. 1 4 and 6 are much easier. There is thankfully a very generous late policy, as with all of his classes. TA discussions are crucial to success on the assignments and exams. Overall, the class was very difficult, but I definitely learned a LOT about programming languages, which is the goal of the course. But be prepared for a tough quarter if you're taking this class. I didn't really enjoy it during the quarter, but in hindsight, I'm grateful to have learned so much and to have been exposed to a lot of new ideas and ways of thinking.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2022
+Grade: C+
+COVID-19
+June 19, 2022
+Just an average CS guy but this class almost had me drop out of college. My only motivation at time was only because I'm so close to graduating
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2021
+Grade: A
+COVID-19
+Jan. 6, 2022
+Yes, it's hard, but Eggert is a great lecturer and the content is good. One of the best CS classes here overall
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2021
+Grade: P
+COVID-19
+April 2, 2021
+All I gotta say is, it is a goddamn miracle that I passed this class.
+
+That is all.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2021
+Grade: A-
+COVID-19
+March 29, 2021
+Pretty much like all the other reviews have already said.
+
+Don't take this class, but obviously you have to take it so take it. You'll get through it fine.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2021
+Grade: P
+COVID-19
+March 29, 2021
+Bad. I don't know what I learned and I don't know what I'm looking at when he's drawing diagrams. The only good parts of lecture is when he shares his personal anecdotes or is funny. If you've already taken 111, workload-wise this class is not as bad; the projects are way shorter than 111. Taking 161 is also helpful because Lisp is similar to the languages you have to pick up in this class.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2021
+Grade: C
+COVID-19
+March 29, 2021
+This is the most pointless and unreasonably tough courses I have taken at UCLA. You will teach yourself 90% of the material. The projects, with the exception of hw1,hw4, and the project, are all unreasonably difficult and convoluted, and really, nobody knows whats happening and you can bet that tons of students in the course are githubbing most of the hard parts. The exams are written the night before, as stated by the professor, and the averages can wildly vary from 50%-70%. Make sure you read the book and/or review lecture to perform as well as one can on his exams. As usual with eggert you can expect a fat curve at the end but its never consistent so you cant rely on it. FWIW, when I calculated my raw grade with all assignments/exams graded I had a 59.9, and came out with a C .
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2020
+Grade: P
+COVID-19
+March 27, 2021
+Honestly people should be pretty prepared for a difficult class whenever it's with Professor Eggert. Projects are time consuming (especially for the second OCaml and the Scheme one). Tests are difficult but something might help for all Eggert tests: they are more about intuitions, so basically whenever you come up with some sort of answer, just write, don't even bother to think too much or too deep about the them. Just let your intuition guide you through would be less confusing and might give better outcomes. Ahhh all that being said I do learn many things in this class and honestly Eggert lectures are good, it's homework and tests that sucks :))
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2020
+Grade: A
+COVID-19
+March 2, 2021
+I mean... it's Eggert.
+This class is insanely hard, because it's Eggert. The tests are difficult even after watching every lecture, studying, doing the projects, and reading the textbook. That's just how it is. But the curve is great! Midterm and final were both very low averages, but significantly curved, as is classic in Eggert's classes. The lectures focused on the theory behind programming languages in general, as well as the theory behind specific languages (OCaml, Prolog, Java, I'm probably missing one). The projects were much more focused on exploiting specific features of those languages. The final project was non-programming, but rather a comparison of features among a few languages based on what we'd learned in the class. Projects were /insanely/time-consuming if you didn't have help, so start early and set aside a lot of time.
+Lectures, as always with Eggert, were engaging and interesting, but kinda hard to follow since they are rarely organized and linear.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2020
+Grade: A
+COVID-19
+July 4, 2020
+[ONLINE QUARTER REVIEW] I got hammered by 35L, so I really wasn't looking forward to this Eggman class. However, I found that I liked the material a lot more and actually kept up with it through the quarter.
+- Lifesaver: https://github.com/CS131-TA-team/UCLA_CS131_CodeHelp
+- Do the coding assignments yourself, or at the very least, try for a while before succumbing to github. The TA help code above makes doing the assignments by yourself a lot easier than it may have been in previous years. I found that doing the assignments legit made the midterm and final a lot more manageable.
+- Eggert is a very captivating lecturer, but you might feel like he rambles a bit (he does). However, he tests on the obscure parts of his lecture. Make sure you have a transcript of all the notes going into the tests.
+
+My biggest criticism of this class is that as soon as you get good at a programming language, you have to switch to a new one. And the scheme project is a complete bitch.
+
+Show More
+
+Quarter: Spring 2020
+Grade: A
+COVID-19
+ Verified Reviewer
+June 20, 2020
+Like every other review on here, this class is hard. It's a ton of work. The exams are very eggert. He said on the day of the final that there was a question on it that he didn't know the answer to. The biggest piece of advice I can provide is to make sure that you do this with other courses that are easy because this class is a huge time suck.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2020
+Grade: A
+COVID-19
+June 20, 2020
+note: class taken remotely during covid-19.
+tl;dr his lectures are intense but pretty great, projects take a LONG LONG time, exams are nearly impossible, but VERY GENEROUS CURVE.
+
+workload for this class is incredibly heavy even when I didn't do any of the readings assigned for this class. the projects simply are incredibly difficult and I wouldn't recommend you wasting too much time to figure them out yourselves. Definitely try it yourself first for 2-3 hrs, and then please do yourself a favor to reference github when you can't figure it out. otherwise, you will NOT have time for your other classes and will very likely not figure it out at all. don't feel bad about it because almost everyone i knew referenced github at some point. just make sure you understand the code from github 100% then you'll be fine for the assessments and will learn the material. hardest project was 2nd ocaml project and the scheme project, so brace yourself!
+
+definitely attend TAs discussion because they will 130% help you and give you hints for doing the projects! s/o to kimmo who was an amazing TA this quarter :) honestly all the TAs were pretty great too.
+
+his lectures are one of the best at ucla cs and i definitely learned a lot about programming languages from his lectures. these are concepts I can apply to even languages we didn't cover in class, and will definitely help me in my cs career in the future. So, definitely take eggert if you want to learn a lot.
+
+personally, i ended up fine by not doing the readings, but if you have time, please do because you will be able to learn even more. don't worry too much about your performance in the midterm/final. I was around the top 30% and still managed to get a solid A. but maybe it was just because eggert was being nice because of covid and the protests that were going on.
+
+this class will be rough, but if you actually understand the projects and attend lecture, you will do just fine !!
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2020
+Grade: A
+June 13, 2020
+The class itself was pretty useful because we are exposed to different types of programming languages that are not just the usual imperative languages. The homeworks however are pretty difficult, especially the scheme and 2nd Ocaml ones. However, I enjoyed the Prolog assignment and the python project. Professor Eggert is extremely nice and I highly recommend going to his office hours for clarifications and extra help of concepts covered in class. I took CS111 with him as well and for me CS111 was definitely a lot easier than CS131. I recommend him for CS111 as he is really knowledgeable about the material and I learned a lot from that class. However, he is basically the only one that teaches 131 so you really have no choice for who to take it with this class. Good luck!
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Winter 2020
+Grade: B-
+June 9, 2020
+This class sucks, plain and simple. Programming paradigms are actually something I have some genuine appreciation for, and I can understand Eggert's passion for how good programming language design choices affect project design. It's intuitive and interesting to me. But every aspect of this class is painful and stressful, almost as if by design. It is essentially 2 classes at once: one where you try 30-40 hours a week to keep up with Eggert's project specs and cobble together a working set of code each week, where the TAs (no fault on their part) are sometimes just as confused as you are. I wouldn't wish Project 2 on my worst enemy. The other is an actual programming language course, where the lectures are relatively hit-or-miss as far as how engaging and relevant they are to the course material. Did I mention that every page of the 500-page textbook is fair game for the exams?
+
+The number of all-nighters I had to pull, the amount of time I had to take from other classes just to get the grade I did, the toll on my mental health, not worth it. Never again.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Fall 2019
+Grade: N/A
+ Verified Reviewer
+Dec. 12, 2019
+The textbook for this class is actually amazing. Highly recommend dishing out the fat stacks of cash to buy it because it is well worth it. It is easy to understand, often funny, engaging, AND it covers EVERYTHING Eggert talks about in lecture. Seriously. Honestly, don't go to a single lecture. It's a waste of time. Just read the textbook, it's much better at explaining than Eggert.
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2018
+Grade: N/A
+Sept. 26, 2019
+Good class, learned a lot, textbook was very helpful for exams! Selling textbook, Modern Programming Languages by Adam Brooks Webber. If interested, text me at **********
+
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2019
+Grade: A
+June 25, 2019
+Comparing to his 111, Professor Eggert's 131 is much more managable. All you need to do is understand his lecture content and know your homeworks & projects by heart during exams.
+
+Helpful?
+
+ 1
+ 0
+
+Quarter: Spring 2019
+Grade: A
+June 25, 2019
+Just to give you some general tips to help you succeed in this class:
+hw1 and hw2 are OCaml functional programming. hw1 is easy, but hw2 is exponentially harder (probably the hardest one), so make sure you start early on this one.
+hw3 (concurrency in Java) is probably the easiest, but you need to derive data and write report.
+hw4 (prolog) is intermediate difficulty, but lots of people may find functional programming hard to understand at first, and you need to figure out how to optimize performance to get full score.
+hw5 (scheme) is also intermediate difficulty, but I personally find this one the hardest to understand. Personally, I insist the spec and my solution on this one is quite sloppy, even though I got full score.
+hw6 basically requires no programming.
+Project (asyncio in Python) is not hard on the logic side, but you need to understand the asyncio library in Python and the concept of server and client.
+
+As for the lecture, you can learn a lot if you do the reading and pay full attention to Eggert's lecture. However, unlike the experience of others, I found his lecture quite hard to follow (I feel like I have not mastered adequate background knowledge in CS to understand his points).
+
+As for the exam, based on the response of my peers, the midterm tends to be easier than the final, although I did better on the final (I score fairly above the median in both and get an A). One thing to notice is that some open-end questions are actually quite hard to get points, so fully develop you arguments and provide enough technical details to back it up. One general strategy to eggert's exam is always to remain calm, pick the battle you can fight, and aim for every possible points.
+
+Some side notes: go the the discussion as the TA will explain the spec for you; I personally find that CS131+CS181 combo is quite helpful since both of them talks about grammar, and I notice that there are handful of students in both lecture (although CS181 is usually recommended as the last CS class to take).
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2019
+Grade: NR
+June 23, 2019
+Haven't gotten a grade for this class yet. The first two homeworks are insanely hard (and its only like a couple functions you need to write for each) but when you finish them it's smooth sailing (for the most part). There is only one midterm which is nice and I found it to be a lot easier than every Eggert midterms I've ever taken. The final was rough though and left me leaving with the same sadness that Eggert usually does on a test. There is one project in this class which isn't too bad on the coding end and mostly focuses on the report. The homeworks are difficult but piazza is your best friend. The scheme and prolog homeworks were medium difficulty. The java homework is really easy and is mainly focused on the report as well and so is the last homework (the language for this one varies). Lectures are SUPER useful and I find that he is a lot better at teaching this course than cs 33 (but maybe that's just cuz 33 is a harder subject). You don't need to read the book really but it is also helpful and gives a deeper understanding. He pretty much goes over whatever's in the book in lecture a few days later. Best Eggert class I've taken but still difficult as always.
+
+Show More
+Helpful?
+
+ 0
+ 0
+
+Quarter: Spring 2019
+Grade: N/A
+June 14, 2019
+I really wanted to like this class because Eggert was legitimately an interesting lecturer (unlike his CS33). I felt I learned a lot by going to class. Unfortunately that's ruined by every other part of this course.
+
+TAs are one of the most important parts of getting through this class. Go to different discussions and compare with your friends. A good TA makes all the difference and some are more generous about giving tips on the homework than others. A few of the assignments involve written reports, which is annoying but at the same time is easier than the 100% code ones. I'd rather write more reports than pull my hair out over OCaml .
+
+Tests are your standard Eggert tests. It's open book/note so bring all the things you want but it just comes down to whether you're lucky enough that the things you focus on happen to be what he write questions about.
+

@@ -1,0 +1,35 @@
+Quarter: Fall 2025
+Grade: A
+April 7, 2026
+I’d highly recommend the course if you want to learn a lot about computer systems!
+
+I think Prof. Kumar gives very clear and interesting lectures. He covers a lot of material, but he lectures at a comfortable pace. Exams are difficult, but the class has generous grade cut-offs, which he increased when students did poorly on the exams. The homework assignments took maybe ~8 hours each when done with a good group and were interesting (implementing systems software and parts of an OS).
+
+Quarter: Spring 2025
+Grade: A
+Feb. 20, 2026
+I thought Kumar was pretty good. He explained things well and his slides were very detailed. He also released previous exams and quizzes to study for exams from. I thought the homeworks and exams were reasonable and doable, not very easy though.
+
+Quarter: Fall 2025
+Grade: A-
+Feb. 20, 2026
+CS 111 is hell. If you don't want to have 100+ slides every lecture, don't take with him. Also the assignment he gaves is from UCB, which is much harder than the UCLA versions
+
+Quarter: Fall 2025
+Grade: N/A
+Dec. 13, 2025
+I wouldn't say 111 is an easy class, but it's manageable if you don't fall behind on watching lectures (going to lecture in-person is a great way to stay on top of things). Lectures can be dry, but Sam Kumar knows what he's talking about and was always happy to answer questions. His slides were well-organized, and his live demos went smoothly. Overall it was a solid class.
+
+Homework: There were six vitamins, two of which (implementing parts of a kernel) were done in groups of 3-4. Having a good group definitely helped.
+Grading: 45% vitamins (homework), 20% midterm, 30% final, 5% participation. The raw cutoff score for an A was 88%.
+Textbook: optional. Recommended reading: Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Operating Systems: Principles and Practice by Thomas Anderson and Michael Dahlin (Second edition).
+
+Quarter: Fall 2025
+Grade: NR
+Dec. 11, 2025
+Not an easy class. Midterm was fine, but the final was a cook. Make sure you get a good group.
+
+Quarter: Fall 2025
+Grade: B+
+Dec. 9, 2025
+I would stay away from taking CS 111 with Kumar. Lectures are very dense, and Sam is a poor lecturer, making learning the material difficult. The textbook is a great resource to learn about OS, and goes into greater depth on the topics. However, it won't help too much with the exams. The average on the midterm was ~60 and on the final ~50, making the average raw grade in the class a B-, which is quite harsh among all the 111 professors. For a point of reference, I scored a std above the mean on the final and slightly above avg on the midterm. This performance should've put me in roughly the upper 20-25% of the class, but I still ended up with a B+. The midterm was mostly reasonable, with most questions testing the big ideas of the course, making studying actually helpful. But, as the other reviewer mentioned, the final was a cook. There was a BS coding question worth ~30% of the exam that was unlike anything seen in lecture or the assignments. Most students I spoke to had no clue how to do it, meaning 10% of your grade was basically forfeited. Many of the other questions also tested niche topics that were not the main concepts from the course. After the final, we also couldn't see our exam or request a regrade, leaving many of us wondering how our exam was graded. The 6 coding assignments were also pretty time consuming because they were quite disconnected from lecture material.

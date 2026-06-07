@@ -1,5 +1,7 @@
 # The Unofficial Guide — Project 1
 
+**Demo video:** https://youtu.be/S4wJ7lR6gqw
+
 ---
 
 ## Domain
@@ -103,7 +105,7 @@ Source attribution is appended **programmatically** from chunk metadata after ge
 
 *"Which UCLA CS professor is most recommended for introductory programming?"*
 
-**What the system returned:**
+**What the RAG system returned:**
 
 > "Based on the provided review excerpts, Professor Eggert is highly recommended for introductory programming, specifically for CS111."
 
@@ -113,7 +115,7 @@ The failure happened at **retrieval**. The query asked about "introductory progr
 
 This is a case where grounding technically succeeded (the model cited a real source) but the answer was still wrong because the retrieved chunk did not actually address the question. The system prompt prevents hallucination but cannot prevent the model from misapplying a retrieved fact.
 
-**What you would change to fix it:**
+**What needs to be changed to fix it:**
 
 Add a distance threshold filter in `retrieve()`: if the top result exceeds a cosine distance of 0.45, treat the query as unanswerable and return the refusal response rather than passing weak chunks to the LLM. This would have caught this query (top distance: 0.39 — borderline) and prevented the model from being given context that only superficially matched the question.
 
@@ -121,11 +123,11 @@ Add a distance threshold filter in `retrieve()`: if the top result exceeds a cos
 
 ## Spec Reflection
 
-**One way the spec helped you during implementation:**
+**One way the spec helped during implementation:**
 
 The planning.md chunking strategy section specified chunk size, overlap, and the reasoning behind review-atomic chunking before any code was written. When profiling revealed that 37% of reviews exceeded the model's 256-token limit, the reasoning in the spec ("one chunk per review preserves a complete opinion") made it immediately clear *why* the original approach was right for short reviews and *why* it needed a different mode for long ones. Without that written reasoning, it would have been tempting to just switch to a uniform sliding window — which would have destroyed the completeness of short reviews.
 
-**One way your implementation diverged from the spec, and why:**
+**One way the implementation diverged from the spec, and why:**
 
 The spec called for a pure sliding window with fixed word-count boundaries. The implementation replaced this with a sentence-aware window that only splits at sentence boundaries (`re.split(r"(?<=[.!?])\s+", ...)`). The reason: inspecting 5 representative chunks revealed that fixed word-count splits produced chunks ending mid-sentence — "the midterm is all multiple choice" cut to "the midterm is all multiple" — which made individual chunks unreadable on their own and would confuse the LLM during generation. The sentence-aware split added a small amount of complexity but made every chunk a self-contained, readable unit.
 

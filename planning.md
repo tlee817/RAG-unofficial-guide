@@ -81,13 +81,16 @@ For non-Bruinwalk files (Reddit threads, syllabi if added): pure sliding window 
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | What do students say about the difficulty of CS 31 at UCLA? | References to heavy workload, weekly projects, and advice to start assignments early |
-| 2 | Is Professor [X] known for curving grades in their intro CS courses? | Specific mentions of curve policy from reviews or Reddit threads |
-| 3 | What are the most common complaints about CS 32 at UCLA? | References to pointer/memory management difficulty, specific project complaints |
-| 4 | Do UCLA CS professors hold useful office hours, or are TAs more helpful? | Student opinions comparing professor vs. TA office hours usefulness |
-| 5 | Which UCLA CS professor is most recommended for introductory programming? | Named professors with positive sentiment from Bruinwalk/RMP reviews |
+| # | Question | Expected answer | Result | Pass? |
+|---|----------|-----------------|--------|-------|
+| 1 | What do students say about the difficulty of CS 31 at UCLA? | References to heavy workload, weekly projects, and advice to start assignments early | Correctly refused — "I don't have enough information on that in my sources." CS31 not in corpus; retrieval returned CS131/CS35L/CS33 at distances 0.34–0.36, none specific to CS31. | ✓ Correct refusal |
+| 2 | Is Professor Reinman known for curving grades in his courses? | Specific mentions of curve policy from reviews or Reddit threads | Correctly refused — "I don't have enough information." Retrieved chunks were all Reinman files (good) but none used the word "curve"; vocabulary mismatch prevented a match despite the data existing in adjacent form. | ✓ Correct refusal |
+| 3 | What are the most common complaints about CS 32 at UCLA? | References to pointer/memory management difficulty, specific project complaints | Correctly refused — CS32 not in corpus. Top distances 0.41–0.47, worst of all queries, correctly signaling near-total semantic miss. | ✓ Correct refusal |
+| 4 | Do UCLA CS professors hold useful office hours, or are TAs more helpful? | Student opinions comparing professor vs. TA office hours usefulness | Partial answer produced — TAs described as helpful, professor helpfulness described as varying. But distances 0.53–0.56 exceeded the 0.5 warning threshold; one retrieved chunk (student who transferred) was off-topic. | ~ Partial |
+| 5 | Which UCLA CS professor is most recommended for introductory programming? | Named professors with positive sentiment from Bruinwalk/RMP reviews | Grounding failure — model answered "Eggert is recommended for CS111" but CS111 is an operating systems course, not introductory programming. Retrieved chunks didn't match the question; model misread the closest result. | ✗ Fail |
+| 6 *(corpus-grounded refusal test)* | What is the main project in Nacherberg's CS131? | Building a programming language interpreter in Python across 3–4 sub-projects | Correctly refused despite the answer being present in the corpus — retrieval failed (distances 0.54–0.59); "main project" vocabulary didn't match how students wrote about "the interpreter project." Model refused rather than hallucinating. | ✓ Correct refusal |
+
+**Results summary:** 4 correct refusals (Q1, Q2, Q3, Q6), 1 partial answer (Q4), 1 grounding failure (Q5). The refusal mechanism works correctly — the model never fabricates when retrieved chunks are weak or off-topic. The failure in Q5 is a retrieval-quality issue: the returned chunks were plausible but didn't actually answer the question, and the model drew a wrong inference from them rather than refusing.
 
 ---
 

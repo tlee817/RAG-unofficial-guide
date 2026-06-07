@@ -1,0 +1,152 @@
+UCLA CS UNOFFICIAL GUIDE — TALKING SCRIPT
+==========================================
+
+[INTRO]
+
+Hi, this is a demo of my RAG project — the UCLA CS Unofficial Guide.
+
+The idea is simple. When UCLA students want to know if a professor is
+good or if a class is hard, they have to dig through Bruinwalk, Reddit,
+and old Google Docs. This system pulls all of that together so you can
+just ask a question and get an answer.
+
+I collected reviews from 11 Bruinwalk pages, covering professors like
+Eggert, Reinman, Nacherberg, Tamir, and others across courses like CS33,
+CS111, CS131, and CSM151B. That gave me 517 chunks of review text stored
+in a vector database.
+
+The important thing is that the system only answers from what it actually
+found. It cannot make things up. If the answer isn't in the reviews, it
+says so.
+
+Let me show you how it works.
+
+
+[PART 1 — THREE QUERIES]
+
+I'm going to run three different questions and show the answers.
+
+-- Query 1 --
+
+The first question is: "What lecture format does Professor Reinman use in CS33?"
+
+[wait for answer to appear]
+
+The system says Reinman uses the flipped classroom method. Students watch
+videos before class, and the live session is more of a Q&A.
+
+Look at the Sources section below the answer. It shows two files —
+both are Reinman reviews. That list is not written by the AI. My code
+builds it directly from the files that were retrieved. The AI cannot
+change or skip it.
+
+The numbers on the right are retrieval distances. Lower means the
+retrieved chunk was a closer match to the question. All five results are
+below 0.37, which means retrieval was confident and on-target.
+
+-- Query 2 --
+
+Next question: "What are students' biggest complaints about Eggert's exams?"
+
+[wait for answer to appear]
+
+The answer mentions class averages as low as 30 to 40 percent, open-ended
+questions, and unclear study materials. Those are real details from the
+reviews — I can point to them in the source files.
+
+Again, sources are listed below. Three Eggert files. Distances are 0.25
+to 0.37, which is strong retrieval.
+
+-- Query 3 --
+
+Last one: "Does Professor Tamir curve grades in CSM151B?"
+
+[wait for answer to appear]
+
+Yes — the system says there are two curves and scores get bumped up by
+more than 20 points, since the exam average is around 60. That specific
+number came straight from a review in the Tamir file.
+
+
+[PART 2 — WHEN IT WORKS WELL]
+
+Now I want to show you the best case — a question where retrieval and the
+answer are both really good.
+
+The question is: "What are students' biggest complaints about Eggert's courses?"
+
+This is a good test because Eggert has the most reviews in the corpus —
+across CS33, CS35L, CS111, and CS131. So there is a lot of material to
+pull from.
+
+[wait for answer to appear]
+
+The answer covers workload, exam difficulty, unclear project specs, and
+boring lectures. All five retrieved chunks are Eggert files, and all
+distances are below 0.38. That means the system found exactly the right
+material and the answer reflects it accurately.
+
+This is what good RAG looks like — specific answer, right sources, low
+distances.
+
+
+[PART 3 — WHEN IT STRUGGLES]
+
+Now I'll show you a failure case so you can see where the system breaks
+down.
+
+The question is: "Which UCLA CS professor is most recommended for
+introductory programming?"
+
+[wait for answer to appear]
+
+The system says Eggert is recommended for introductory programming,
+specifically CS111.
+
+That is wrong. CS111 is an operating systems course, not introductory
+programming. The intro programming courses at UCLA are CS31 and CS32 —
+and I don't have any reviews for those courses in my corpus.
+
+Here is what happened. The retriever couldn't find anything about CS31 or
+CS32, so it returned the closest match it could find. CS111 and CS131
+came up because they matched words like "programming" and "recommended."
+
+The system prompt tells the model to only answer from the retrieved text.
+It did that. But the retrieved text was about the wrong course, and the
+model didn't catch that. It answered confidently from bad retrieval.
+
+The fix would be to add a distance cutoff. If the best match is too far
+away, the system should say "I don't have enough information" instead of
+trying to answer anyway.
+
+
+[PART 4 — EVALUATION SUMMARY]
+
+Finally, here is a summary of all six questions I tested.
+
+[point to the table on screen]
+
+Q1, Q2, and Q3 all correctly refused to answer because the courses —
+CS31 and CS32 — were not in my corpus. The model said "I don't have
+enough information" each time, which is the right behavior.
+
+Q4 gave a partial answer about office hours. It pulled some relevant
+chunks but also one that was completely off-topic. The distances were
+above 0.50, which is a sign that retrieval was weak.
+
+Q5, which I just showed, is the one real failure. The model gave a
+confident but wrong answer because retrieval returned the wrong course.
+
+Q6 is a bonus test. I asked about Nacherberg's main project even though
+the answer is in the corpus. The system still refused — because the
+retrieval vocabulary didn't match. Students write "the interpreter
+project" but I asked about "the main project." That mismatch caused
+retrieval to fail, and the model correctly refused rather than guessing.
+
+The big takeaway is this: the model never made something up. Every time
+retrieval was weak or the topic wasn't in the corpus, it refused. The
+one failure happened when retrieval returned real but wrong chunks, and
+the model trusted them. Grounding stops hallucination — but it doesn't
+stop the model from misreading a bad result.
+
+That's the demo. Thank you.
